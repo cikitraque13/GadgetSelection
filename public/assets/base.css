@@ -1,0 +1,21 @@
+*{
+    box-sizing:border-box;
+    margin:0;
+    padding:0;
+}
+
+body{
+    font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+    background:#f5f7fb;
+    color:#1a1a1a;
+}
+
+main{
+    background:#f4f6fb;
+}
+
+.container{
+    max-width:1200px;
+    margin:0 auto;
+    padding:32px 24px;
+}

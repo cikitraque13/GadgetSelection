@@ -1,0 +1,24 @@
+{
+    "id": "dolor-cervical",
+    "world_id": "dolor-ergonomia",
+    "title": "Dolor cervical",
+    "slug": "dolor-cervical",
+    "description": "Gadgets para reducir tensi\u00f3n de cuello, mejorar postura y evitar sobrecarga cervical en el d\u00eda a d\u00eda.",
+    "image": "/public/assets/images/needs/dolor-ergonomia/dolor-cervical.png",
+    "gadget_types": [
+        "masajeadores cervicales",
+        "almohadas cervicales",
+        "soportes de port\u00e1til",
+        "elevadores de monitor",
+        "correctores posturales",
+        "reposacabezas ergon\u00f3micos",
+        "pistolas de masaje compactas",
+        "almohadillas t\u00e9rmicas"
+    ],
+    "gadgets": [],
+    "seo": {
+        "title": "Dolor cervical | GadgetSelection",
+        "description": "Gadgets para reducir tensi\u00f3n de cuello, mejorar postura y evitar sobrecarga cervical en el d\u00eda a d\u00eda."
+    },
+    "status": "draft"
+}

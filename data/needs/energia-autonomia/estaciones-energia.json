@@ -1,0 +1,24 @@
+{
+    "id":  "estaciones-energia",
+    "world_id":  "energia-autonomia",
+    "title":  "Estaciones de energía",
+    "slug":  "estaciones-energia",
+    "description":  "Power stations para alimentar nevera, luces, portátil, móviles y pequeños equipos durante escapadas en camper, caravana o camping base.",
+    "image":  "/public/assets/images/needs/energia-autonomia/estaciones-energia.png",
+    "gadget_types":  [
+                         "power stations compactas",
+                         "estaciones 500Wh",
+                         "estaciones 1000Wh",
+                         "baterías LiFePO4",
+                         "kits estación + panel",
+                         "estaciones para nevera 12V"
+                     ],
+    "gadgets":  [
+
+                ],
+    "seo":  {
+                "title":  "Estaciones de energía para camper y camping | GadgetSelection",
+                "description":  "Power stations portátiles para camper, caravana, camping base y respaldo eléctrico fuera de casa."
+            },
+    "status":  "published"
+}

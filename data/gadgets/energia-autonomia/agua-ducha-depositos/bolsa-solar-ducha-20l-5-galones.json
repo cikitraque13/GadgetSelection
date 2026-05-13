@@ -1,0 +1,31 @@
+{
+    "id":  "bolsa-solar-ducha-20l-5-galones",
+    "title":  "Bolsa Solar de Ducha 20L 5 Galones",
+    "brand":  "No especificada",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "agua-ducha-depositos"
+                 ],
+    "category":  "ducha solar camping",
+    "ranking":  2,
+    "ranking_label":  "Mejor ducha solar",
+    "summary":  "Bolsa de ducha solar de 20 litros para calentar agua al sol y ducharse en camping, camper o escapadas de verano.",
+    "best_for":  "Ducharse con agua templada sin bateria, bomba ni instalacion electrica.",
+    "not_for":  "Quien necesita presion constante o uso nocturno sin sol previo.",
+    "score":  8.6,
+    "price":  "17,90 EUR",
+    "pros":  [
+                 "20 litros de capacidad",
+                 "Funciona sin bateria",
+                 "Precio bajo",
+                 "Buena solucion de verano"
+             ],
+    "cons":  [
+                 "Depende del sol",
+                 "Menos comoda que una ducha electrica"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/agua-ducha-depositos/bolsa-solar-ducha-20l-5-galones.png",
+    "affiliate_url":  "https://amzn.to/42pFFKe",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,32 @@
+{
+    "id":  "ugreen-finetrack-duo-4pack",
+    "title":  "UGREEN FineTrack Duo 4 Pack",
+    "brand":  "UGREEN",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "localizadores-bluetooth"
+                 ],
+    "category":  "localizadores Bluetooth de viaje",
+    "ranking":  5,
+    "ranking_label":  "Mejor pack versatil",
+    "summary":  "Pack de 4 localizadores Bluetooth con soporte para iOS Find My o Android Find Hub, carga USB-C y uso en llaves, equipaje, cartera o mochila.",
+    "best_for":  "Viajeros que quieren repartir localizadores entre maleta, mochila, cartera y llaves con compatibilidad moderna.",
+    "not_for":  "Quien busca el ecosistema oficial Apple AirTag o Samsung SmartTag.",
+    "score":  8.1,
+    "price":  "33,99 EUR",
+    "pros":  [
+                 "Pack de 4",
+                 "USB-C",
+                 "Compatible con iOS o Android",
+                 "Marca UGREEN"
+             ],
+    "cons":  [
+                 "No es producto oficial Apple o Samsung",
+                 "Conviene revisar compatibilidad antes de comprar",
+                 "No es GPS real"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/localizadores-bluetooth/ugreen-finetrack-duo-4pack.png",
+    "affiliate_url":  "https://amzn.to/4uGH7nv",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

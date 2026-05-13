@@ -1,0 +1,32 @@
+{
+    "id":  "amazon-basics-tablero-equilibrio-madera",
+    "title":  "Amazon Basics Tablero de Equilibrio de Madera",
+    "brand":  "Amazon Basics",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "movilidad-estiramientos"
+                 ],
+    "category":  "tabla equilibrio propiocepcion",
+    "ranking":  6,
+    "ranking_label":  "Mejor equilibrio y control",
+    "summary":  "Tablero de equilibrio de madera oscilante para trabajo de estabilidad, control corporal, tobillo, pie y propiocepcion.",
+    "best_for":  "Mejorar equilibrio, control corporal, estabilidad de tobillo y coordinacion en rutinas de movilidad.",
+    "not_for":  "Quien busca soporte articular pasivo, cardio o entrenamiento de fuerza pesada.",
+    "score":  8,
+    "price":  "12,90 EUR",
+    "pros":  [
+                 "Precio bajo",
+                 "Madera",
+                 "Trabajo de equilibrio",
+                 "Compacto"
+             ],
+    "cons":  [
+                 "No es para principiantes absolutos sin apoyo",
+                 "Uso limitado",
+                 "Puede resbalar si se usa mal"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/movilidad-estiramientos/amazon-basics-tablero-equilibrio-madera.png",
+    "affiliate_url":  "https://amzn.to/4dcuvgQ",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

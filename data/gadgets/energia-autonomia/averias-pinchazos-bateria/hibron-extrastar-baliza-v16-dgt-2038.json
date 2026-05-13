@@ -1,0 +1,31 @@
+{
+    "id":  "hibron-extrastar-baliza-v16-dgt-2038",
+    "title":  "HIBRON EXTRASTAR Baliza V16 Homologada DGT",
+    "brand":  "HIBRON EXTRASTAR",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "averias-pinchazos-bateria"
+                 ],
+    "category":  "baliza emergencia v16",
+    "ranking":  5,
+    "ranking_label":  "Mejor baliza V16",
+    "summary":  "Baliza V16 homologada con geolocalizacion DGT 3.0 y datos incluidos hasta 12/2038 para señalizar emergencias en carretera.",
+    "best_for":  "Señalizar una averia o parada peligrosa sin salir del vehiculo mas de lo necesario.",
+    "not_for":  "Iluminacion de camping o linterna de uso general.",
+    "score":  9,
+    "price":  "19,81 EUR",
+    "pros":  [
+                 "Homologada DGT",
+                 "Geolocalizacion DGT 3.0",
+                 "Datos incluidos hasta 12/2038",
+                 "Producto muy alineado con normativa española"
+             ],
+    "cons":  [
+                 "Uso especifico de emergencia",
+                 "No sustituye mantenimiento preventivo"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/averias-pinchazos-bateria/hibron-extrastar-baliza-v16-dgt-2038.png",
+    "affiliate_url":  "https://amzn.to/4d3iZpf",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,31 @@
+{
+    "id":  "yusman-arrancador-coche-8000a",
+    "title":  "YUSMAN Arrancador de Coche 8000A",
+    "brand":  "YUSMAN",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "averias-pinchazos-bateria"
+                 ],
+    "category":  "arrancador de bateria",
+    "ranking":  1,
+    "ranking_label":  "Mejor arrancador potente",
+    "summary":  "Arrancador de coche 12V con pico de 8000A, pantalla LCD, linterna LED de emergencia y carga rapida para gasolina o diesel.",
+    "best_for":  "Camper, coche o furgoneta con riesgo de quedarse sin bateria en ruta.",
+    "not_for":  "Quien busca tambien inflador integrado para neumáticos.",
+    "score":  9.1,
+    "price":  "44,10 EUR",
+    "pros":  [
+                 "Pico de 8000A",
+                 "Pantalla LCD",
+                 "Linterna LED de emergencia",
+                 "Precio competitivo para la potencia"
+             ],
+    "cons":  [
+                 "No sustituye revisar la bateria si falla a menudo",
+                 "Hay que mantenerlo cargado"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/averias-pinchazos-bateria/yusman-arrancador-coche-8000a.png",
+    "affiliate_url":  "https://amzn.to/4tx8Iqq",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

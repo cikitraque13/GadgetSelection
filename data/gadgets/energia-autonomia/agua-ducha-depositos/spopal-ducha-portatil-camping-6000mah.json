@@ -1,0 +1,31 @@
+{
+    "id":  "spopal-ducha-portatil-camping-6000mah",
+    "title":  "Spopal Ducha Portatil Camping 6000mAh",
+    "brand":  "Spopal",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "agua-ducha-depositos"
+                 ],
+    "category":  "ducha recargable camper",
+    "ranking":  1,
+    "ranking_label":  "Mejor ducha recargable",
+    "summary":  "Ducha electrica recargable con bateria de 6000mAh, pantalla de temperatura y doble velocidad para ducharse o limpiar equipo fuera de casa.",
+    "best_for":  "Camper, camping, playa, perros, barro y duchas exteriores sin instalacion fija.",
+    "not_for":  "Quien solo quiere una bolsa solar simple sin bateria ni bomba.",
+    "score":  9.2,
+    "price":  "36,09 EUR",
+    "pros":  [
+                 "Bateria recargable de 6000mAh",
+                 "Pantalla de temperatura",
+                 "Doble velocidad",
+                 "Uso claro en camper y camping"
+             ],
+    "cons":  [
+                 "No calienta el agua por si sola",
+                 "Depende de bateria cargada"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/agua-ducha-depositos/spopal-ducha-portatil-camping-6000mah.png",
+    "affiliate_url":  "https://amzn.to/3Ry7rSm",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

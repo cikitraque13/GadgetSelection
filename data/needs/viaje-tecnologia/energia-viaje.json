@@ -1,0 +1,24 @@
+{
+    "id": "energia-viaje",
+    "world_id": "viaje-tecnologia",
+    "title": "Energ\u00eda de viaje",
+    "slug": "energia-viaje",
+    "description": "Soluciones compactas para cargar m\u00f3vil, port\u00e1til, auriculares y accesorios durante viajes.",
+    "image": "/public/assets/images/needs/viaje-tecnologia/energia-viaje.png",
+    "gadget_types": [
+        "powerbanks compactos",
+        "cargadores GaN",
+        "cables USB-C cortos",
+        "regletas compactas",
+        "adaptadores universales con carga",
+        "cargadores inal\u00e1mbricos plegables",
+        "bater\u00edas magn\u00e9ticas",
+        "kits de carga de viaje"
+    ],
+    "gadgets": [],
+    "seo": {
+        "title": "Energ\u00eda de viaje | GadgetSelection",
+        "description": "Soluciones compactas para cargar m\u00f3vil, port\u00e1til, auriculares y accesorios durante viajes."
+    },
+    "status": "draft"
+}

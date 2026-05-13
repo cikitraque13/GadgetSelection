@@ -1,0 +1,32 @@
+{
+    "id":  "polar-h9-sensor-frecuencia-cardiaca",
+    "title":  "Polar H9 Sensor de Frecuencia Cardiaca",
+    "brand":  "Polar",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "hidratacion-medicion"
+                 ],
+    "category":  "sensor frecuencia cardiaca",
+    "ranking":  3,
+    "ranking_label":  "Mejor sensor de esfuerzo",
+    "summary":  "Sensor de frecuencia cardiaca con ANT+ y Bluetooth, resistente al agua y con banda elastica para entrenar en gimnasio, ciclismo, running o deporte al aire libre.",
+    "best_for":  "Medir esfuerzo cardiovascular con mas precision que una pulsera durante entrenamientos.",
+    "not_for":  "Quien prefiere no usar banda de pecho o solo quiere datos basicos aproximados.",
+    "score":  8.7,
+    "price":  "49,90 EUR",
+    "pros":  [
+                 "ANT+ y Bluetooth",
+                 "Resistente al agua",
+                 "Buena precision",
+                 "Valido para varios deportes"
+             ],
+    "cons":  [
+                 "Requiere banda en el pecho",
+                 "No muestra datos sin dispositivo compatible",
+                 "Hay que cuidar la banda elastica"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/hidratacion-medicion/polar-h9-sensor-frecuencia-cardiaca.png",
+    "affiliate_url":  "https://amzn.to/4uFLxLg",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

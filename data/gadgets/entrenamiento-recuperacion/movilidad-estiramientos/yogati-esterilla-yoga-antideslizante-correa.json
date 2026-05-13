@@ -1,0 +1,32 @@
+{
+    "id":  "yogati-esterilla-yoga-antideslizante-correa",
+    "title":  "YOGATI Esterilla Yoga con Correa",
+    "brand":  "YOGATI",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "movilidad-estiramientos"
+                 ],
+    "category":  "esterilla yoga fitness",
+    "ranking":  1,
+    "ranking_label":  "Mejor base de movilidad",
+    "summary":  "Esterilla de yoga antideslizante con correa, pensada para yoga, fitness, pilates, estiramientos y entrenamiento en casa.",
+    "best_for":  "Crear una base comoda y estable para movilidad, estiramientos, suelo, pilates y rutinas de control corporal.",
+    "not_for":  "Quien busca una colchoneta muy fina de viaje o una esterilla profesional especifica para yoga avanzado.",
+    "score":  8.5,
+    "price":  "32,99 EUR",
+    "pros":  [
+                 "Incluye correa",
+                 "Antideslizante",
+                 "Valida para yoga y fitness",
+                 "Uso en casa o gimnasio"
+             ],
+    "cons":  [
+                 "No mide actividad",
+                 "Ocupa mas que una toalla",
+                 "Puede ser excesiva para viaje ligero"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/movilidad-estiramientos/yogati-esterilla-yoga-antideslizante-correa.png",
+    "affiliate_url":  "https://amzn.to/3QZlVdX",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

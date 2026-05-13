@@ -1,0 +1,32 @@
+{
+    "id":  "bateria-externa-carga-rapida-24000mah-powerbank-usb-c",
+    "title":  "Bateria Externa Carga Rapida 24000mAh USB C",
+    "brand":  "Generic",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "powerbanks-resistentes"
+                 ],
+    "category":  "powerbanks alta capacidad",
+    "ranking":  4,
+    "ranking_label":  "Mejor capacidad/precio",
+    "summary":  "Powerbank USB-C de 24000mAh con PD 22.5W, tres salidas y dos entradas para movil, tablet y accesorios.",
+    "best_for":  "Usuarios que quieren mucha capacidad por poco precio en camping o ruta.",
+    "not_for":  "Quien prioriza marca reconocida, resistencia al agua o peso reducido.",
+    "score":  8.1,
+    "price":  "15,99 EUR",
+    "pros":  [
+                 "24000mAh",
+                 "22.5W",
+                 "3 salidas",
+                 "Precio bajo"
+             ],
+    "cons":  [
+                 "Marca generica",
+                 "Mas pesado",
+                 "No es impermeable ni rugerizado"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/powerbanks-resistentes/bateria-externa-carga-rapida-24000mah-powerbank-usb-c.png",
+    "affiliate_url":  "https://amzn.to/3RcNyAb",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

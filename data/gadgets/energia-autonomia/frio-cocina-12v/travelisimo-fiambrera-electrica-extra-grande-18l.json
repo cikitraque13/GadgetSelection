@@ -1,0 +1,31 @@
+{
+    "id":  "travelisimo-fiambrera-electrica-extra-grande-18l",
+    "title":  "TRAVELISIMO Fiambrera Electrica Extra Grande 1.8L",
+    "brand":  "TRAVELISIMO",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "frio-cocina-12v"
+                 ],
+    "category":  "fiambrera electrica grande",
+    "ranking":  4,
+    "ranking_label":  "Mejor fiambrera grande",
+    "summary":  "Fiambrera electrica extra grande de 1.8L y 100W, compatible con 12V, 24V y 220V para viajes, caravana, camping, coche y camion.",
+    "best_for":  "Quien necesita mas capacidad para comida caliente durante viajes largos o jornadas completas.",
+    "not_for":  "Quien busca una fiambrera pequena y minimalista.",
+    "score":  8.9,
+    "price":  "31,99 EUR",
+    "pros":  [
+                 "Capacidad de 1.8L",
+                 "Compatible con 12V, 24V y 220V",
+                 "Acero inoxidable",
+                 "Orientada a viajes, caravana y camping"
+             ],
+    "cons":  [
+                 "Mas voluminosa",
+                 "No sustituye una cocina completa"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/frio-cocina-12v/travelisimo-fiambrera-electrica-extra-grande-18l.png",
+    "affiliate_url":  "https://amzn.to/4dEsI5t",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

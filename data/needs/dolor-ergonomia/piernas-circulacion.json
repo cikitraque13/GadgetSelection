@@ -1,0 +1,24 @@
+{
+    "id": "piernas-circulacion",
+    "world_id": "dolor-ergonomia",
+    "title": "Piernas y circulaci\u00f3n",
+    "slug": "piernas-circulacion",
+    "description": "Gadgets de descanso y ergonom\u00eda para piernas cansadas, trabajo sentado o muchas horas de pie.",
+    "image": "/public/assets/images/needs/dolor-ergonomia/piernas-circulacion.png",
+    "gadget_types": [
+        "reposapi\u00e9s",
+        "elevadores de piernas",
+        "masajeadores de pies",
+        "masajeadores de piernas",
+        "alfombrillas antifatiga",
+        "pedales bajo escritorio",
+        "rodillos de piernas",
+        "accesorios de compresi\u00f3n no m\u00e9dicos"
+    ],
+    "gadgets": [],
+    "seo": {
+        "title": "Piernas y circulaci\u00f3n | GadgetSelection",
+        "description": "Gadgets de descanso y ergonom\u00eda para piernas cansadas, trabajo sentado o muchas horas de pie."
+    },
+    "status": "draft"
+}

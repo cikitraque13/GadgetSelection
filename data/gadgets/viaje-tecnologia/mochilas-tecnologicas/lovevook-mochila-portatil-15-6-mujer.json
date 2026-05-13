@@ -1,0 +1,32 @@
+{
+    "id":  "lovevook-mochila-portatil-15-6-mujer",
+    "title":  "LOVEVOOK Mochila Portatil Mujer 15.6 y 17.3",
+    "brand":  "LOVEVOOK",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "mochilas-tecnologicas"
+                 ],
+    "category":  "mochilas portatil mujer",
+    "ranking":  2,
+    "ranking_label":  "Mejor diseño urbano",
+    "summary":  "Mochila impermeable para portatil de 15.6 y 17.3 pulgadas orientada a trabajo, universidad, viaje y uso diario.",
+    "best_for":  "Usuarios que buscan una mochila tecnologica con diseño urbano, compartimentos y espacio para portatil grande.",
+    "not_for":  "Quien busca una mochila tecnica minimalista o ultraligera.",
+    "score":  8.4,
+    "price":  "34,99 EUR",
+    "pros":  [
+                 "Compatible 15.6 y 17.3",
+                 "Impermeable",
+                 "Diseño urbano",
+                 "Buena para trabajo y universidad"
+             ],
+    "cons":  [
+                 "Puede resultar grande",
+                 "Estilo menos tecnico",
+                 "No es antirrobo avanzada"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/mochilas-tecnologicas/lovevook-mochila-portatil-15-6-mujer.png",
+    "affiliate_url":  "https://amzn.to/4tZcOIH",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

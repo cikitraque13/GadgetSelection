@@ -1,0 +1,24 @@
+{
+    "id":  "agua-ducha-depositos",
+    "world_id":  "energia-autonomia",
+    "title":  "Agua, ducha y depósitos",
+    "slug":  "agua-ducha-depositos",
+    "description":  "Gadgets para ducharse, transportar agua, bombear desde garrafas y gestionar depósitos durante viajes en camper o camping.",
+    "image":  "/public/assets/images/needs/energia-autonomia/agua-ducha-depositos.png",
+    "gadget_types":  [
+                         "duchas portátiles recargables",
+                         "duchas solares",
+                         "bombas de agua USB",
+                         "depósitos plegables",
+                         "bidones con grifo",
+                         "grifos para garrafa"
+                     ],
+    "gadgets":  [
+
+                ],
+    "seo":  {
+                "title":  "Agua y ducha portátil para camper | GadgetSelection",
+                "description":  "Duchas portátiles, bombas de agua, depósitos plegables y bidones para camper, caravana y camping."
+            },
+    "status":  "published"
+}

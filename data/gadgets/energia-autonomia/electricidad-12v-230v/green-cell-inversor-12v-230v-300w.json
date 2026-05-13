@@ -1,0 +1,31 @@
+{
+    "id":  "green-cell-inversor-12v-230v-300w",
+    "title":  "Green Cell Inversor 12V a 220V 230V 300W",
+    "brand":  "Green Cell",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "electricidad-12v-230v"
+                 ],
+    "category":  "inversor 12v 230v",
+    "ranking":  5,
+    "ranking_label":  "Mejor inversor 12V",
+    "summary":  "Inversor de corriente de 12V a 220V/230V con 300W y pico de 600W para alimentar pequenos dispositivos desde bateria o vehiculo.",
+    "best_for":  "Convertir energia 12V del vehiculo en 230V para accesorios de bajo consumo.",
+    "not_for":  "Electrodomesticos potentes, calefactores o cargas continuas altas.",
+    "score":  8.7,
+    "price":  "34,97 EUR",
+    "pros":  [
+                 "300W con pico de 600W",
+                 "Salida 220V/230V",
+                 "Puerto USB",
+                 "Pinzas de conexion a bateria"
+             ],
+    "cons":  [
+                 "Onda sinusoidal modificada",
+                 "No apto para grandes consumos"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/electricidad-12v-230v/green-cell-inversor-12v-230v-300w.png",
+    "affiliate_url":  "https://amzn.to/4diqV4D",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,32 @@
+{
+    "id":  "feob-mini-power-bank-5000mah",
+    "title":  "Feob Mini Power Bank 5000mAh USB C",
+    "brand":  "Feob",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "powerbanks-resistentes"
+                 ],
+    "category":  "mini powerbanks",
+    "ranking":  3,
+    "ranking_label":  "Mejor mini emergencia",
+    "summary":  "Mini powerbank USB-C de 5000mAh con carga PD 15W y pantalla LCD para emergencias ligeras.",
+    "best_for":  "Llevar una carga extra minima para movil sin peso ni volumen.",
+    "not_for":  "Cargar varios dispositivos o aguantar salidas largas sin otra fuente de energia.",
+    "score":  8,
+    "price":  "17,14 EUR",
+    "pros":  [
+                 "Muy compacto",
+                 "USB-C",
+                 "Pantalla LCD",
+                 "Carga PD 15W"
+             ],
+    "cons":  [
+                 "Solo 5000mAh",
+                 "No es rugerizado",
+                 "Uso limitado como respaldo"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/powerbanks-resistentes/feob-mini-power-bank-5000mah.png",
+    "affiliate_url":  "https://amzn.to/4uEBNRs",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

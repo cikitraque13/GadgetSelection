@@ -1,0 +1,32 @@
+{
+    "id":  "resistance-bandas-oclusion-entrenamiento-expander",
+    "title":  "Juego de Bandas de Resistencia Elasticas con Guia de Ejercicios",
+    "brand":  "No especificada",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "bandas-elasticas"
+                 ],
+    "category":  "kit bandas resistencia con asas",
+    "ranking":  5,
+    "ranking_label":  "Mejor alternativa con asas",
+    "summary":  "Kit de bandas de resistencia con 5 tubos, tobillera, anclaje para puerta y asas acolchadas para fitness, gimnasio, deporte y culturismo.",
+    "best_for":  "Quien quiere un kit completo de entrenamiento elastico con accesorios y precio mas bajo que la opcion principal.",
+    "not_for":  "Quien busca solo movilidad ligera, pilates o una banda larga simple.",
+    "score":  8,
+    "price":  "34,99 EUR",
+    "pros":  [
+                 "5 tubos de resistencia",
+                 "Incluye tobillera",
+                 "Incluye anclaje para puerta",
+                 "Incluye asas acolchadas"
+             ],
+    "cons":  [
+                 "Mas volumen que una banda simple",
+                 "Requiere montar accesorios",
+                 "No es la opcion mas minimalista"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/bandas-elasticas/resistance-bandas-oclusion-entrenamiento-expander.png",
+    "affiliate_url":  "https://amzn.to/4uEStZ4",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

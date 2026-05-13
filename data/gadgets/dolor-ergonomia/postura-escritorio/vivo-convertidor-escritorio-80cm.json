@@ -1,0 +1,32 @@
+{
+    "id":  "vivo-convertidor-escritorio-80cm",
+    "title":  "VIVO Convertidor de Escritorio 80 cm",
+    "brand":  "VIVO",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "postura-escritorio"
+                 ],
+    "category":  "convertidores escritorio de pie",
+    "ranking":  3,
+    "ranking_label":  "Mejor para alternar postura",
+    "summary":  "Elevador de escritorio ajustable para alternar trabajo sentado y de pie con monitor, portatil y bandeja amplia de teclado.",
+    "best_for":  "Personas que quieren moverse mas durante la jornada sin cambiar toda la mesa.",
+    "not_for":  "Escritorios pequenos o usuarios que buscan una solucion muy compacta.",
+    "score":  8.3,
+    "price":  "99,99 EUR",
+    "pros":  [
+                 "Altura ajustable",
+                 "Bandeja amplia para teclado",
+                 "Compatible con monitor dual",
+                 "Permite alternar sentado y de pie"
+             ],
+    "cons":  [
+                 "Ocupa bastante superficie",
+                 "Precio mas alto",
+                 "No corrige por si solo la postura si se usa mal"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/postura-escritorio/vivo-convertidor-escritorio-80cm.png",
+    "affiliate_url":  "https://amzn.to/4tKtbIt",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

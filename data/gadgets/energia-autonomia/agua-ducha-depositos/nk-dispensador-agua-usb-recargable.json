@@ -1,0 +1,31 @@
+{
+    "id":  "nk-dispensador-agua-usb-recargable",
+    "title":  "NK Dispensador de Agua Fria Automatico USB",
+    "brand":  "NK",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "agua-ducha-depositos"
+                 ],
+    "category":  "dispensador agua usb",
+    "ranking":  5,
+    "ranking_label":  "Mejor grifo USB",
+    "summary":  "Dispensador automatico recargable por USB para servir agua desde garrafas y botellas sin levantarlas.",
+    "best_for":  "Servir agua de garrafas grandes en camper, mesa exterior o camping base.",
+    "not_for":  "Quien prefiere un bidon con grifo mecanico sin bateria.",
+    "score":  8.8,
+    "price":  "9,95 EUR",
+    "pros":  [
+                 "Carga USB",
+                 "Compatible con muchas garrafas",
+                 "Acero sin BPA",
+                 "Muy barato para la utilidad que aporta"
+             ],
+    "cons":  [
+                 "Depende de bateria",
+                 "No sustituye un sistema fijo de agua"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/agua-ducha-depositos/nk-dispensador-agua-usb-recargable.png",
+    "affiliate_url":  "https://amzn.to/4ffZFXc",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

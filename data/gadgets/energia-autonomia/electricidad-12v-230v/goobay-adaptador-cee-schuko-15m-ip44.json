@@ -1,0 +1,31 @@
+{
+    "id":  "goobay-adaptador-cee-schuko-15m-ip44",
+    "title":  "goobay Cable Adaptador CEE para Caravana 1.5m IP44",
+    "brand":  "goobay",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "electricidad-12v-230v"
+                 ],
+    "category":  "adaptador CEE Schuko",
+    "ranking":  2,
+    "ranking_label":  "Mejor adaptador CEE",
+    "summary":  "Cable adaptador de enchufe Schuko a toma CEE con tapa de cierre, pensado para camping, autocaravana y caravana.",
+    "best_for":  "Resolver compatibilidades entre enchufe domestico y toma CEE en camping o caravana.",
+    "not_for":  "Sustituir un alargador largo de exterior.",
+    "score":  8.8,
+    "price":  "16,99 EUR",
+    "pros":  [
+                 "Adaptador CEE compacto",
+                 "Cable de 1.5 metros",
+                 "Proteccion IP44",
+                 "Muy util como pieza de conexion"
+             ],
+    "cons":  [
+                 "No ofrece varias tomas",
+                 "Longitud limitada"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/electricidad-12v-230v/goobay-adaptador-cee-schuko-15m-ip44.png",
+    "affiliate_url":  "https://amzn.to/3R6lKgT",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,31 @@
+{
+    "id":  "candado-enganche-remolque-antirrobo",
+    "title":  "Candado para Enganche Remolque Antirrobo",
+    "brand":  "No especificada",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "habitabilidad-seguridad-camper"
+                 ],
+    "category":  "antirrobo enganche remolque",
+    "ranking":  4,
+    "ranking_label":  "Mejor antirrobo",
+    "summary":  "Candado robusto para enganche de remolque, caravana o trailer, pensado como proteccion antirrobo con llave.",
+    "best_for":  "Aumentar seguridad cuando la caravana o remolque queda estacionado.",
+    "not_for":  "Proteger puertas interiores o sustituir sistemas de alarma completos.",
+    "score":  8.5,
+    "price":  "19,99 EUR",
+    "pros":  [
+                 "Especifico para enganche",
+                 "Uso en remolque, caravana y trailer",
+                 "Precio contenido",
+                 "Disuasivo visible"
+             ],
+    "cons":  [
+                 "No protege todo el vehiculo",
+                 "Compatibilidad depende del enganche"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/habitabilidad-seguridad-camper/candado-enganche-remolque-antirrobo.png",
+    "affiliate_url":  "https://amzn.to/4twgIYC",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

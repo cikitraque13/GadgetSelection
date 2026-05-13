@@ -1,0 +1,31 @@
+{
+    "id":  "allen-sports-barra-transversal-bicicletas",
+    "title":  "Allen Sports Barra Transversal para Transporte en Bicicletas",
+    "brand":  "Allen Sports",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "carga-exterior-camper"
+                 ],
+    "category":  "adaptador transporte bicicletas",
+    "ranking":  4,
+    "ranking_label":  "Mejor barra bicis",
+    "summary":  "Barra transversal para adaptar bicicletas de cuadro bajo, infantil o escalonado y facilitar su transporte en portabicicletas.",
+    "best_for":  "Transportar bicicletas con geometria complicada en un portabicis exterior.",
+    "not_for":  "Bicicletas con cuadro tradicional que ya apoyan bien en el portabicis.",
+    "score":  8.5,
+    "price":  "31,87 EUR",
+    "pros":  [
+                 "Ayuda con bicis de cuadro bajo",
+                 "Util en bicis urbanas o infantiles",
+                 "Complementa el portabicis",
+                 "Evita montajes forzados"
+             ],
+    "cons":  [
+                 "No es un portabicis",
+                 "Solo aporta valor si el cuadro lo necesita"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/carga-exterior-camper/allen-sports-barra-transversal-bicicletas.png",
+    "affiliate_url":  "https://amzn.to/4eJ0Iii",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

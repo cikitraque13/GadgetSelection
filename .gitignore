@@ -1,0 +1,19 @@
+﻿.env
+*.key
+*.pem
+*.log
+*.bak
+*.bak.css
+.DS_Store
+Thumbs.db
+
+/vendor/
+node_modules/
+
+storage/*
+!storage/.gitkeep
+
+templates/landing/*.txt
+
+# Docs se conservan como autoridad interna,
+# pero nunca deben estar servidos públicamente.

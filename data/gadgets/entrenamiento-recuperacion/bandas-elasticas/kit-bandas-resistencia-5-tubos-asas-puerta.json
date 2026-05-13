@@ -1,0 +1,32 @@
+{
+    "id":  "kit-bandas-resistencia-5-tubos-asas-puerta",
+    "title":  "Juego de Bandas de Resistencia Elasticas con Guia de Ejercicios",
+    "brand":  "No especificada",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "bandas-elasticas"
+                 ],
+    "category":  "kit bandas resistencia con asas",
+    "ranking":  2,
+    "ranking_label":  "Mejor kit completo",
+    "summary":  "Kit de bandas de resistencia con 5 tubos, tobillera, anclaje para puerta y asas acolchadas para fitness, gimnasio y culturismo.",
+    "best_for":  "Entrenar fuerza en casa con asas, puerta, tobilleras y ejercicios de cuerpo completo.",
+    "not_for":  "Quien solo busca una goma simple para movilidad o calentamiento rapido.",
+    "score":  8.4,
+    "price":  "49,99 EUR",
+    "pros":  [
+                 "5 tubos de resistencia",
+                 "Incluye tobillera",
+                 "Incluye anclaje para puerta",
+                 "Asas acolchadas"
+             ],
+    "cons":  [
+                 "Mas caro que una banda simple",
+                 "Mas piezas que transportar",
+                 "Depende de un punto de anclaje"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/bandas-elasticas/kit-bandas-resistencia-5-tubos-asas-puerta.png",
+    "affiliate_url":  "https://amzn.to/4wlLINr",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,32 @@
+{
+    "id":  "bowflex-selecttech-552i-mancuerna-ajustable-24kg",
+    "title":  "Bowflex SelectTech 552i Mancuerna Ajustable 2 a 24 kg",
+    "brand":  "Bowflex",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "entrenamiento-casa"
+                 ],
+    "category":  "mancuerna ajustable",
+    "ranking":  6,
+    "ranking_label":  "Mejor fuerza compacta",
+    "summary":  "Mancuerna ajustable para casa con rango de 2 a 24 kg, pensada para entrenar fuerza ocupando menos espacio que un rack completo.",
+    "best_for":  "Fuerza compacta en casa, rutinas con poco espacio y usuarios que quieren progresion de carga sin muchas mancuernas.",
+    "not_for":  "Quien necesita una pareja completa desde el primer dia o cargas superiores a 24 kg por mancuerna.",
+    "score":  8.4,
+    "price":  "259,00 EUR",
+    "pros":  [
+                 "Ajustable de 2 a 24 kg",
+                 "Ahorra espacio",
+                 "Marca reconocida",
+                 "Buena para fuerza en casa"
+             ],
+    "cons":  [
+                 "Es una sola mancuerna",
+                 "Precio alto",
+                 "No sustituye cargas muy pesadas"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/entrenamiento-casa/bowflex-selecttech-552i-mancuerna-ajustable-24kg.png",
+    "affiliate_url":  "https://amzn.to/4ff2lEt",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

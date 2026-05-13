@@ -1,0 +1,31 @@
+{
+    "id":  "tayg-bidon-20l-grifo",
+    "title":  "Tayg Bidon 20 Litros con Grifo",
+    "brand":  "Tayg",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "agua-ducha-depositos"
+                 ],
+    "category":  "bidon agua 20 litros",
+    "ranking":  4,
+    "ranking_label":  "Mejor reserva 20L",
+    "summary":  "Bidon de 20 litros con grifo para ampliar la reserva de agua en camper, camping o estancias largas fuera de casa.",
+    "best_for":  "Reserva de agua mas seria para varios usos durante la escapada.",
+    "not_for":  "Quien necesita algo muy pequeno o facil de guardar vacio.",
+    "score":  8.7,
+    "price":  "19,79 EUR",
+    "pros":  [
+                 "20 litros de capacidad",
+                 "Grifo integrado",
+                 "Mejor autonomia que un bidon pequeno",
+                 "Uso directo en camper o camping"
+             ],
+    "cons":  [
+                 "Mas pesado cuando esta lleno",
+                 "No es plegable"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/agua-ducha-depositos/tayg-bidon-20l-grifo.png",
+    "affiliate_url":  "https://amzn.to/4d3hIhX",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

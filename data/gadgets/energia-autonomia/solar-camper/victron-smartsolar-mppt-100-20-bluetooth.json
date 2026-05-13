@@ -1,0 +1,31 @@
+{
+    "id":  "victron-smartsolar-mppt-100-20-bluetooth",
+    "title":  "Victron Energy SmartSolar MPPT 100V 20A Bluetooth",
+    "brand":  "Victron Energy",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "solar-camper"
+                 ],
+    "category":  "controlador solar mppt",
+    "ranking":  3,
+    "ranking_label":  "Mejor controlador MPPT",
+    "summary":  "Controlador de carga solar MPPT de 100V y 20A con Bluetooth para sistemas 12V, 24V y 48V en instalaciones solares camper.",
+    "best_for":  "Montajes solares serios donde importa regular bien la carga y proteger la bateria.",
+    "not_for":  "Quien solo quiere conectar un panel directamente a una power station.",
+    "score":  9.3,
+    "price":  "76,99 EUR",
+    "pros":  [
+                 "Tecnologia MPPT",
+                 "Bluetooth",
+                 "Compatible 12V, 24V y 48V",
+                 "Marca muy fuerte en energia solar"
+             ],
+    "cons":  [
+                 "Requiere instalacion correcta",
+                 "No incluye panel solar"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/solar-camper/victron-smartsolar-mppt-100-20-bluetooth.png",
+    "affiliate_url":  "https://amzn.to/3RCoYJ6",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

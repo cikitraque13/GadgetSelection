@@ -1,0 +1,32 @@
+{
+    "id":  "vivo-bandeja-teclado-bajo-escritorio",
+    "title":  "VIVO Bandeja para Teclado Bajo Escritorio",
+    "brand":  "VIVO",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "postura-escritorio"
+                 ],
+    "category":  "bandejas de teclado",
+    "ranking":  4,
+    "ranking_label":  "Mejor para teclado y raton",
+    "summary":  "Bandeja extraible bajo escritorio para colocar teclado y raton a una altura mas comoda y liberar superficie de trabajo.",
+    "best_for":  "Escritorios donde el teclado queda demasiado alto y carga hombros, brazos o munecas.",
+    "not_for":  "Mesas sin borde compatible para abrazadera o con poco espacio inferior.",
+    "score":  8.1,
+    "price":  "49,99 EUR",
+    "pros":  [
+                 "Extraible",
+                 "Montaje con abrazadera",
+                 "Permite trabajar con raton",
+                 "Libera espacio en la mesa"
+             ],
+    "cons":  [
+                 "Requiere grosor de mesa compatible",
+                 "Puede limitar espacio para piernas",
+                 "No es necesaria si la mesa ya tiene altura perfecta"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/postura-escritorio/vivo-bandeja-teclado-bajo-escritorio.png",
+    "affiliate_url":  "https://amzn.to/42qTpUZ",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

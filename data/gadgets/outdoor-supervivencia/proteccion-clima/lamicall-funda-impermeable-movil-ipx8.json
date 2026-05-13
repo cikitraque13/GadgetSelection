@@ -1,0 +1,32 @@
+{
+    "id":  "lamicall-funda-impermeable-movil-ipx8",
+    "title":  "Lamicall Funda Impermeable Movil IPX8",
+    "brand":  "Lamicall",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "proteccion-clima"
+                 ],
+    "category":  "fundas impermeables movil",
+    "ranking":  4,
+    "ranking_label":  "Mejor para movil",
+    "summary":  "Pack de 2 fundas impermeables IPX8 para movil con cuerda ajustable y compatibilidad con telefonos de hasta 7 pulgadas.",
+    "best_for":  "Proteger el movil en lluvia, rio, playa, kayak o rutas con humedad.",
+    "not_for":  "Usar el movil como si no hubiera funda o hacer fotos exigentes sin perdida de tacto.",
+    "score":  8.2,
+    "price":  "10,57 EUR",
+    "pros":  [
+                 "Pack de 2",
+                 "IPX8",
+                 "Cuerda ajustable",
+                 "Compatible con moviles grandes"
+             ],
+    "cons":  [
+                 "Puede reducir tacto y claridad",
+                 "Hay que cerrar bien el sello",
+                 "No protege golpes fuertes"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/proteccion-clima/lamicall-funda-impermeable-movil-ipx8.png",
+    "affiliate_url":  "https://amzn.to/3QRPSN4",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

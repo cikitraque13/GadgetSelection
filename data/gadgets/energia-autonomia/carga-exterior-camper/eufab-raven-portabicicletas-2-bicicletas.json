@@ -1,0 +1,31 @@
+{
+    "id":  "eufab-raven-portabicicletas-2-bicicletas",
+    "title":  "Eufab 12010LAS Raven Portabicicletas Plegable para 2 Bicicletas",
+    "brand":  "Eufab",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "carga-exterior-camper"
+                 ],
+    "category":  "portabicicletas exterior",
+    "ranking":  1,
+    "ranking_label":  "Mejor portabicis",
+    "summary":  "Portabicicletas plegable para transportar 2 bicicletas fuera del habitaculo y liberar espacio interior durante viajes camper.",
+    "best_for":  "Llevar dos bicicletas en escapadas con camper, caravana o vehiculo de viaje.",
+    "not_for":  "Quien no dispone de sistema compatible de enganche o necesita transportar mas de dos bicis.",
+    "score":  9.1,
+    "price":  "298,00 EUR",
+    "pros":  [
+                 "Transporta 2 bicicletas",
+                 "Formato plegable",
+                 "Solucion de carga exterior clara",
+                 "Alto valor para viajes camper"
+             ],
+    "cons":  [
+                 "Precio elevado",
+                 "Requiere comprobar compatibilidad del vehiculo"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/carga-exterior-camper/eufab-raven-portabicicletas-2-bicicletas.png",
+    "affiliate_url":  "https://amzn.to/4uini6b",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

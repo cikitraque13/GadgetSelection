@@ -1,0 +1,32 @@
+{
+    "id":  "anker-nano-cargador-usb-c-30w-plegable",
+    "title":  "Anker Cargador USB C GAN 30W Nano 3",
+    "brand":  "Anker",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "energia-viaje"
+                 ],
+    "category":  "cargadores compactos",
+    "ranking":  3,
+    "ranking_label":  "Mejor ultracompacto",
+    "summary":  "Cargador USB-C GaN de 30W muy compacto para movil, iPad, AirPods y accesorios durante viajes cortos.",
+    "best_for":  "Viajeros que priorizan minimo tamano y carga rapida para dispositivos personales.",
+    "not_for":  "Portatiles exigentes o varios dispositivos a la vez.",
+    "score":  8.4,
+    "price":  "11,99 EUR",
+    "pros":  [
+                 "30W",
+                 "Muy compacto",
+                 "GaN",
+                 "Buen precio"
+             ],
+    "cons":  [
+                 "Solo 30W",
+                 "Un unico dispositivo principal",
+                 "No es adaptador internacional"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/energia-viaje/anker-nano-cargador-usb-c-30w-plegable.png",
+    "affiliate_url":  "https://amzn.to/4wnrBhQ",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

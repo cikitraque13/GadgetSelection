@@ -1,0 +1,32 @@
+{
+    "id":  "ledlenser-h7r-core-linterna-frontal",
+    "title":  "Ledlenser H7R Core Linterna Frontal 1000 lm",
+    "brand":  "Ledlenser",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "linternas-recargables"
+                 ],
+    "category":  "linternas frontales premium",
+    "ranking":  3,
+    "ranking_label":  "Mejor frontal premium",
+    "summary":  "Linterna frontal recargable de 1000 lm con batería de litio, IP67, luz constante y alcance de hasta 250 metros.",
+    "best_for":  "Rutas nocturnas, exterior exigente y usuarios que quieren una frontal seria y resistente.",
+    "not_for":  "Quien busca una frontal barata para uso ocasional.",
+    "score":  8.8,
+    "price":  "72,09 EUR",
+    "pros":  [
+                 "1000 lm",
+                 "IP67",
+                 "Alcance hasta 250 m",
+                 "Marca reconocida"
+             ],
+    "cons":  [
+                 "Precio alto",
+                 "Más de lo necesario para uso básico",
+                 "Puede ser excesiva para camping ocasional"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/linternas-recargables/ledlenser-h7r-core-linterna-frontal.png",
+    "affiliate_url":  "https://amzn.to/4eDU1hw",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

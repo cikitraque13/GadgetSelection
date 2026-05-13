@@ -1,0 +1,11 @@
+{
+  "name": "gadgetselection/gadgetselection",
+  "description": "GadgetSelection - seleccion de gadgets por necesidades reales",
+  "type": "project",
+  "require": {
+    "php": ">=8.1"
+  },
+  "scripts": {
+    "start": "php -S 0.0.0.0:${PORT:-8000} router.php"
+  }
+}

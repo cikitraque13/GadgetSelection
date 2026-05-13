@@ -1,0 +1,31 @@
+{
+    "id":  "dokio-panel-solar-100w-18v",
+    "title":  "DOKIO Panel Solar 100W 18V Monocristalino",
+    "brand":  "DOKIO",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "solar-camper"
+                 ],
+    "category":  "panel solar 12v camper",
+    "ranking":  1,
+    "ranking_label":  "Mejor panel 100W",
+    "summary":  "Panel solar monocristalino de 100W y 18V para carga de baterias de 12V en camper, caravana o instalaciones solares ligeras.",
+    "best_for":  "Captar energia solar para sistemas 12V cuando se busca un panel potente y directo.",
+    "not_for":  "Quien necesita un kit completo con controlador, cables y soportes incluidos.",
+    "score":  8.8,
+    "price":  "61,74 EUR",
+    "pros":  [
+                 "100W de potencia",
+                 "Monocristalino",
+                 "Orientado a baterias 12V",
+                 "Precio competitivo"
+             ],
+    "cons":  [
+                 "Requiere regulador y cableado adecuados",
+                 "No es una estacion de energia"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/solar-camper/dokio-panel-solar-100w-18v.png",
+    "affiliate_url":  "https://amzn.to/4eI0KXJ",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

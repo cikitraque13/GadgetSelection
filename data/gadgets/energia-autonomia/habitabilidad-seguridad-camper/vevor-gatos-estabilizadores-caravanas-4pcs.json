@@ -1,0 +1,31 @@
+{
+    "id":  "vevor-gatos-estabilizadores-caravanas-4pcs",
+    "title":  "VEVOR 4 PCS Gatos Estabilizadores para Caravanas",
+    "brand":  "VEVOR",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "habitabilidad-seguridad-camper"
+                 ],
+    "category":  "estabilizadores caravana",
+    "ranking":  1,
+    "ranking_label":  "Mejor estabilizacion",
+    "summary":  "Pack de 4 gatos estabilizadores de aluminio para caravanas y remolques, con carga de 2,72 T cada uno y altura ajustable de 280 a 435 mm.",
+    "best_for":  "Reducir movimiento y mejorar estabilidad cuando la caravana queda parada en camping o base.",
+    "not_for":  "Levantar el vehiculo para trabajos mecanicos o sustituir un gato de taller.",
+    "score":  8.9,
+    "price":  "28,90 EUR",
+    "pros":  [
+                 "Pack de 4 piezas",
+                 "Carga alta por soporte",
+                 "Altura ajustable",
+                 "Uso claro para caravana y remolques"
+             ],
+    "cons":  [
+                 "No son calzos de nivelacion de rueda",
+                 "Requieren colocacion manual"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/habitabilidad-seguridad-camper/vevor-gatos-estabilizadores-caravanas-4pcs.png",
+    "affiliate_url":  "https://amzn.to/4dJooB5",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,32 @@
+{
+    "id":  "linterna-led-alta-potencia-largo-alcance",
+    "title":  "Linterna LED Alta Potencia Recargable Largo Alcance",
+    "brand":  "Generic",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "linternas-recargables"
+                 ],
+    "category":  "linternas largo alcance",
+    "ranking":  8,
+    "ranking_label":  "Mejor largo alcance",
+    "summary":  "Linterna LED recargable de alta potencia y largo alcance para camping, emergencias y uso exterior nocturno.",
+    "best_for":  "Iluminar zonas amplias o mirar a distancia en exterior, campamento o emergencia.",
+    "not_for":  "Quien busca datos técnicos realistas de lúmenes o una marca outdoor contrastada.",
+    "score":  7.8,
+    "price":  "27,98 EUR",
+    "pros":  [
+                 "Largo alcance",
+                 "Recargable",
+                 "Precio contenido",
+                 "Buena para uso ocasional potente"
+             ],
+    "cons":  [
+                 "Promesas de lúmenes probablemente infladas",
+                 "Marca menos clara",
+                 "No sustituye una linterna técnica premium"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/linternas-recargables/linterna-led-alta-potencia-largo-alcance.png",
+    "affiliate_url":  "https://amzn.to/4doNOno",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

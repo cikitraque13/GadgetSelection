@@ -1,0 +1,31 @@
+{
+    "id":  "fitomo-ferula-pulgar-2en1",
+    "title":  "Fitomo Munequera Dedo Pulgar Ferula 2 en 1",
+    "brand":  "Fitomo",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "muneca-antebrazo"
+                 ],
+    "category":  "ferulas de pulgar y muneca",
+    "ranking":  4,
+    "ranking_label":  "Mejor para pulgar y muneca",
+    "summary":  "Ferula 2 en 1 para pulgar y muneca pensada para molestias de De Quervain, tendinitis, tunel carpiano y esguinces.",
+    "best_for":  "Cuando el problema mezcla pulgar, muneca y agarre, no solo apoyo de escritorio.",
+    "not_for":  "Quien busca libertad total de movimiento o solo prevencion ligera.",
+    "score":  8.1,
+    "price":  "16,28 EUR",
+    "pros":  [
+                 "Soporte de pulgar y muneca",
+                 "Uso 2 en 1",
+                 "Buena para dolor por agarre repetitivo"
+             ],
+    "cons":  [
+                 "Puede resultar mas aparatosa",
+                 "No corrige ergonomia del raton",
+                 "No debe usarse como solucion unica permanente"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/muneca-antebrazo/fitomo-ferula-pulgar-2en1.png",
+    "affiliate_url":  "https://amzn.to/4wfyKRn",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

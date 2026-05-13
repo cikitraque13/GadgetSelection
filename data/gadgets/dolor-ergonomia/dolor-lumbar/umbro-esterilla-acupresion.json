@@ -1,0 +1,31 @@
+{
+    "id":  "umbro-esterilla-acupresion",
+    "title":  "Esterilla Acupresion 42x71 cm",
+    "brand":  "Generic",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "dolor-lumbar"
+                 ],
+    "category":  "esterillas de acupresion",
+    "ranking":  6,
+    "ranking_label":  "Mejor para descarga pasiva",
+    "summary":  "Esterilla de acupresion para tumbarse y relajar la espalda mediante presion distribuida en casa.",
+    "best_for":  "Descarga pasiva de espalda al final del dia sin electricidad ni montaje.",
+    "not_for":  "Quien no tolere sensacion intensa de presion en la piel.",
+    "score":  7.8,
+    "price":  "23,99 EUR",
+    "pros":  [
+                 "Uso sencillo",
+                 "No requiere energia",
+                 "Buena para rutina de descanso"
+             ],
+    "cons":  [
+                 "Sensacion intensa al principio",
+                 "No da soporte postural",
+                 "No es masaje mecanico"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/dolor-lumbar/umbro-esterilla-acupresion.png",
+    "affiliate_url":  "https://amzn.to/4335VtW",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,31 @@
+{
+    "id":  "masterplug-pro-xt-enrollacables-25m",
+    "title":  "Masterplug Pro-XT Enrollacables 25m",
+    "brand":  "Masterplug",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "electricidad-12v-230v"
+                 ],
+    "category":  "enrollacables camping",
+    "ranking":  4,
+    "ranking_label":  "Mejor enrollacables",
+    "summary":  "Enrollacables abierto de 25 metros con cuatro tomas, asa de bobinado, interruptor termico y cable de alta visibilidad.",
+    "best_for":  "Llevar distancia extra y varias tomas en camping, garaje, exterior controlado o base camper.",
+    "not_for":  "Quien necesita conector CEE especifico de camping.",
+    "score":  8.6,
+    "price":  "35,99 EUR",
+    "pros":  [
+                 "25 metros de cable",
+                 "Cuatro tomas",
+                 "Interruptor termico",
+                 "Cable de alta visibilidad"
+             ],
+    "cons":  [
+                 "No es CEE puro",
+                 "Puede ser voluminoso"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/electricidad-12v-230v/masterplug-pro-xt-enrollacables-25m.png",
+    "affiliate_url":  "https://amzn.to/4fhfvRi",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

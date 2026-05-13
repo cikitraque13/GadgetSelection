@@ -1,0 +1,31 @@
+{
+    "id":  "pistola-masaje-muscular",
+    "title":  "Pistola de Masaje Muscular",
+    "brand":  "Generic",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "dolor-cervical"
+                 ],
+    "category":  "pistolas de masaje compactas",
+    "ranking":  7,
+    "ranking_label":  "Mejor para puntos de tension",
+    "summary":  "Pistola de masaje con varias velocidades y cabezales para trabajar zonas musculares cargadas de forma localizada.",
+    "best_for":  "Trapecios, hombros y espalda alta con tension muscular puntual.",
+    "not_for":  "Aplicacion directa agresiva sobre la zona cervical delicada.",
+    "score":  7.9,
+    "price":  "29,99 EUR",
+    "pros":  [
+                 "30 velocidades",
+                 "Incluye varios cabezales",
+                 "Util para espalda, hombros y piernas"
+             ],
+    "cons":  [
+                 "Hay que usarla con cuidado en cuello",
+                 "No es especifica solo cervical",
+                 "Puede ser excesiva para personas sensibles"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/dolor-cervical/pistola-masaje-muscular.png",
+    "affiliate_url":  "https://amzn.to/4dyE2Qy",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

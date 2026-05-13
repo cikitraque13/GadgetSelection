@@ -1,0 +1,32 @@
+{
+    "id":  "tessan-adaptador-universal-usb-c-negro",
+    "title":  "TESSAN Adaptador Enchufe Universal USB C",
+    "brand":  "TESSAN",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "adaptadores-viaje"
+                 ],
+    "category":  "adaptadores universales",
+    "ranking":  1,
+    "ranking_label":  "Mejor superventas general",
+    "summary":  "Adaptador universal de viaje con 2 USB-A, 2 USB-C y enchufes para Reino Unido, Estados Unidos, Japon, Tailandia y Australia.",
+    "best_for":  "Viajeros que quieren una opcion general fiable para movil, auriculares, reloj y accesorios.",
+    "not_for":  "Quien necesita carga rapida potente para portatil USB-C.",
+    "score":  8.7,
+    "price":  "19,79 EUR",
+    "pros":  [
+                 "2 USB-A",
+                 "2 USB-C",
+                 "Formato universal",
+                 "Buena opcion general"
+             ],
+    "cons":  [
+                 "No es GaN",
+                 "No sustituye cargador de portatil",
+                 "Puede quedarse corto para carga rapida exigente"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/adaptadores-viaje/tessan-adaptador-universal-usb-c-negro.png",
+    "affiliate_url":  "https://amzn.to/4u2YY87",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

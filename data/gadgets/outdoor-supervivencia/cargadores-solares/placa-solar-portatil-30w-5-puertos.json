@@ -1,0 +1,32 @@
+{
+    "id":  "placa-solar-portatil-30w-5-puertos",
+    "title":  "Placa Solar Portatil 30W con 5 Puertos",
+    "brand":  "Generic",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "cargadores-solares"
+                 ],
+    "category":  "placas solares portatiles",
+    "ranking":  5,
+    "ranking_label":  "Mejor por conectividad",
+    "summary":  "Placa solar portatil de 30W con MC4, salida DC, QC 3.0 USB-A y USB-C PD 18W para varios tipos de carga.",
+    "best_for":  "Usuarios que quieren mas opciones de conexion en una placa solar compacta.",
+    "not_for":  "Quien prioriza marca reconocida o maxima simplicidad de uso.",
+    "score":  8,
+    "price":  "59,95 EUR",
+    "pros":  [
+                 "5 puertos",
+                 "USB-C PD 18W",
+                 "QC 3.0",
+                 "Salida MC4 y DC"
+             ],
+    "cons":  [
+                 "Marca menos clara",
+                 "Mas conectores tambien implican mas criterio de uso",
+                 "No es para cargas grandes"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/cargadores-solares/placa-solar-portatil-30w-5-puertos.png",
+    "affiliate_url":  "https://amzn.to/4dBaTUQ",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

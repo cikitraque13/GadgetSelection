@@ -1,0 +1,32 @@
+{
+    "id":  "xiaomi-smartband-10-pulsera-actividad",
+    "title":  "Xiaomi Smartband 10 Pulsera de Actividad",
+    "brand":  "Xiaomi",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "hidratacion-medicion"
+                 ],
+    "category":  "pulsera actividad entrenamiento",
+    "ranking":  2,
+    "ranking_label":  "Mejor pulsera completa",
+    "summary":  "Pulsera de actividad con pantalla AMOLED de 1,72 pulgadas, carga rapida, mas de 150 modos deportivos, monitorizacion de salud y sueno, HyperOS 2.0, resistencia 5ATM y brujula.",
+    "best_for":  "Medir actividad, entrenamientos, sueno y datos basicos de esfuerzo con una pulsera ligera.",
+    "not_for":  "Quien necesita un reloj deportivo avanzado con GPS multibanda o metricas profesionales.",
+    "score":  8.6,
+    "price":  "39,90 EUR",
+    "pros":  [
+                 "Pantalla AMOLED",
+                 "150 modos deportivos",
+                 "5ATM",
+                 "Carga rapida"
+             ],
+    "cons":  [
+                 "No sustituye reloj deportivo premium",
+                 "Algunas metricas son orientativas",
+                 "Depende de app movil"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/hidratacion-medicion/xiaomi-smartband-10-pulsera-actividad.png",
+    "affiliate_url":  "https://amzn.to/3Ry4ilv",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

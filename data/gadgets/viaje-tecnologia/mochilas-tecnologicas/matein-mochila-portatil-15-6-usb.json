@@ -1,0 +1,32 @@
+{
+    "id":  "matein-mochila-portatil-15-6-usb",
+    "title":  "MATEIN Mochila Portatil 15.6 USB",
+    "brand":  "MATEIN",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "mochilas-tecnologicas"
+                 ],
+    "category":  "mochilas portatil 15.6",
+    "ranking":  1,
+    "ranking_label":  "Mejor general",
+    "summary":  "Mochila impermeable para portatil de 15.6 pulgadas con gran capacidad, bolsillo antirrobo y puerto USB para trabajo, viaje y uso diario.",
+    "best_for":  "Viajeros que quieren una mochila equilibrada para portatil, cargador, cables, documentos y accesorios.",
+    "not_for":  "Quien necesita llevar portatiles de 17 pulgadas o mucho equipaje.",
+    "score":  8.6,
+    "price":  "25,99 EUR",
+    "pros":  [
+                 "Portatil 15.6",
+                 "Gran capacidad",
+                 "Bolsillo antirrobo",
+                 "Puerto USB"
+             ],
+    "cons":  [
+                 "No es mochila premium",
+                 "Puerto USB pasivo",
+                 "Puede quedarse corta para portatiles grandes"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/mochilas-tecnologicas/matein-mochila-portatil-15-6-usb.png",
+    "affiliate_url":  "https://amzn.to/4u8m6Ck",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

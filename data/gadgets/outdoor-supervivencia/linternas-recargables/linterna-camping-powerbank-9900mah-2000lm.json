@@ -1,0 +1,32 @@
+{
+    "id":  "linterna-camping-powerbank-9900mah-2000lm",
+    "title":  "Linterna Camping LED Power Bank 9900 mAh 2000 lm",
+    "brand":  "Generic",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "linternas-recargables"
+                 ],
+    "category":  "linternas camping multifuncion",
+    "ranking":  5,
+    "ranking_label":  "Mejor luz multiuso",
+    "summary":  "Lámpara de camping recargable de 2000 lm con batería de 9900 mAh, función power bank e impermeabilidad IP65.",
+    "best_for":  "Campamento, tienda, pesca o apagones donde interesa luz amplia y batería de respaldo.",
+    "not_for":  "Mochila ultraligera o rutas donde cada gramo cuenta.",
+    "score":  8.2,
+    "price":  "26,99 EUR",
+    "pros":  [
+                 "2000 lm",
+                 "9900 mAh",
+                 "Función power bank",
+                 "IP65"
+             ],
+    "cons":  [
+                 "Más grande que una linterna compacta",
+                 "Mezcla luz y batería",
+                 "No sustituye un powerbank resistente dedicado"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/linternas-recargables/linterna-camping-powerbank-9900mah-2000lm.png",
+    "affiliate_url":  "https://amzn.to/4ezuLsD",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

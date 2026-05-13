@@ -1,0 +1,32 @@
+{
+    "id":  "fitfiu-mc160-cinta-correr-plegable-inclinacion-9",
+    "title":  "FITFIU Fitness MC-160 Cinta de Correr Plegable con Inclinacion 9%",
+    "brand":  "FITFIU Fitness",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "entrenamiento-casa"
+                 ],
+    "category":  "cinta correr plegable",
+    "ranking":  1,
+    "ranking_label":  "Mejor cinta plegable equilibrada",
+    "summary":  "Cinta de correr plegable 4 en 1 con inclinacion 9%, velocidad ajustable hasta 14 km/h, conectividad app, frecuencia cardiaca y soporte para tablet.",
+    "best_for":  "Entrenar cardio en casa con una cinta plegable completa sin montar una sala de gimnasio profesional.",
+    "not_for":  "Quien necesita una cinta profesional de gran formato o maxima velocidad para series avanzadas.",
+    "score":  8.7,
+    "price":  "199,99 EUR",
+    "pros":  [
+                 "Inclinacion 9%",
+                 "Hasta 14 km/h",
+                 "Conectividad app",
+                 "Soporte para tablet"
+             ],
+    "cons":  [
+                 "Ocupa mas que un walking pad simple",
+                 "No es una cinta profesional",
+                 "Conviene revisar espacio antes de comprar"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/entrenamiento-casa/fitfiu-mc160-cinta-correr-plegable-inclinacion-9.png",
+    "affiliate_url":  "https://amzn.to/4d1FWsV",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,24 @@
+{
+    "id":  "carga-exterior-camper",
+    "world_id":  "energia-autonomia",
+    "title":  "Carga exterior camper",
+    "slug":  "carga-exterior-camper",
+    "description":  "Portabicis, cofres, bolsas de techo y soportes para llevar bicicletas, equipaje o material de agua sin ocupar el interior de la camper.",
+    "image":  "/public/assets/images/needs/energia-autonomia/carga-exterior-camper.png",
+    "gadget_types":  [
+                         "portabicis para caravana",
+                         "portabicis para autocaravana",
+                         "cofres de techo",
+                         "bolsas de techo impermeables",
+                         "soportes para kayak o paddle surf",
+                         "sistemas de carga exterior"
+                     ],
+    "gadgets":  [
+
+                ],
+    "seo":  {
+                "title":  "Carga exterior camper | GadgetSelection",
+                "description":  "Portabicis, cofres, bolsas de techo y soportes para transportar bicicletas, equipaje o material de agua en camper y caravana."
+            },
+    "status":  "published"
+}

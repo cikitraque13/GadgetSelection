@@ -1,0 +1,31 @@
+{
+    "id":  "electraline-extension-industrial-cee-10m-ip44",
+    "title":  "Electraline 46147 Extension Industrial CEE 10m IP44",
+    "brand":  "Electraline",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "electricidad-12v-230v"
+                 ],
+    "category":  "alargador CEE camping",
+    "ranking":  1,
+    "ranking_label":  "Mejor cable CEE",
+    "summary":  "Extension industrial CEE de 10 metros con proteccion IP44 para conectar camper, caravana o camping a toma exterior.",
+    "best_for":  "Conectar la camper o caravana a una toma CEE de camping con cable especifico y robusto.",
+    "not_for":  "Quien necesita enrollacables largo o distribucion con muchas tomas.",
+    "score":  9,
+    "price":  "34,20 EUR",
+    "pros":  [
+                 "Conexion CEE industrial",
+                 "Proteccion IP44",
+                 "Cable de 10 metros",
+                 "Uso claro para camper y caravana"
+             ],
+    "cons":  [
+                 "No es enrollable",
+                 "No multiplica tomas por si solo"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/electricidad-12v-230v/electraline-extension-industrial-cee-10m-ip44.png",
+    "affiliate_url":  "https://amzn.to/4u5HmZn",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

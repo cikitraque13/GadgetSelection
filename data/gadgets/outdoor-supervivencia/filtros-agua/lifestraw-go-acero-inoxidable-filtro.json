@@ -1,0 +1,32 @@
+{
+    "id":  "lifestraw-go-acero-inoxidable-filtro",
+    "title":  "LifeStraw Go Series Botella de Acero Inoxidable",
+    "brand":  "LifeStraw",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "filtros-agua"
+                 ],
+    "category":  "botellas filtrantes",
+    "ranking":  2,
+    "ranking_label":  "Mejor botella premium",
+    "summary":  "Botella de acero inoxidable con filtro integrado para llevar agua filtrada en rutas, viajes y actividades outdoor.",
+    "best_for":  "Quien quiere una botella resistente y reutilizable con filtrado integrado.",
+    "not_for":  "Quien busca la opcion mas ligera o barata posible.",
+    "score":  8.5,
+    "price":  "74,95 EUR",
+    "pros":  [
+                 "Acero inoxidable",
+                 "Filtro integrado",
+                 "Uso diario y outdoor",
+                 "Formato botella"
+             ],
+    "cons":  [
+                 "Precio alto",
+                 "Mas pesada que una pajita",
+                 "Capacidad limitada frente a sistemas de gravedad"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/filtros-agua/lifestraw-go-acero-inoxidable-filtro.png",
+    "affiliate_url":  "https://amzn.to/4wm9vNo",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

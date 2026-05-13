@@ -1,0 +1,32 @@
+{
+    "id":  "bolsa-estanca-documentos-kit",
+    "title":  "FLASLD Bolsa Ignifuga e Impermeable Documentos",
+    "brand":  "FLASLD",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "kits-emergencia"
+                 ],
+    "category":  "proteccion de documentos",
+    "ranking":  5,
+    "ranking_label":  "Mejor para objetos criticos",
+    "summary":  "Pack de bolsas pequenas ignifugas e impermeables para proteger pasaporte, documentos, dinero, tarjetas u objetos de valor.",
+    "best_for":  "Mantener seco y protegido lo critico dentro del kit o mochila.",
+    "not_for":  "Sustituir una bolsa estanca grande para ropa o equipo voluminoso.",
+    "score":  8.1,
+    "price":  "11,99 EUR",
+    "pros":  [
+                 "Pack de 2",
+                 "Formato pequeno",
+                 "Impermeable",
+                 "Pensada para documentos y objetos de valor"
+             ],
+    "cons":  [
+                 "Capacidad limitada",
+                 "No organiza todo el kit",
+                 "No sustituye una funda rigida anti golpes"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/kits-emergencia/bolsa-estanca-documentos-kit.png",
+    "affiliate_url":  "https://amzn.to/4wkUc7H",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

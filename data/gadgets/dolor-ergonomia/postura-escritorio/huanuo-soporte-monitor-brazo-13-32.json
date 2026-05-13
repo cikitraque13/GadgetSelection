@@ -1,0 +1,32 @@
+{
+    "id":  "huanuo-soporte-monitor-brazo-13-32",
+    "title":  "HUANUO Soporte Monitor Escritorio 13-32",
+    "brand":  "HUANUO",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "postura-escritorio"
+                 ],
+    "category":  "brazos de monitor",
+    "ranking":  1,
+    "ranking_label":  "Mejor para altura de pantalla",
+    "summary":  "Brazo articulado para monitor con ajuste de altura, inclinacion, giro y rotacion para colocar la pantalla a una posicion mas ergonomica.",
+    "best_for":  "Personas que trabajan muchas horas con monitor bajo, demasiado cerca o mal alineado.",
+    "not_for":  "Quien usa solo portatil sin monitor externo.",
+    "score":  8.8,
+    "price":  "31,34 EUR",
+    "pros":  [
+                 "Altura regulable",
+                 "Giro y rotacion 360 grados",
+                 "Compatible VESA 75x75 y 100x100",
+                 "Soporta hasta 9 kg"
+             ],
+    "cons":  [
+                 "Requiere escritorio compatible",
+                 "Necesita montaje",
+                 "No sirve para pantallas sin VESA"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/postura-escritorio/huanuo-soporte-monitor-brazo-13-32.png",
+    "affiliate_url":  "https://amzn.to/42YAC3z",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

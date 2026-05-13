@@ -1,0 +1,32 @@
+{
+    "id":  "pedernal-ferrocerio-emergencia",
+    "title":  "Light My Fire Pedernal Supervivencia Scout",
+    "brand":  "Light My Fire",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "kits-emergencia"
+                 ],
+    "category":  "encendedores de emergencia",
+    "ranking":  3,
+    "ranking_label":  "Mejor ferrocerio fiable",
+    "summary":  "Pedernal profesional de ferrocerio para encender fuego en camping, senderismo o kit de emergencia.",
+    "best_for":  "Tener una fuente de chispa compacta si fallan mechero o cerillas.",
+    "not_for":  "Zonas con prohibicion de fuego o uso irresponsable en condiciones de riesgo.",
+    "score":  8.4,
+    "price":  "14,95 EUR",
+    "pros":  [
+                 "Ferrocerio",
+                 "3000 encendidos",
+                 "Formato compacto",
+                 "Marca reconocida"
+             ],
+    "cons":  [
+                 "Requiere practica",
+                 "No sustituye una linterna o radio",
+                 "No debe usarse donde este prohibido hacer fuego"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/kits-emergencia/pedernal-ferrocerio-emergencia.png",
+    "affiliate_url":  "https://amzn.to/4u4bJQ4",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

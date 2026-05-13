@@ -1,0 +1,32 @@
+{
+    "id":  "ugreen-revodok-105-hub-usb-c-5-en-1",
+    "title":  "UGREEN Revodok 105 Hub USB C 5 en 1",
+    "brand":  "UGREEN",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "productividad-movil"
+                 ],
+    "category":  "hubs usb-c de viaje",
+    "ranking":  6,
+    "ranking_label":  "Mejor hub alternativo",
+    "summary":  "Hub USB-C 5 en 1 con HDMI 4K, PD 100W y puertos USB para ampliar portatil, iPad, iPhone compatible o tablet.",
+    "best_for":  "Usuarios que quieren una alternativa compacta y fiable de marca UGREEN para trabajo movil.",
+    "not_for":  "Quien necesita un dock profesional grande con Ethernet, SD y doble pantalla.",
+    "score":  8.4,
+    "price":  "13,71 EUR",
+    "pros":  [
+                 "HDMI 4K",
+                 "PD 100W",
+                 "Marca UGREEN",
+                 "Formato compacto"
+             ],
+    "cons":  [
+                 "Sin Ethernet",
+                 "Sin lector de tarjetas",
+                 "No sustituye dock completo"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/productividad-movil/ugreen-revodok-105-hub-usb-c-5-en-1.png",
+    "affiliate_url":  "https://amzn.to/4tu2Vln",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

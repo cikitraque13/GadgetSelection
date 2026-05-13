@@ -1,0 +1,24 @@
+{
+    "id": "radios-emergencia",
+    "world_id": "outdoor-supervivencia",
+    "title": "Radios de emergencia",
+    "slug": "radios-emergencia",
+    "description": "Radios compactas para informaci\u00f3n, iluminaci\u00f3n y carga b\u00e1sica en escenarios de emergencia.",
+    "image": "/public/assets/images/needs/outdoor-supervivencia/radios-emergencia.png",
+    "gadget_types": [
+        "radios AM/FM de emergencia",
+        "radios con manivela",
+        "radios solares",
+        "radios con linterna",
+        "radios con powerbank",
+        "radios compactas de camping",
+        "kits radio y luz",
+        "radios multifuente"
+    ],
+    "gadgets": [],
+    "seo": {
+        "title": "Radios de emergencia | GadgetSelection",
+        "description": "Radios compactas para informaci\u00f3n, iluminaci\u00f3n y carga b\u00e1sica en escenarios de emergencia."
+    },
+    "status": "draft"
+}

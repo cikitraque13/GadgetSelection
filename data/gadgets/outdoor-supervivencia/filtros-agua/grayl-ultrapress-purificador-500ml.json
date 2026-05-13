@@ -1,0 +1,32 @@
+{
+    "id":  "grayl-ultrapress-purificador-500ml",
+    "title":  "GRAYL UltraPress Purificador 500 ml",
+    "brand":  "GRAYL",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "filtros-agua"
+                 ],
+    "category":  "purificadores premium",
+    "ranking":  5,
+    "ranking_label":  "Mejor purificador premium",
+    "summary":  "Purificador compacto de 500 ml para exteriores, camping, supervivencia y viajes con enfoque en agua mas dudosa.",
+    "best_for":  "Quien quiere una solucion premium de purificacion en formato botella compacta.",
+    "not_for":  "Quien busca la opcion mas barata o filtrar mucha agua para grupo.",
+    "score":  8.4,
+    "price":  "84,95 EUR",
+    "pros":  [
+                 "Formato premium",
+                 "Purificador portatil",
+                 "Uso en viajes y outdoor",
+                 "Sistema integrado"
+             ],
+    "cons":  [
+                 "Precio alto",
+                 "Capacidad de 500 ml",
+                 "No es la opcion mas ligera"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/filtros-agua/grayl-ultrapress-purificador-500ml.png",
+    "affiliate_url":  "https://amzn.to/48UpW9H",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

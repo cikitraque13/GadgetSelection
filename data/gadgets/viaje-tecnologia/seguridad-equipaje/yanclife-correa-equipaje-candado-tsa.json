@@ -1,0 +1,32 @@
+{
+    "id":  "yanclife-correa-equipaje-candado-tsa",
+    "title":  "Correa Equipaje con Candado de Combinacion",
+    "brand":  "Generic",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "seguridad-equipaje"
+                 ],
+    "category":  "correas de equipaje",
+    "ranking":  3,
+    "ranking_label":  "Mejor sujecion visible",
+    "summary":  "Correas ajustables para maleta con candado de combinacion que ayudan a sujetar y distinguir mejor el equipaje.",
+    "best_for":  "Reforzar el cierre de la maleta y localizarla mas rapido en cinta o transito.",
+    "not_for":  "Quien necesita un candado TSA independiente o un localizador Bluetooth.",
+    "score":  8.2,
+    "price":  "8,99 EUR",
+    "pros":  [
+                 "Pack de 2",
+                 "Color visible",
+                 "Ajustable",
+                 "Candado de combinacion"
+             ],
+    "cons":  [
+                 "No protege la superficie",
+                 "No localiza la maleta",
+                 "Puede molestar en algunas maletas"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/seguridad-equipaje/yanclife-correa-equipaje-candado-tsa.png",
+    "affiliate_url":  "https://amzn.to/4nm3oEx",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

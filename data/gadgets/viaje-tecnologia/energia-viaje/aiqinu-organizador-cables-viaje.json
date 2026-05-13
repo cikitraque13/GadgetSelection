@@ -1,0 +1,32 @@
+{
+    "id":  "aiqinu-organizador-cables-viaje",
+    "title":  "AiQInu Organizador Cables Viaje",
+    "brand":  "AiQInu",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "energia-viaje"
+                 ],
+    "category":  "organizadores de energia de viaje",
+    "ranking":  5,
+    "ranking_label":  "Mejor para llevar cargadores",
+    "summary":  "Bolsa organizadora para cables, cargadores, adaptadores, tarjetas de memoria, disco duro y accesorios tecnologicos de viaje.",
+    "best_for":  "Mantener cargadores y accesorios de energia juntos dentro de mochila, maleta o equipaje de mano.",
+    "not_for":  "Quien busca un organizador grande para todo el equipo tecnologico o una mochila completa.",
+    "score":  8,
+    "price":  "9,99 EUR",
+    "pros":  [
+                 "Precio bajo",
+                 "Compartimentos",
+                 "Valido para cargadores y cables",
+                 "Ligero"
+             ],
+    "cons":  [
+                 "No carga dispositivos",
+                 "Puede quedarse pequeño",
+                 "Se solapa parcialmente con organizadores de cables"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/energia-viaje/aiqinu-organizador-cables-viaje.png",
+    "affiliate_url":  "https://amzn.to/4wmjy4Y",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,32 @@
+{
+    "id":  "fit-king-botas-presoterapia-piernas",
+    "title":  "FIT KING Botas Presoterapia Piernas",
+    "brand":  "FIT KING",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "compresion-muscular"
+                 ],
+    "category":  "botas presoterapia piernas",
+    "ranking":  1,
+    "ranking_label":  "Mejor sistema completo",
+    "summary":  "Botas de presoterapia para piernas orientadas a mejorar la circulacion, relajar musculos y ayudar en la recuperacion tras esfuerzo.",
+    "best_for":  "Recuperacion de piernas tras entrenamiento, sesiones largas de pie o descanso muscular intenso en casa.",
+    "not_for":  "Quien busca una solucion barata, pequena o facil de transportar.",
+    "score":  8.8,
+    "price":  "254,99 EUR",
+    "pros":  [
+                 "Sistema completo para piernas",
+                 "Compresion por aire",
+                 "Orientado a recuperacion deportiva",
+                 "Buena opcion para uso domestico avanzado"
+             ],
+    "cons":  [
+                 "Precio alto",
+                 "Ocupa mas espacio",
+                 "No es una prenda de compresion simple"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/compresion-muscular/fit-king-botas-presoterapia-piernas.png",
+    "affiliate_url":  "https://amzn.to/4deUkgl",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

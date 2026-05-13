@@ -1,0 +1,32 @@
+{
+    "id":  "matein-organizador-cables-viaje-2-capas",
+    "title":  "MATEIN Organizador Cables Viaje 2 Capas",
+    "brand":  "MATEIN",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "organizadores-cables"
+                 ],
+    "category":  "organizadores de cables 2 capas",
+    "ranking":  1,
+    "ranking_label":  "Mejor general",
+    "summary":  "Estuche organizador de dos capas para llevar cables, cargadores, adaptadores, powerbank, tarjetas y accesorios electronicos.",
+    "best_for":  "Viajeros que quieren llevar todo el pequeno ecosistema tech separado, visible y protegido.",
+    "not_for":  "Quien solo lleva uno o dos cables y busca algo ultra compacto.",
+    "score":  8.6,
+    "price":  "18,99 EUR",
+    "pros":  [
+                 "Dos capas",
+                 "Buena capacidad",
+                 "Compartimentos variados",
+                 "Valido para cargadores y powerbank"
+             ],
+    "cons":  [
+                 "Ocupa mas que un estuche pequeño",
+                 "Puede ser demasiado grande para mochila minimalista",
+                 "No carga ni protege como una funda rigida"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/organizadores-cables/matein-organizador-cables-viaje-2-capas.png",
+    "affiliate_url":  "https://amzn.to/3Pu1jdk",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,32 @@
+{
+    "id":  "radio-solar-emergencia-4000mah",
+    "title":  "Radio Solar de Emergencia 4000mAh",
+    "brand":  "Generic",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "radios-emergencia"
+                 ],
+    "category":  "radios de emergencia con bateria",
+    "ranking":  3,
+    "ranking_label":  "Mejor 4000mAh",
+    "summary":  "Radio de manivela con linterna LED, alarma SOS, AM/FM meteorologica y bateria de 4000mAh para carga de emergencia.",
+    "best_for":  "Quien quiere mas bateria que una radio basica sin llevar un modelo muy grande.",
+    "not_for":  "Cargar varios dispositivos como si fuera una powerbank dedicada.",
+    "score":  8.2,
+    "price":  "38,99 EUR",
+    "pros":  [
+                 "Bateria 4000mAh",
+                 "Manivela",
+                 "Linterna LED",
+                 "Alarma SOS"
+             ],
+    "cons":  [
+                 "Carga solar lenta",
+                 "No es powerbank principal",
+                 "Mas voluminosa que modelos compactos"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/radios-emergencia/radio-solar-emergencia-4000mah.png",
+    "affiliate_url":  "https://amzn.to/4tYbKox",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

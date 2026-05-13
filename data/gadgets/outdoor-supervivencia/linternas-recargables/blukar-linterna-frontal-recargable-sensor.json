@@ -1,0 +1,32 @@
+{
+    "id":  "blukar-linterna-frontal-recargable-sensor",
+    "title":  "Blukar Linterna Frontal Recargable con Sensor",
+    "brand":  "Blukar",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "linternas-recargables"
+                 ],
+    "category":  "linternas frontales con sensor",
+    "ranking":  2,
+    "ranking_label":  "Mejor frontal con sensor",
+    "summary":  "Linterna frontal recargable de 2000L con sensor de movimiento, luces rojas de advertencia y 8 modos de luz.",
+    "best_for":  "Usar luz frontal sin tocar botones cuando tienes las manos ocupadas o llevas guantes.",
+    "not_for":  "Quien necesita una frontal de marca outdoor para uso técnico intensivo.",
+    "score":  8.5,
+    "price":  "12,99 EUR",
+    "pros":  [
+                 "Sensor de movimiento",
+                 "8 modos",
+                 "Luz roja de advertencia",
+                 "Precio muy accesible"
+             ],
+    "cons":  [
+                 "Marca menos técnica",
+                 "No sustituye una frontal de alta gama",
+                 "Autonomía variable según modo"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/linternas-recargables/blukar-linterna-frontal-recargable-sensor.png",
+    "affiliate_url":  "https://amzn.to/3ORweQI",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

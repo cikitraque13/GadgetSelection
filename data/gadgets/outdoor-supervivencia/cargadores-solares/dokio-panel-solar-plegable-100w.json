@@ -1,0 +1,32 @@
+{
+    "id":  "dokio-panel-solar-plegable-100w",
+    "title":  "DOKIO Panel Solar Plegable 100W 12V",
+    "brand":  "DOKIO",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "cargadores-solares"
+                 ],
+    "category":  "paneles solares 100w",
+    "ranking":  6,
+    "ranking_label":  "Mejor 100W ligero",
+    "summary":  "Panel solar plegable monocristalino de 100W y 12V para energia solar al aire libre y campamento base.",
+    "best_for":  "Campamento, emergencia prolongada o cargar bateria/power station pequena sin entrar en formato camper.",
+    "not_for":  "Senderismo ligero con mochila pequena.",
+    "score":  8.1,
+    "price":  "72,19 EUR",
+    "pros":  [
+                 "100W",
+                 "Plegable",
+                 "Monocristalino",
+                 "Buen precio para potencia"
+             ],
+    "cons":  [
+                 "Mas grande que los cargadores de mochila",
+                 "Menos comodo para ruta a pie",
+                 "Requiere mas espacio de despliegue"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/cargadores-solares/dokio-panel-solar-plegable-100w.png",
+    "affiliate_url":  "https://amzn.to/4dhSr2v",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

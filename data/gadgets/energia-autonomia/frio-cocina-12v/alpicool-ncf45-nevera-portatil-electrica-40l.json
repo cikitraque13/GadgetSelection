@@ -1,0 +1,31 @@
+{
+    "id":  "alpicool-ncf45-nevera-portatil-electrica-40l",
+    "title":  "Alpicool NCF45 40L Nevera Portatil Electrica",
+    "brand":  "Alpicool",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "frio-cocina-12v"
+                 ],
+    "category":  "nevera compresor 12v 24v",
+    "ranking":  2,
+    "ranking_label":  "Mejor compresor 40L",
+    "summary":  "Nevera portatil electrica de 40 litros para coche, hogar, camping y viajes, compatible con 12V, 24V y 220V.",
+    "best_for":  "Quien necesita una nevera mas seria para comida y bebida durante viajes camper o camping base.",
+    "not_for":  "Escapadas ultraligeras donde prima tamano minimo.",
+    "score":  9.1,
+    "price":  "249,99 EUR",
+    "pros":  [
+                 "40 litros de capacidad",
+                 "Compatible con 12V, 24V y 220V",
+                 "Uso claro para camping y viajes",
+                 "Formato de nevera seria para camper"
+             ],
+    "cons":  [
+                 "Precio mas alto",
+                 "Ocupa mas espacio que una nevera compacta"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/frio-cocina-12v/alpicool-ncf45-nevera-portatil-electrica-40l.png",
+    "affiliate_url":  "https://amzn.to/49rJv9q",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

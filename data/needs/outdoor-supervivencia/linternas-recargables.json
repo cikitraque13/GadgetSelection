@@ -1,0 +1,24 @@
+{
+    "id": "linternas-recargables",
+    "world_id": "outdoor-supervivencia",
+    "title": "Linternas recargables",
+    "slug": "linternas-recargables",
+    "description": "Linternas y sistemas de iluminaci\u00f3n para exterior, emergencia, camping y uso intensivo.",
+    "image": "/public/assets/images/needs/outdoor-supervivencia/linternas-recargables.png",
+    "gadget_types": [
+        "linternas t\u00e1cticas recargables",
+        "frontales LED",
+        "linternas compactas EDC",
+        "linternas de camping",
+        "faroles recargables",
+        "linternas solares",
+        "linternas con powerbank",
+        "luces de emergencia"
+    ],
+    "gadgets": [],
+    "seo": {
+        "title": "Linternas recargables | GadgetSelection",
+        "description": "Linternas y sistemas de iluminaci\u00f3n para exterior, emergencia, camping y uso intensivo."
+    },
+    "status": "draft"
+}

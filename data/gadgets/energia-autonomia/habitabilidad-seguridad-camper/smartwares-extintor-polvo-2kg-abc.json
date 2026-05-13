@@ -1,0 +1,31 @@
+{
+    "id":  "smartwares-extintor-polvo-2kg-abc",
+    "title":  "Smartwares Extintor de Polvo 2 kg ABC",
+    "brand":  "Smartwares",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "habitabilidad-seguridad-camper"
+                 ],
+    "category":  "extintor abc vehiculo",
+    "ranking":  6,
+    "ranking_label":  "Mejor seguridad fuego",
+    "summary":  "Extintor de polvo ABC de 2 kg, adecuado para vehiculos y hogares, con soporte de montaje incluido.",
+    "best_for":  "Tener una respuesta inicial ante fuego en camper, caravana, coche o zona de cocina.",
+    "not_for":  "Sustituir mantenimiento, detector de humo o protocolos de seguridad.",
+    "score":  9,
+    "price":  "26,99 EUR",
+    "pros":  [
+                 "2 kg de capacidad",
+                 "Apto para fuegos ABC",
+                 "Adecuado para vehiculos",
+                 "Incluye soporte de montaje"
+             ],
+    "cons":  [
+                 "Ocupa mas que uno de 1 kg",
+                 "Debe revisarse y mantenerse accesible"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/habitabilidad-seguridad-camper/smartwares-extintor-polvo-2kg-abc.png",
+    "affiliate_url":  "https://amzn.to/3R5GVjc",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

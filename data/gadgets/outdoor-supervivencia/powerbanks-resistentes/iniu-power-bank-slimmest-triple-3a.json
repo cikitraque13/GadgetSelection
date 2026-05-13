@@ -1,0 +1,32 @@
+{
+    "id":  "iniu-power-bank-slimmest-triple-3a",
+    "title":  "INIU Power Bank Slimmest Triple 3A 10000mAh",
+    "brand":  "INIU",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "powerbanks-resistentes"
+                 ],
+    "category":  "powerbanks delgados",
+    "ranking":  2,
+    "ranking_label":  "Mejor ultradelgado",
+    "summary":  "Bateria externa delgada de 10000mAh con triple salida 3A, USB-C y linterna integrada para mochila o viaje ligero.",
+    "best_for":  "Llevar una bateria fina en mochila, bolsillo o kit outdoor sin ocupar mucho espacio.",
+    "not_for":  "Salidas largas donde se requiere mucha capacidad o resistencia al agua.",
+    "score":  8.4,
+    "price":  "19,99 EUR",
+    "pros":  [
+                 "10000mAh",
+                 "Formato delgado",
+                 "Triple 3A",
+                 "Incluye linterna"
+             ],
+    "cons":  [
+                 "No es impermeable",
+                 "No es de alta capacidad",
+                 "Linterna secundaria, no principal"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/powerbanks-resistentes/iniu-power-bank-slimmest-triple-3a.png",
+    "affiliate_url":  "https://amzn.to/4dbM14J",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,32 @@
+{
+    "id":  "aldom-pistola-masaje-muscular-30-niveles",
+    "title":  "ALDOM Pistola de Masaje Muscular",
+    "brand":  "ALDOM",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "pistolas-masaje"
+                 ],
+    "category":  "pistola masaje muscular",
+    "ranking":  5,
+    "ranking_label":  "Mejor alternativa economica",
+    "summary":  "Pistola masajeadora muscular profesional con carga Tipo-C, 30 niveles ajustables, funcionamiento silencioso y 8 cabezales.",
+    "best_for":  "Usuarios que quieren una alternativa economica con carga Tipo-C, varios cabezales y niveles ajustables.",
+    "not_for":  "Quien busca un producto premium o una pistola compacta para mochila.",
+    "score":  8.1,
+    "price":  "39,99 EUR",
+    "pros":  [
+                 "30 niveles",
+                 "Carga Tipo-C",
+                 "8 cabezales",
+                 "Silenciosa"
+             ],
+    "cons":  [
+                 "Compite con muchas opciones similares",
+                 "No es premium",
+                 "Puede solaparse con opciones baratas"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/pistolas-masaje/aldom-pistola-masaje-muscular-30-niveles.png",
+    "affiliate_url":  "https://amzn.to/3OUVKob",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

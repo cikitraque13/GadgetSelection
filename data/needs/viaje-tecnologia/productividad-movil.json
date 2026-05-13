@@ -1,0 +1,24 @@
+{
+    "id": "productividad-movil",
+    "world_id": "viaje-tecnologia",
+    "title": "Productividad m\u00f3vil",
+    "slug": "productividad-movil",
+    "description": "Gadgets para trabajar desde cualquier lugar con port\u00e1til, m\u00f3vil, tablet y accesorios compactos.",
+    "image": "/public/assets/images/needs/viaje-tecnologia/productividad-movil.png",
+    "gadget_types": [
+        "soportes plegables de port\u00e1til",
+        "soportes de m\u00f3vil",
+        "teclados bluetooth",
+        "ratones compactos",
+        "hubs USB-C",
+        "pantallas port\u00e1tiles",
+        "bases plegables",
+        "l\u00e1mparas port\u00e1tiles"
+    ],
+    "gadgets": [],
+    "seo": {
+        "title": "Productividad m\u00f3vil | GadgetSelection",
+        "description": "Gadgets para trabajar desde cualquier lugar con port\u00e1til, m\u00f3vil, tablet y accesorios compactos."
+    },
+    "status": "draft"
+}

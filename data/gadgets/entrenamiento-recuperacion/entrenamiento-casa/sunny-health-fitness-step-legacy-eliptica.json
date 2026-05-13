@@ -1,0 +1,32 @@
+{
+    "id":  "sunny-health-fitness-step-legacy-eliptica",
+    "title":  "Sunny Health \u0026 Fitness Maquina Eliptica Step Legacy",
+    "brand":  "Sunny Health \u0026 Fitness",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "entrenamiento-casa"
+                 ],
+    "category":  "eliptica domestica",
+    "ranking":  4,
+    "ranking_label":  "Mejor eliptica domestica",
+    "summary":  "Bicicleta eliptica de bajo impacto para trabajo de cuerpo completo y entrenamiento cardiovascular en casa.",
+    "best_for":  "Usuarios que quieren cardio de bajo impacto y movimiento global sin depender de cinta o bici.",
+    "not_for":  "Quien necesita una eliptica grande de gimnasio o una zancada profesional larga.",
+    "score":  8.2,
+    "price":  "172,89 EUR",
+    "pros":  [
+                 "Bajo impacto",
+                 "Trabajo de cuerpo completo",
+                 "Formato domestico",
+                 "Alternativa a cinta y bici"
+             ],
+    "cons":  [
+                 "Ocupa mas que una bici plegable",
+                 "Menos compacta que un walking pad",
+                 "No es modelo profesional"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/entrenamiento-casa/sunny-health-fitness-step-legacy-eliptica.png",
+    "affiliate_url":  "https://amzn.to/49AcRT1",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

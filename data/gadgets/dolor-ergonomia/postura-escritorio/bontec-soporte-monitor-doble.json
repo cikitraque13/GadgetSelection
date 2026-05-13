@@ -1,0 +1,32 @@
+{
+    "id":  "bontec-soporte-monitor-doble",
+    "title":  "BONTEC Soporte Monitor Doble 13-27",
+    "brand":  "BONTEC",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "postura-escritorio"
+                 ],
+    "category":  "soportes monitor doble",
+    "ranking":  6,
+    "ranking_label":  "Mejor para doble pantalla",
+    "summary":  "Soporte doble para dos monitores con giro, rotacion y altura ajustable para ordenar setups de doble pantalla.",
+    "best_for":  "Usuarios con dos monitores que necesitan alinear pantallas y liberar espacio en el escritorio.",
+    "not_for":  "Quien trabaja con una sola pantalla o no tiene monitores compatibles con VESA.",
+    "score":  7.9,
+    "price":  "32,99 EUR",
+    "pros":  [
+                 "Soporta dos monitores",
+                 "Giro 360 grados",
+                 "Altura ajustable",
+                 "Compatible VESA 75 y 100 mm"
+             ],
+    "cons":  [
+                 "Requiere montaje",
+                 "No sirve para pantallas sin VESA",
+                 "Puede ser excesivo para setups simples"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/postura-escritorio/bontec-soporte-monitor-doble.png",
+    "affiliate_url":  "https://amzn.to/4uJrQCC",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

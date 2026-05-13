@@ -1,0 +1,32 @@
+{
+    "id":  "snailax-asiento-masaje-shiatsu-calor",
+    "title":  "Snailax Shiatsu Asiento de Masaje con Calor",
+    "brand":  "Snailax",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "recuperacion-muscular"
+                 ],
+    "category":  "asientos de masaje",
+    "ranking":  1,
+    "ranking_label":  "Mejor entrada sin sillon",
+    "summary":  "Asiento de masaje Shiatsu con calor para espalda, cuello y uso en silla, sofa u oficina en casa.",
+    "best_for":  "Quien quiere descargar espalda y cuello sin comprar un sillon completo.",
+    "not_for":  "Quien busca un sillon relax grande con reposapies integrado.",
+    "score":  8.6,
+    "price":  "169,99 EUR",
+    "pros":  [
+                 "No requiere comprar sillon",
+                 "Masaje Shiatsu",
+                 "Incluye calor",
+                 "Uso en oficina o casa"
+             ],
+    "cons":  [
+                 "No es cuerpo completo",
+                 "Depende de la silla o sofa",
+                 "No tiene reposapies"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/recuperacion-muscular/snailax-asiento-masaje-shiatsu-calor.png",
+    "affiliate_url":  "https://amzn.to/42qUkVr",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

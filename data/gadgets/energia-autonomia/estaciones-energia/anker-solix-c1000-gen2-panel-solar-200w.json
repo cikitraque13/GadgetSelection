@@ -1,0 +1,31 @@
+{
+    "id":  "anker-solix-c1000-gen2-panel-solar-200w",
+    "title":  "Anker SOLIX C1000 Gen 2 con Panel Solar 200W",
+    "brand":  "Anker",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "estaciones-energia"
+                 ],
+    "category":  "kit power station solar",
+    "ranking":  4,
+    "ranking_label":  "Mejor kit solar premium",
+    "summary":  "Estacion de energia portatil de 1024Wh con panel solar de 200W, salida de 2000W y carga completa rapida para respaldo y autonomia camper.",
+    "best_for":  "Quien quiere comprar estacion y panel solar en un unico kit para autonomia prolongada.",
+    "not_for":  "Presupuestos ajustados o escapadas donde basta una estacion compacta.",
+    "score":  9.5,
+    "price":  "1.059,00 EUR",
+    "pros":  [
+                 "Incluye panel solar de 200W",
+                 "1024Wh de capacidad",
+                 "Salida de 2000W",
+                 "Carga completa rapida"
+             ],
+    "cons":  [
+                 "Precio alto",
+                 "Kit mas voluminoso"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/estaciones-energia/anker-solix-c1000-gen2-panel-solar-200w.png",
+    "affiliate_url":  "https://amzn.to/4wpiFbP",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,32 @@
+{
+    "id":  "aerlang-pistola-masaje-calor-20-velocidades",
+    "title":  "AERLANG Pistola de Masaje Muscular con Calor",
+    "brand":  "AERLANG",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "pistolas-masaje"
+                 ],
+    "category":  "pistola masaje con calor",
+    "ranking":  3,
+    "ranking_label":  "Mejor con calor",
+    "summary":  "Pistola de masaje muscular profundo con calor, 20 velocidades, 7 cabezales y pantalla LED para cuello, espalda y descarga general.",
+    "best_for":  "Usuarios que quieren masaje muscular con calor y varios cabezales a precio contenido.",
+    "not_for":  "Quien prefiere una marca premium o una pistola compacta de viaje.",
+    "score":  8.4,
+    "price":  "34,99 EUR",
+    "pros":  [
+                 "Funcion calor",
+                 "20 velocidades",
+                 "7 cabezales",
+                 "Pantalla LED"
+             ],
+    "cons":  [
+                 "Marca menos premium",
+                 "Muchos modos pueden sobrar",
+                 "No es formato mini"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/pistolas-masaje/aerlang-pistola-masaje-calor-20-velocidades.png",
+    "affiliate_url":  "https://amzn.to/4d2oYdU",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

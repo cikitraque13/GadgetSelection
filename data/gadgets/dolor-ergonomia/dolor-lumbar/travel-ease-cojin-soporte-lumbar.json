@@ -1,0 +1,31 @@
+{
+    "id":  "travel-ease-cojin-soporte-lumbar",
+    "title":  "Travel Ease Cojin de Soporte Lumbar Ergonomico",
+    "brand":  "Travel Ease",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "dolor-lumbar"
+                 ],
+    "category":  "cojines lumbares",
+    "ranking":  1,
+    "ranking_label":  "Mejor para silla y coche",
+    "summary":  "Respaldo lumbar de espuma viscoelastica para mejorar el apoyo de la espalda baja en silla, coche u oficina.",
+    "best_for":  "Personas que pasan muchas horas sentadas y necesitan apoyo lumbar estable.",
+    "not_for":  "Quien necesite masaje, calor o descarga muscular activa.",
+    "score":  8.7,
+    "price":  "39,99 EUR",
+    "pros":  [
+                 "Espuma viscoelastica",
+                 "Correas ajustables",
+                 "Uso en oficina, coche o silla"
+             ],
+    "cons":  [
+                 "No da calor ni masaje",
+                 "Depende de la silla",
+                 "Puede no encajar en respaldos muy pequenos"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/dolor-lumbar/travel-ease-cojin-soporte-lumbar.png",
+    "affiliate_url":  "https://amzn.to/4u4sYAJ",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,31 @@
+{
+    "id":  "travelisimo-fiambrera-electrica-100w-15l",
+    "title":  "TRAVELISIMO Fiambrera Electrica 100W 1.5L",
+    "brand":  "TRAVELISIMO",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "frio-cocina-12v"
+                 ],
+    "category":  "fiambrera electrica 12v 24v 220v",
+    "ranking":  3,
+    "ranking_label":  "Mejor fiambrera 3 en 1",
+    "summary":  "Fiambrera electrica de 100W y 1.5L compatible con 12V, 24V y 220V para calentar comida en coche, camion, trabajo o camper.",
+    "best_for":  "Comer caliente en ruta sin montar cocina ni depender de restaurante.",
+    "not_for":  "Cocinar desde cero o preparar varias raciones grandes.",
+    "score":  9,
+    "price":  "34,99 EUR",
+    "pros":  [
+                 "100W de potencia",
+                 "Compatible con 12V, 24V y 220V",
+                 "Interior de acero inoxidable",
+                 "Uso directo en coche y camper"
+             ],
+    "cons":  [
+                 "Pensada para calentar, no para cocinar",
+                 "Capacidad limitada a 1.5L"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/frio-cocina-12v/travelisimo-fiambrera-electrica-100w-15l.png",
+    "affiliate_url":  "https://amzn.to/4uevwMQ",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

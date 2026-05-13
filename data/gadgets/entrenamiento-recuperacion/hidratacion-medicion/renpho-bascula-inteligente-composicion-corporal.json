@@ -1,0 +1,32 @@
+{
+    "id":  "renpho-bascula-inteligente-composicion-corporal",
+    "title":  "RENPHO Bascula de Bano con App Recargable",
+    "brand":  "RENPHO",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "hidratacion-medicion"
+                 ],
+    "category":  "bascula inteligente composicion corporal",
+    "ranking":  4,
+    "ranking_label":  "Mejor medicion corporal",
+    "summary":  "Bascula inteligente recargable con Bluetooth, app, bioimpedancia y monitor de composicion corporal para peso y masa muscular.",
+    "best_for":  "Seguir peso, composicion corporal y evolucion basica del entrenamiento desde casa.",
+    "not_for":  "Quien necesita medicion clinica precisa o analisis profesional de composicion corporal.",
+    "score":  8.4,
+    "price":  "26,34 EUR",
+    "pros":  [
+                 "App movil",
+                 "Bluetooth",
+                 "Bioimpedancia",
+                 "Recargable"
+             ],
+    "cons":  [
+                 "Datos orientativos",
+                 "No sustituye medicion profesional",
+                 "Requiere usar app"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/hidratacion-medicion/renpho-bascula-inteligente-composicion-corporal.png",
+    "affiliate_url":  "https://amzn.to/4wCpZ4e",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

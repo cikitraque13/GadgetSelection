@@ -1,0 +1,32 @@
+{
+    "id":  "power-bank-27000mah-225w",
+    "title":  "Power Bank 27000mAh 22.5W PD20W",
+    "brand":  "Generic",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "powerbanks-resistentes"
+                 ],
+    "category":  "powerbanks gran capacidad",
+    "ranking":  5,
+    "ranking_label":  "Mejor gran capacidad",
+    "summary":  "Bateria externa de 27000mAh con carga rapida 22.5W, PD20W y pantalla LED para telefonos y accesorios.",
+    "best_for":  "Salidas largas donde necesitas varias cargas de movil o accesorios pequenos.",
+    "not_for":  "Quien busca bateria ligera o resistencia certificada a agua y golpes.",
+    "score":  8,
+    "price":  "19,99 EUR",
+    "pros":  [
+                 "27000mAh",
+                 "PD20W",
+                 "Pantalla LED",
+                 "Buena autonomia"
+             ],
+    "cons":  [
+                 "Marca generica",
+                 "Volumen y peso mayores",
+                 "No es outdoor rugerizado"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/powerbanks-resistentes/power-bank-27000mah-225w.png",
+    "affiliate_url":  "https://amzn.to/4dedcvN",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

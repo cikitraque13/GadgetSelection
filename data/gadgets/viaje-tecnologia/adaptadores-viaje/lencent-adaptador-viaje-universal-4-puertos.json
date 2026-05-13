@@ -1,0 +1,32 @@
+{
+    "id":  "lencent-adaptador-viaje-universal-4-puertos",
+    "title":  "LENCENT Adaptador Enchufe de Viaje Universal",
+    "brand":  "LENCENT",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "adaptadores-viaje"
+                 ],
+    "category":  "adaptadores universales",
+    "ranking":  3,
+    "ranking_label":  "Mejor barato fiable",
+    "summary":  "Adaptador internacional con 2 USB-A y 2 USB-C para Estados Unidos, Reino Unido, Europa y Australia.",
+    "best_for":  "Viajeros que quieren una solucion simple para movil, tableta, camara y accesorios.",
+    "not_for":  "Quien necesita cargar portatil o varios dispositivos de alta potencia.",
+    "score":  8.4,
+    "price":  "19,99 EUR",
+    "pros":  [
+                 "2 USB-A",
+                 "2 USB-C",
+                 "Mas de 200 paises",
+                 "Buena relacion utilidad/precio"
+             ],
+    "cons":  [
+                 "No es GaN",
+                 "Carga rapida limitada",
+                 "No sustituye un cargador de portatil"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/adaptadores-viaje/lencent-adaptador-viaje-universal-4-puertos.png",
+    "affiliate_url":  "https://amzn.to/4d3GLl3",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

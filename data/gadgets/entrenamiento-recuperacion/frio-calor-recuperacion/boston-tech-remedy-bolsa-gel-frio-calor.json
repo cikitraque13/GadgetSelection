@@ -1,0 +1,32 @@
+{
+    "id":  "boston-tech-remedy-bolsa-gel-frio-calor",
+    "title":  "Boston Tech REMEDY Bolsa de Gel Frio y Calor",
+    "brand":  "Boston Tech",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "frio-calor-recuperacion"
+                 ],
+    "category":  "bolsa gel frio calor",
+    "ranking":  4,
+    "ranking_label":  "Mejor frio-calor simple",
+    "summary":  "Pack de 2 bolsas de gel frio y calor con funda multiposicion para recuperacion muscular, fisioterapia y uso domestico.",
+    "best_for":  "Frio o calor localizado en zonas cargadas, pequenas molestias post-esfuerzo y recuperacion domestica sencilla.",
+    "not_for":  "Quien necesita calor electrico continuo o inmersion fria completa.",
+    "score":  8.2,
+    "price":  "13,90 EUR",
+    "pros":  [
+                 "Pack de 2",
+                 "Frio y calor",
+                 "Funda multiposicion",
+                 "Precio bajo"
+             ],
+    "cons":  [
+                 "Uso localizado",
+                 "Requiere congelador o microondas",
+                 "No es gadget electrico"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/frio-calor-recuperacion/boston-tech-remedy-bolsa-gel-frio-calor.png",
+    "affiliate_url":  "https://amzn.to/4wDeOIy",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

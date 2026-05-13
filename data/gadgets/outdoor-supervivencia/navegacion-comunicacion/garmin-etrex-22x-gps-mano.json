@@ -1,0 +1,32 @@
+{
+    "id":  "garmin-etrex-22x-gps-mano",
+    "title":  "Garmin eTrex 22x GPS de Mano",
+    "brand":  "Garmin",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "navegacion-comunicacion"
+                 ],
+    "category":  "gps de mano",
+    "ranking":  1,
+    "ranking_label":  "Mejor GPS de ruta",
+    "summary":  "Navegador GPS de mano resistente para senderismo, rutas, montaña y orientación sin depender solo del móvil.",
+    "best_for":  "Rutas largas, montaña y salidas donde necesitas navegación dedicada y resistente.",
+    "not_for":  "Quien solo hace paseos cortos con cobertura móvil y no quiere cargar otro dispositivo.",
+    "score":  8.7,
+    "price":  "204,92 EUR",
+    "pros":  [
+                 "GPS dedicado",
+                 "Formato resistente",
+                 "Marca especializada",
+                 "Uso outdoor real"
+             ],
+    "cons":  [
+                 "Precio alto",
+                 "Requiere aprender a usarlo",
+                 "No sustituye criterio de orientación"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/navegacion-comunicacion/garmin-etrex-22x-gps-mano.png",
+    "affiliate_url":  "https://amzn.to/3QZYL7b",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

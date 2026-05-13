@@ -1,0 +1,32 @@
+{
+    "id":  "odoland-rodillo-espuma-masaje-5-en-1",
+    "title":  "Odoland Rodillo de Espuma Masaje 5 en 1",
+    "brand":  "Odoland",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "movilidad-estiramientos"
+                 ],
+    "category":  "kit movilidad masaje 5 en 1",
+    "ranking":  2,
+    "ranking_label":  "Mejor kit de movilidad",
+    "summary":  "Kit 5 en 1 con rodillo de espuma, rodillo muscular, bolas de masaje y bolsa de transporte para movilidad, pilates, crossfit y descarga ligera.",
+    "best_for":  "Usuarios que quieren un kit compacto para movilidad, tejido blando, calentamiento y estiramientos asistidos.",
+    "not_for":  "Quien solo quiere una esterilla o quien ya tiene una tarjeta cubierta con rodillos especificos.",
+    "score":  8.3,
+    "price":  "32,99 EUR",
+    "pros":  [
+                 "Kit 5 en 1",
+                 "Incluye bolas de masaje",
+                 "Incluye bolsa",
+                 "Versatil para movilidad"
+             ],
+    "cons":  [
+                 "Roza la categoria de rodillos foam",
+                 "Mas piezas que guardar",
+                 "No sustituye masaje profesional"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/movilidad-estiramientos/odoland-rodillo-espuma-masaje-5-en-1.png",
+    "affiliate_url":  "https://amzn.to/4twRw4i",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

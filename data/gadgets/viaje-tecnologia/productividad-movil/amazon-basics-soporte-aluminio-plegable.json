@@ -1,0 +1,32 @@
+{
+    "id":  "amazon-basics-soporte-aluminio-plegable",
+    "title":  "Amazon Basics Soporte de Aluminio Plegable",
+    "brand":  "Amazon Basics",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "productividad-movil"
+                 ],
+    "category":  "soportes de portatil",
+    "ranking":  5,
+    "ranking_label":  "Mejor soporte basico",
+    "summary":  "Soporte plegable de aluminio para portatiles de 13 a 15 pulgadas, pensado para elevar pantalla y mejorar postura.",
+    "best_for":  "Quien quiere una solucion simple, estable y barata para trabajar con portatil fuera de casa.",
+    "not_for":  "Quien necesita multiples alturas, teclado integrado o soporte ultra compacto.",
+    "score":  8.1,
+    "price":  "14,95 EUR",
+    "pros":  [
+                 "Aluminio",
+                 "Plegable",
+                 "Precio bajo",
+                 "Marca Amazon Basics"
+             ],
+    "cons":  [
+                 "Menos ajustes",
+                 "No incluye accesorios",
+                 "Limitado a portatiles de tamano medio"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/productividad-movil/amazon-basics-soporte-aluminio-plegable.png",
+    "affiliate_url":  "https://amzn.to/3RvzJNk",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

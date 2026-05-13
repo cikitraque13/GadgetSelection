@@ -1,0 +1,32 @@
+{
+    "id":  "wurkkos-td02-linterna-tactica-edc",
+    "title":  "Wurkkos TD02 Linterna Tactica EDC Recargable",
+    "brand":  "Wurkkos",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "linternas-recargables"
+                 ],
+    "category":  "linternas tacticas",
+    "ranking":  7,
+    "ranking_label":  "Mejor tactica EDC",
+    "summary":  "Linterna táctica recargable compacta con interruptor trasero y puerto de carga para exterior, interior y uso diario.",
+    "best_for":  "Quien quiere una linterna de mano más seria, compacta y robusta que una opción básica.",
+    "not_for":  "Quien necesita iluminación ambiental de tienda o farol de campamento.",
+    "score":  8.1,
+    "price":  "39,99 EUR",
+    "pros":  [
+                 "Formato EDC",
+                 "Recargable",
+                 "Interruptor trasero",
+                 "Marca valorada en linternas"
+             ],
+    "cons":  [
+                 "Más cara que una linterna básica",
+                 "Menos útil como luz ambiental",
+                 "No es frontal manos libres"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/linternas-recargables/wurkkos-td02-linterna-tactica-edc.png",
+    "affiliate_url":  "https://amzn.to/49nFxP6",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

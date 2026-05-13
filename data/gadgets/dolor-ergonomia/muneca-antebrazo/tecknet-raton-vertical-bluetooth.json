@@ -1,0 +1,32 @@
+{
+    "id":  "tecknet-raton-vertical-bluetooth",
+    "title":  "TECKNET Raton Bluetooth Ergonomico Vertical",
+    "brand":  "TECKNET",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "muneca-antebrazo"
+                 ],
+    "category":  "ratones verticales",
+    "ranking":  1,
+    "ranking_label":  "Mejor para oficina",
+    "summary":  "Raton vertical inalambrico y recargable para reducir la torsion de muneca durante trabajo con ordenador.",
+    "best_for":  "Teletrabajo, oficina o uso diario de raton con molestias en muneca y antebrazo.",
+    "not_for":  "Quien ya usa trackpad comodo o necesita un raton gaming competitivo.",
+    "score":  8.6,
+    "price":  "24,99 EUR",
+    "pros":  [
+                 "Formato vertical",
+                 "Bluetooth y 2.4G",
+                 "Recargable",
+                 "Hasta 4800 dpi"
+             ],
+    "cons":  [
+                 "Requiere adaptacion inicial",
+                 "No corrige altura de mesa o silla",
+                 "Puede no encajar en manos muy pequenas"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/muneca-antebrazo/tecknet-raton-vertical-bluetooth.png",
+    "affiliate_url":  "https://amzn.to/4nq2YNM",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

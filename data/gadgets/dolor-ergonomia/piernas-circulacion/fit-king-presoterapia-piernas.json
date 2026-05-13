@@ -1,0 +1,31 @@
+{
+    "id":  "fit-king-presoterapia-piernas",
+    "title":  "FIT KING Botas Presoterapia Piernas",
+    "brand":  "FIT KING",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "piernas-circulacion"
+                 ],
+    "category":  "presoterapia piernas",
+    "ranking":  1,
+    "ranking_label":  "Mejor para piernas cansadas",
+    "summary":  "Botas de presoterapia para casa con compresion de aire en pies, pantorrillas y muslos.",
+    "best_for":  "Personas con sensacion de piernas pesadas tras muchas horas sentadas o de pie.",
+    "not_for":  "Quien busque una solucion pequena, barata o solo para pies.",
+    "score":  8.7,
+    "price":  "85,49 EUR",
+    "pros":  [
+                 "Compresion de aire",
+                 "Cubre pies, pantorrillas y muslos",
+                 "Buena opcion para casa"
+             ],
+    "cons":  [
+                 "Ocupa mas que un masajeador pequeno",
+                 "No es una solucion portatil",
+                 "Requiere sesiones sentado"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/piernas-circulacion/fit-king-presoterapia-piernas.png",
+    "affiliate_url":  "https://amzn.to/49EsM2J",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

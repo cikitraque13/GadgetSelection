@@ -1,0 +1,32 @@
+{
+    "id":  "procase-estuche-duro-gadgets-electronicos",
+    "title":  "ProCase Estuche de Viaje Antigolpes",
+    "brand":  "ProCase",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "organizadores-cables"
+                 ],
+    "category":  "estuches duros para gadgets",
+    "ranking":  6,
+    "ranking_label":  "Mejor estuche duro",
+    "summary":  "Estuche de viaje antigolpes para disco externo, cables, USB, tarjetas, adaptadores y pequenos gadgets electronicos.",
+    "best_for":  "Proteger accesorios pequeños o disco duro cuando viajan mezclados con otros objetos en la mochila.",
+    "not_for":  "Quien necesita una bolsa flexible con mucha capacidad.",
+    "score":  8.2,
+    "price":  "11,99 EUR",
+    "pros":  [
+                 "Antigolpes",
+                 "Formato duro",
+                 "Bueno para disco externo",
+                 "Protege accesorios delicados"
+             ],
+    "cons":  [
+                 "Menos flexible",
+                 "Capacidad limitada",
+                 "No sirve para cargadores grandes"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/organizadores-cables/procase-estuche-duro-gadgets-electronicos.png",
+    "affiliate_url":  "https://amzn.to/4dAeySX",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

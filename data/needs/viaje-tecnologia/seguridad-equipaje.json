@@ -1,0 +1,24 @@
+{
+    "id": "seguridad-equipaje",
+    "world_id": "viaje-tecnologia",
+    "title": "Seguridad de equipaje",
+    "slug": "seguridad-equipaje",
+    "description": "Gadgets para proteger, identificar, pesar y organizar equipaje durante viajes.",
+    "image": "/public/assets/images/needs/viaje-tecnologia/seguridad-equipaje.png",
+    "gadget_types": [
+        "candados TSA",
+        "b\u00e1sculas de equipaje",
+        "fundas de maleta",
+        "correas de seguridad",
+        "organizadores internos",
+        "bolsas RFID",
+        "bolsas impermeables",
+        "tags inteligentes"
+    ],
+    "gadgets": [],
+    "seo": {
+        "title": "Seguridad de equipaje | GadgetSelection",
+        "description": "Gadgets para proteger, identificar, pesar y organizar equipaje durante viajes."
+    },
+    "status": "draft"
+}

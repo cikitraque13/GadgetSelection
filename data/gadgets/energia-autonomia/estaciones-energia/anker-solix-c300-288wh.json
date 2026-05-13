@@ -1,0 +1,31 @@
+{
+    "id":  "anker-solix-c300-288wh",
+    "title":  "Anker SOLIX C300 Portable Power Station 288Wh",
+    "brand":  "Anker",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "estaciones-energia"
+                 ],
+    "category":  "estacion de energia compacta",
+    "ranking":  1,
+    "ranking_label":  "Mejor compacta",
+    "summary":  "Estacion de energia portatil de 288Wh con bateria LiFePO4, salida de 300W y carga rapida USB-C de 140W para camper, viaje y emergencia.",
+    "best_for":  "Escapadas cortas, cargar portatil, movil, luces y pequenos accesorios sin depender del enchufe.",
+    "not_for":  "Neveras grandes, electrodomesticos potentes o autonomia de varios dias.",
+    "score":  9.1,
+    "price":  "269,99 EUR",
+    "pros":  [
+                 "Bateria LiFePO4",
+                 "Formato compacto",
+                 "Carga rapida USB-C de 140W",
+                 "Buena opcion para escapadas cortas"
+             ],
+    "cons":  [
+                 "Capacidad limitada frente a modelos de 1000Wh",
+                 "No orientada a consumos altos continuos"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/estaciones-energia/anker-solix-c300-288wh.png",
+    "affiliate_url":  "https://amzn.to/4eDJgf3",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

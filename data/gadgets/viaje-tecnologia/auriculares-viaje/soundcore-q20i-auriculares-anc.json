@@ -1,0 +1,32 @@
+{
+    "id":  "soundcore-q20i-auriculares-anc",
+    "title":  "Soundcore Q20i Auriculares ANC",
+    "brand":  "Soundcore",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "auriculares-viaje"
+                 ],
+    "category":  "auriculares de diadema anc",
+    "ranking":  1,
+    "ranking_label":  "Mejor calidad/precio",
+    "summary":  "Auriculares Bluetooth con cancelacion de ruido activa hibrida, hasta 40 horas con ANC y personalizacion desde app.",
+    "best_for":  "Viajeros que quieren reducir ruido en avion, tren o bus sin pagar gama premium.",
+    "not_for":  "Quien busca el maximo nivel de cancelacion o acabados premium.",
+    "score":  8.7,
+    "price":  "39,90 EUR",
+    "pros":  [
+                 "Cancelacion activa",
+                 "40 horas con ANC",
+                 "App de personalizacion",
+                 "Precio muy competitivo"
+             ],
+    "cons":  [
+                 "No es gama premium",
+                 "Mas voluminoso que unos in-ear",
+                 "Materiales mas sencillos"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/auriculares-viaje/soundcore-q20i-auriculares-anc.png",
+    "affiliate_url":  "https://amzn.to/4uZLeeL",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

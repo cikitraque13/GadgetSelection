@@ -1,0 +1,31 @@
+{
+    "id":  "torre-regleta-vertical-12-tomas-4-usb-5m",
+    "title":  "Torre Regleta Enchufes 12 Tomas AC y 4 USB 5m",
+    "brand":  "No especificada",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "electricidad-12v-230v"
+                 ],
+    "category":  "regleta multipuerto camper",
+    "ranking":  3,
+    "ranking_label":  "Mejor distribucion 230V",
+    "summary":  "Torre de enchufes con 12 tomas AC, 4 USB, cable de 5 metros y potencia de 3680W para distribuir energia en camper, caravana o base de camping.",
+    "best_for":  "Organizar varios enchufes y USB desde un unico punto en una estancia camper o camping base.",
+    "not_for":  "Uso exterior bajo lluvia directa o conexion CEE pura.",
+    "score":  8.5,
+    "price":  "33,99 EUR",
+    "pros":  [
+                 "12 tomas AC",
+                 "4 puertos USB",
+                 "Cable de 5 metros",
+                 "Formato vertical ordenado"
+             ],
+    "cons":  [
+                 "No es una regleta CEE",
+                 "No debe exponerse a lluvia directa si no tiene proteccion exterior real"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/electricidad-12v-230v/torre-regleta-vertical-12-tomas-4-usb-5m.png",
+    "affiliate_url":  "https://amzn.to/4dlM4Lm",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

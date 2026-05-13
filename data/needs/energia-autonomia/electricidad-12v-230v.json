@@ -1,0 +1,24 @@
+{
+    "id":  "electricidad-12v-230v",
+    "world_id":  "energia-autonomia",
+    "title":  "Electricidad 12V / 230V",
+    "slug":  "electricidad-12v-230v",
+    "description":  "Soluciones para conectar y distribuir energía en camper o caravana: CEE, inversores, alargadores, regletas robustas y carga 12V.",
+    "image":  "/public/assets/images/needs/energia-autonomia/electricidad-12v-230v.png",
+    "gadget_types":  [
+                         "alargadores CEE",
+                         "adaptadores CEE Schuko",
+                         "inversores 12V 230V",
+                         "regletas IP44",
+                         "cargadores mechero USB-C",
+                         "cables robustos para estación"
+                     ],
+    "gadgets":  [
+
+                ],
+    "seo":  {
+                "title":  "Electricidad 12V y 230V para camper | GadgetSelection",
+                "description":  "Alargadores CEE, adaptadores, inversores, cargadores 12V y regletas para camper, caravana y camping."
+            },
+    "status":  "published"
+}

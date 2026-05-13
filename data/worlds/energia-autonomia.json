@@ -1,0 +1,22 @@
+{
+    "id":  "energia-autonomia",
+    "title":  "Energia y autonomia",
+    "slug":  "energia-autonomia",
+    "description":  "Gadgets para vivir con autonomia real en camper, caravana, roulot y camping base: energia, agua, frio, electricidad, averias, solar, carga exterior y seguridad.",
+    "image":  "/public/assets/images/needs/energia-autonomia/hero.png",
+    "needs":  [
+                  "averias-pinchazos-bateria",
+                  "estaciones-energia",
+                  "electricidad-12v-230v",
+                  "carga-exterior-camper",
+                  "agua-ducha-depositos",
+                  "frio-cocina-12v",
+                  "solar-camper",
+                  "habitabilidad-seguridad-camper"
+              ],
+    "seo":  {
+                "title":  "Gadgets para camper, caravana y autonomia | GadgetSelection",
+                "description":  "Seleccion de gadgets para autonomia en camper y caravana: estaciones de energia, solar, electricidad 12V/230V, agua, frio, cocina, averias, carga exterior y seguridad."
+            },
+    "status":  "published"
+}

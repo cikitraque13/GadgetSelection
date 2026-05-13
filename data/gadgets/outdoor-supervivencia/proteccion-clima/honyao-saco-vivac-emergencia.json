@@ -1,0 +1,32 @@
+{
+    "id":  "honyao-saco-vivac-emergencia",
+    "title":  "HONYAO Saco de Dormir Emergencia",
+    "brand":  "HONYAO",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "proteccion-clima"
+                 ],
+    "category":  "sacos vivac de emergencia",
+    "ranking":  5,
+    "ranking_label":  "Mejor para frio extremo",
+    "summary":  "Saco de emergencia tipo vivac con manta termica de aluminio para frio, espera, trekking, camping y supervivencia.",
+    "best_for":  "Tener una capa termica compacta si una salida se alarga o el clima empeora.",
+    "not_for":  "Sustituir un saco de dormir real en acampadas planificadas.",
+    "score":  8.1,
+    "price":  "15,99 EUR",
+    "pros":  [
+                 "Compacto",
+                 "Termico",
+                 "Formato saco",
+                 "Util para vivac y emergencia"
+             ],
+    "cons":  [
+                 "Uso de emergencia",
+                 "No es comodo como saco normal",
+                 "Puede generar condensacion"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/proteccion-clima/honyao-saco-vivac-emergencia.png",
+    "affiliate_url":  "https://amzn.to/4dAsagX",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

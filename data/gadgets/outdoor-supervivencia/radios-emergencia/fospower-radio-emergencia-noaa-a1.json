@@ -1,0 +1,32 @@
+{
+    "id":  "fospower-radio-emergencia-noaa-a1",
+    "title":  "FosPower Radio Portatil de Emergencia A1",
+    "brand":  "FosPower",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "radios-emergencia"
+                 ],
+    "category":  "radios de emergencia",
+    "ranking":  1,
+    "ranking_label":  "Mejor radio completa",
+    "summary":  "Radio portatil de emergencia con manivela, panel solar, bateria de 2000mAh, alarma SOS, linterna y lampara de lectura.",
+    "best_for":  "Camping, senderismo, apagones y situaciones donde necesitas informacion, luz basica y carga de respaldo.",
+    "not_for":  "Quien busca una powerbank potente o una linterna principal de alto alcance.",
+    "score":  8.6,
+    "price":  "36,99 EUR",
+    "pros":  [
+                 "Manivela",
+                 "Panel solar",
+                 "Bateria 2000mAh",
+                 "SOS y linterna"
+             ],
+    "cons":  [
+                 "Carga de movil solo como respaldo",
+                 "No sustituye una radio profesional",
+                 "Capacidad limitada frente a modelos grandes"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/radios-emergencia/fospower-radio-emergencia-noaa-a1.png",
+    "affiliate_url":  "https://amzn.to/49nLxY8",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

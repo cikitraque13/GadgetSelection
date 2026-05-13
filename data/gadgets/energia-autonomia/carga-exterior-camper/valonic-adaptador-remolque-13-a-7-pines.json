@@ -1,0 +1,31 @@
+{
+    "id":  "valonic-adaptador-remolque-13-a-7-pines",
+    "title":  "valonic Adaptador Enchufe Remolque 13 a 7 Pines",
+    "brand":  "valonic",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "carga-exterior-camper"
+                 ],
+    "category":  "adaptador electrico remolque",
+    "ranking":  5,
+    "ranking_label":  "Mejor adaptador electrico",
+    "summary":  "Adaptador de enchufe de remolque de 13 a 7 pines para caravana, coche, camion y portabicis.",
+    "best_for":  "Conectar portabicis, remolque o carga exterior cuando el vehiculo y el accesorio usan conectores distintos.",
+    "not_for":  "Quien ya tiene el mismo tipo de conector en vehiculo y accesorio.",
+    "score":  9.2,
+    "price":  "11,99 EUR",
+    "pros":  [
+                 "13 a 7 pines",
+                 "Uso claro en caravana y portabicis",
+                 "Producto barato y muy buscado",
+                 "Evita incompatibilidades electricas"
+             ],
+    "cons":  [
+                 "No convierte funciones que el vehiculo no tenga",
+                 "Hay que comprobar tipo de conexion antes de comprar"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/carga-exterior-camper/valonic-adaptador-remolque-13-a-7-pines.png",
+    "affiliate_url":  "https://amzn.to/48ZmKcV",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "dolor-lumbar",
+    "world_id": "dolor-ergonomia",
+    "title": "Dolor lumbar",
+    "slug": "dolor-lumbar",
+    "description": "Gadgets para mejorar soporte lumbar, postura sentada y comodidad en jornadas largas.",
+    "image": "/public/assets/images/needs/dolor-ergonomia/dolor-lumbar.png",
+    "gadget_types": [
+        "cojines lumbares",
+        "respaldos ergon\u00f3micos",
+        "reposapi\u00e9s",
+        "alfombrillas antifatiga",
+        "masajeadores lumbares",
+        "escritorios elevables",
+        "soportes de postura sentada",
+        "sillas ergon\u00f3micas compactas"
+    ],
+    "gadgets": [],
+    "seo": {
+        "title": "Dolor lumbar | GadgetSelection",
+        "description": "Gadgets para mejorar soporte lumbar, postura sentada y comodidad en jornadas largas."
+    },
+    "status": "draft"
+}

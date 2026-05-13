@@ -1,0 +1,24 @@
+{
+    "id":  "averias-pinchazos-bateria",
+    "world_id":  "energia-autonomia",
+    "title":  "Averías, pinchazos y batería",
+    "slug":  "averias-pinchazos-bateria",
+    "description":  "Gadgets para resolver imprevistos de vehículo en camper, caravana o ruta: batería, neumáticos, presión, baliza y pequeñas averías.",
+    "image":  "/public/assets/images/needs/energia-autonomia/averias-pinchazos-bateria.png",
+    "gadget_types":  [
+                         "arrancadores de batería",
+                         "compresores de aire",
+                         "kits antipinchazos",
+                         "balizas V16",
+                         "fusibles para coche",
+                         "reparación básica en ruta"
+                     ],
+    "gadgets":  [
+
+                ],
+    "seo":  {
+                "title":  "Averías, pinchazos y batería para camper | GadgetSelection",
+                "description":  "Arrancadores, compresores, kits antipinchazos y accesorios para no quedarte tirado con camper, caravana o coche."
+            },
+    "status":  "published"
+}

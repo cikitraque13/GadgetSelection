@@ -1,0 +1,31 @@
+{
+    "id":  "tillvex-nevera-portatil-electrica-32l",
+    "title":  "tillvex Nevera Portatil Electrica 32 Litros",
+    "brand":  "tillvex",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "frio-cocina-12v"
+                 ],
+    "category":  "nevera portatil 12v 230v",
+    "ranking":  1,
+    "ranking_label":  "Mejor nevera 32L",
+    "summary":  "Nevera portatil electrica de 32 litros para coche, camping y camper, compatible con 230V y 12V, con funcion de frio y calor.",
+    "best_for":  "Conservar bebida y comida en escapadas camper con una nevera amplia y polivalente.",
+    "not_for":  "Quien busca congelacion profunda o tecnologia de compresor avanzada.",
+    "score":  8.7,
+    "price":  "99,79 EUR",
+    "pros":  [
+                 "32 litros de capacidad",
+                 "Compatible con 230V y 12V",
+                 "Modo frio y calor",
+                 "Precio accesible"
+             ],
+    "cons":  [
+                 "No es una nevera de compresor pura",
+                 "Menos eficiente para frio intenso prolongado"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/frio-cocina-12v/tillvex-nevera-portatil-electrica-32l.png",
+    "affiliate_url":  "https://amzn.to/4uGkAXT",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

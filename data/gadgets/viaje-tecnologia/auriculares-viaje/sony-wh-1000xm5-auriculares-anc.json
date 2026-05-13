@@ -1,0 +1,32 @@
+{
+    "id":  "sony-wh-1000xm5-auriculares-anc",
+    "title":  "Sony WH-1000XM5 Auriculares Noise Cancelling",
+    "brand":  "Sony",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "auriculares-viaje"
+                 ],
+    "category":  "auriculares anc premium",
+    "ranking":  3,
+    "ranking_label":  "Mejor premium diadema",
+    "summary":  "Auriculares premium de diadema con noise cancelling, Bluetooth, llamadas, Hi-Res, 30 horas de bateria y estuche rigido.",
+    "best_for":  "Viajeros frecuentes que quieren cancelacion potente, buen sonido y comodidad de gama alta.",
+    "not_for":  "Quien busca algo pequeno o economico.",
+    "score":  8.9,
+    "price":  "235,00 EUR",
+    "pros":  [
+                 "Cancelacion premium",
+                 "30 horas de bateria",
+                 "Hi-Res",
+                 "Incluye estuche rigido"
+             ],
+    "cons":  [
+                 "Precio elevado",
+                 "Ocupan espacio",
+                 "Puede ser excesivo para uso ocasional"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/auriculares-viaje/sony-wh-1000xm5-auriculares-anc.png",
+    "affiliate_url":  "https://amzn.to/4tkMYxD",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

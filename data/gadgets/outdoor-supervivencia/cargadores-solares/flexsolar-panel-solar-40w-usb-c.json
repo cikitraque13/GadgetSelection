@@ -1,0 +1,32 @@
+{
+    "id":  "flexsolar-panel-solar-40w-usb-c",
+    "title":  "FlexSolar Cargador Solar Portatil 40W",
+    "brand":  "FlexSolar",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "cargadores-solares"
+                 ],
+    "category":  "paneles solares plegables",
+    "ranking":  2,
+    "ranking_label":  "Mejor equilibrio portatil",
+    "summary":  "Panel solar plegable de 40W con puertos USB-A y USB-C, ETFE e impermeabilidad IP67 para camping y senderismo.",
+    "best_for":  "Quien quiere mas margen de carga sin saltar a un panel grande de base camp.",
+    "not_for":  "Usuarios que buscan cargar baterias grandes de 12V o estaciones electricas potentes.",
+    "score":  8.6,
+    "price":  "79,99 EUR",
+    "pros":  [
+                 "40W",
+                 "USB-A y USB-C",
+                 "IP67",
+                 "Formato plegable"
+             ],
+    "cons":  [
+                 "Mas grande que un 28W",
+                 "No es ideal para estaciones electricas grandes",
+                 "Rendimiento variable con sombra"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/cargadores-solares/flexsolar-panel-solar-40w-usb-c.png",
+    "affiliate_url":  "https://amzn.to/4whajTP",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

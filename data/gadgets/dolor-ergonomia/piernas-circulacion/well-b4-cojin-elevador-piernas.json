@@ -1,0 +1,32 @@
+{
+    "id":  "well-b4-cojin-elevador-piernas",
+    "title":  "Well B4 Cojin Elevador de Piernas",
+    "brand":  "Well B4",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "piernas-circulacion"
+                 ],
+    "category":  "cojines elevadores de piernas",
+    "ranking":  4,
+    "ranking_label":  "Mejor solucion pasiva",
+    "summary":  "Cojin reposapiernas tipo cuna para elevar piernas en cama o sofa y favorecer descanso postural.",
+    "best_for":  "Descansar piernas elevadas sin electricidad, ruido ni configuracion.",
+    "not_for":  "Quien quiera masaje activo, calor o compresion.",
+    "score":  8.2,
+    "price":  "59,90 EUR",
+    "pros":  [
+                 "Uso pasivo",
+                 "Transpirable",
+                 "Funda lavable",
+                 "No requiere electricidad"
+             ],
+    "cons":  [
+                 "Ocupa espacio",
+                 "No masajea",
+                 "Uso limitado a cama o sofa"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/piernas-circulacion/well-b4-cojin-elevador-piernas.png",
+    "affiliate_url":  "https://amzn.to/4tAOc8o",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,32 @@
+{
+    "id":  "lifepro-rejuvawrap-manta-sauna-infrarroja",
+    "title":  "LifePro RejuvaWrap Manta de Sauna Infrarroja",
+    "brand":  "LifePro",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "frio-calor-recuperacion"
+                 ],
+    "category":  "manta sauna infrarroja",
+    "ranking":  2,
+    "ranking_label":  "Mejor calor premium",
+    "summary":  "Manta de sauna infrarroja portatil con 9 niveles de calor de 35 a 80 grados para relajacion y experiencia tipo SPA en casa.",
+    "best_for":  "Usuarios que quieren calor envolvente, relajacion post-entreno y una experiencia premium de recuperacion en casa.",
+    "not_for":  "Quien busca una solucion barata, compacta o solo frio localizado.",
+    "score":  8.6,
+    "price":  "329,99 EUR",
+    "pros":  [
+                 "Calor infrarrojo",
+                 "9 niveles de calor",
+                 "Uso domestico premium",
+                 "Experiencia tipo SPA"
+             ],
+    "cons":  [
+                 "Precio alto",
+                 "Ocupa espacio",
+                 "No es frio ni compresion"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/frio-calor-recuperacion/lifepro-rejuvawrap-manta-sauna-infrarroja.png",
+    "affiliate_url":  "https://amzn.to/4npZM4L",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

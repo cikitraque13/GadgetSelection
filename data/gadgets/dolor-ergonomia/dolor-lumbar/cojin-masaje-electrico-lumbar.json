@@ -1,0 +1,31 @@
+{
+    "id":  "cojin-masaje-electrico-lumbar",
+    "title":  "Cojin de Masaje Electrico Shiatsu",
+    "brand":  "Generic",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "dolor-lumbar"
+                 ],
+    "category":  "masajeadores lumbares",
+    "ranking":  4,
+    "ranking_label":  "Mejor para masaje puntual",
+    "summary":  "Masajeador electrico tipo cojin para trabajar espalda, hombros, piernas o zona lumbar con masaje localizado.",
+    "best_for":  "Tension muscular puntual en espalda baja tras muchas horas sentado.",
+    "not_for":  "Corregir postura, silla deficiente o falta de apoyo lumbar.",
+    "score":  8.1,
+    "price":  "45,99 EUR",
+    "pros":  [
+                 "Masaje localizado",
+                 "Uso en varias zonas del cuerpo",
+                 "Valido para oficina u hogar"
+             ],
+    "cons":  [
+                 "No corrige la causa ergonomica",
+                 "Puede no ser comodo para todos",
+                 "No sustituye apoyo lumbar"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/dolor-lumbar/cojin-masaje-electrico-lumbar.png",
+    "affiliate_url":  "https://amzn.to/3PshEzf",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

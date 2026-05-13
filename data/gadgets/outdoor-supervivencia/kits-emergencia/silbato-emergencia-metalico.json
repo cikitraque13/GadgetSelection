@@ -1,0 +1,32 @@
+{
+    "id":  "silbato-emergencia-metalico",
+    "title":  "Silbato Emergencia Metalico Pack 2",
+    "brand":  "Generic",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "kits-emergencia"
+                 ],
+    "category":  "senalizacion de emergencia",
+    "ranking":  4,
+    "ranking_label":  "Mejor senalizacion sonora",
+    "summary":  "Pack de 2 silbatos metalicos con cordon para aviso, grupo, rescate o emergencia en exterior.",
+    "best_for":  "Senalizar posicion cuando gritar no basta o conviene ahorrar energia.",
+    "not_for":  "Sustituir una radio, GPS o sistema de comunicacion.",
+    "score":  8,
+    "price":  "6,99 EUR",
+    "pros":  [
+                 "Pack de 2",
+                 "Acero inoxidable",
+                 "Con cordon",
+                 "Ligero y barato"
+             ],
+    "cons":  [
+                 "Solo senal sonora",
+                 "Depende de que alguien pueda oirlo",
+                 "No da ubicacion exacta"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/kits-emergencia/silbato-emergencia-metalico.png",
+    "affiliate_url":  "https://amzn.to/48Ob4K2",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

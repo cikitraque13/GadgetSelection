@@ -1,0 +1,32 @@
+{
+    "id":  "anker-nano-ii-cargador-usb-c-65w",
+    "title":  "Anker Cargador USB C 65W Nano II",
+    "brand":  "Anker",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "energia-viaje"
+                 ],
+    "category":  "cargadores gan de viaje",
+    "ranking":  1,
+    "ranking_label":  "Mejor cargador compacto",
+    "summary":  "Cargador USB-C compacto de 65W con 3 puertos para cargar portatil ligero, tablet, movil y accesorios durante el viaje.",
+    "best_for":  "Viajeros que quieren reducir cargadores y cargar varios dispositivos desde un solo enchufe.",
+    "not_for":  "Quien necesita adaptador internacional de enchufe o varias tomas de corriente.",
+    "score":  8.7,
+    "price":  "22,99 EUR",
+    "pros":  [
+                 "65W",
+                 "3 puertos",
+                 "Formato compacto",
+                 "Marca Anker"
+             ],
+    "cons":  [
+                 "No es adaptador universal",
+                 "Requiere enchufe compatible del pais",
+                 "No incluye bateria"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/energia-viaje/anker-nano-ii-cargador-usb-c-65w.png",
+    "affiliate_url":  "https://amzn.to/42Z7F7z",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

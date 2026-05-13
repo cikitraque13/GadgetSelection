@@ -1,0 +1,24 @@
+{
+    "id": "filtros-agua",
+    "world_id": "outdoor-supervivencia",
+    "title": "Filtros de agua",
+    "slug": "filtros-agua",
+    "description": "Sistemas port\u00e1tiles de filtrado y purificaci\u00f3n de agua para camping, rutas y emergencia.",
+    "image": "/public/assets/images/needs/outdoor-supervivencia/filtros-agua.png",
+    "gadget_types": [
+        "filtros de agua port\u00e1tiles",
+        "botellas con filtro",
+        "pastillas potabilizadoras",
+        "pajitas filtrantes",
+        "bombas filtrantes",
+        "bolsas de hidrataci\u00f3n con filtro",
+        "kits de purificaci\u00f3n",
+        "filtros para camping"
+    ],
+    "gadgets": [],
+    "seo": {
+        "title": "Filtros de agua | GadgetSelection",
+        "description": "Sistemas port\u00e1tiles de filtrado y purificaci\u00f3n de agua para camping, rutas y emergencia."
+    },
+    "status": "draft"
+}

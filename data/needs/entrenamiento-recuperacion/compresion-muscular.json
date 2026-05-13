@@ -1,0 +1,24 @@
+{
+    "id": "compresion-muscular",
+    "world_id": "entrenamiento-recuperacion",
+    "title": "Compresi\u00f3n muscular",
+    "slug": "compresion-muscular",
+    "description": "Accesorios y sistemas de compresi\u00f3n para descanso muscular y recuperaci\u00f3n tras esfuerzo.",
+    "image": "/public/assets/images/needs/entrenamiento-recuperacion/compresion-muscular.png",
+    "gadget_types": [
+        "botas de compresi\u00f3n",
+        "mangas de compresi\u00f3n",
+        "rodilleras de compresi\u00f3n",
+        "pantorrilleras",
+        "sistemas neum\u00e1ticos",
+        "compresi\u00f3n port\u00e1til",
+        "accesorios postentreno",
+        "sets de recuperaci\u00f3n"
+    ],
+    "gadgets": [],
+    "seo": {
+        "title": "Compresi\u00f3n muscular | GadgetSelection",
+        "description": "Accesorios y sistemas de compresi\u00f3n para descanso muscular y recuperaci\u00f3n tras esfuerzo."
+    },
+    "status": "draft"
+}

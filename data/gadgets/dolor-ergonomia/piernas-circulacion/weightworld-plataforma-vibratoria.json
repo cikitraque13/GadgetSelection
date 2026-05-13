@@ -1,0 +1,32 @@
+{
+    "id":  "weightworld-plataforma-vibratoria",
+    "title":  "WeightWorld Plataforma Vibratoria",
+    "brand":  "WeightWorld",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "piernas-circulacion"
+                 ],
+    "category":  "plataformas vibratorias",
+    "ranking":  6,
+    "ranking_label":  "Mejor para activacion",
+    "summary":  "Plataforma vibratoria con varias velocidades, programas, bandas elasticas, mando y altavoz Bluetooth.",
+    "best_for":  "Activacion muscular de piernas y sesiones cortas de movimiento en casa.",
+    "not_for":  "Quien necesita compresion, elevacion o masaje localizado de pantorrillas.",
+    "score":  7.9,
+    "price":  "115,99 EUR",
+    "pros":  [
+                 "99 velocidades",
+                 "5 programas",
+                 "Incluye bandas elasticas",
+                 "Mando a distancia"
+             ],
+    "cons":  [
+                 "Mas fitness que descanso",
+                 "No es especifica de circulacion",
+                 "Puede ser aparatosa"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/piernas-circulacion/weightworld-plataforma-vibratoria.png",
+    "affiliate_url":  "https://amzn.to/4ddpEvN",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

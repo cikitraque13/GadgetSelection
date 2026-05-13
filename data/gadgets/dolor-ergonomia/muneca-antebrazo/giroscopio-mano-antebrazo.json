@@ -1,0 +1,32 @@
+{
+    "id":  "giroscopio-mano-antebrazo",
+    "title":  "Giroscopio de Mano para Muneca y Antebrazo",
+    "brand":  "Generic",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "muneca-antebrazo"
+                 ],
+    "category":  "ejercitadores de muneca",
+    "ranking":  5,
+    "ranking_label":  "Mejor para movilidad activa",
+    "summary":  "Gyro ball compacta para trabajar muneca, agarre y antebrazo con movimiento progresivo y controlado.",
+    "best_for":  "Movilidad activa, activacion suave y trabajo de antebrazo sin montar equipo grande.",
+    "not_for":  "Dolor agudo, inflamacion activa o necesidad de inmovilizacion.",
+    "score":  7.9,
+    "price":  "12,99 EUR",
+    "pros":  [
+                 "Compacto",
+                 "Incluye correa",
+                 "Arranque automatico",
+                 "Trabaja muneca y antebrazo"
+             ],
+    "cons":  [
+                 "Requiere tecnica",
+                 "No es para dolor agudo",
+                 "Puede cansar rapido al principio"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/muneca-antebrazo/giroscopio-mano-antebrazo.png",
+    "affiliate_url":  "https://amzn.to/48TIGGl",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,32 @@
+{
+    "id":  "motorola-t42-walkie-talkie",
+    "title":  "Motorola T42 Red Walkie Talkie Talkabout",
+    "brand":  "Motorola",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "navegacion-comunicacion"
+                 ],
+    "category":  "walkie talkies basicos",
+    "ranking":  4,
+    "ranking_label":  "Mejor walkie básico",
+    "summary":  "Pack de 2 walkie-talkies PMR446 con 16 canales y alcance de hasta 4 km para camping, familia y grupos pequeños.",
+    "best_for":  "Camping, niños, grupos pequeños o comunicación sencilla en actividades exteriores.",
+    "not_for":  "Rutas técnicas, montaña exigente o comunicación de emergencia real.",
+    "score":  8.1,
+    "price":  "25,90 EUR",
+    "pros":  [
+                 "Pack de 2",
+                 "Precio accesible",
+                 "16 canales",
+                 "Fácil de usar"
+             ],
+    "cons":  [
+                 "Alcance limitado",
+                 "Menos resistente que modelos outdoor",
+                 "No sirve como SOS satelital"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/navegacion-comunicacion/motorola-t42-walkie-talkie.png",
+    "affiliate_url":  "https://amzn.to/4eJzJDj",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

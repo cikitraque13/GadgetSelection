@@ -1,0 +1,32 @@
+{
+    "id":  "pistola-masaje-muscular-30-velocidades-negra",
+    "title":  "Pistola de Masaje Muscular Electrica 30 Velocidades",
+    "brand":  "No especificada",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "pistolas-masaje"
+                 ],
+    "category":  "pistola masaje economica",
+    "ranking":  4,
+    "ranking_label":  "Mejor opcion barata",
+    "summary":  "Pistola de masaje electrica para tejido profundo con 30 velocidades, 8 cabezales y pantalla LCD tactil en color negro.",
+    "best_for":  "Quien busca una pistola economica con muchos niveles y cabezales para uso domestico.",
+    "not_for":  "Quien prioriza marca reconocida, durabilidad premium o motor avanzado.",
+    "score":  8,
+    "price":  "39,99 EUR",
+    "pros":  [
+                 "30 velocidades",
+                 "8 cabezales",
+                 "Pantalla LCD tactil",
+                 "Precio bajo"
+             ],
+    "cons":  [
+                 "Marca no especificada",
+                 "Calidad menos predecible",
+                 "Muchas velocidades no siempre aportan valor"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/pistolas-masaje/pistola-masaje-muscular-30-velocidades-negra.png",
+    "affiliate_url":  "https://amzn.to/4f9iBXC",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,32 @@
+{
+    "id":  "tile-mate-localizador-bluetooth-2pack",
+    "title":  "Tile by Life360 Mate Localizador Bluetooth 2 Pack",
+    "brand":  "Tile",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "localizadores-bluetooth"
+                 ],
+    "category":  "localizadores Bluetooth multiplataforma",
+    "ranking":  3,
+    "ranking_label":  "Mejor multiplataforma",
+    "summary":  "Pack de 2 localizadores Bluetooth Tile Mate para llaves, bolsos, mochilas y objetos importantes, compatible con iOS y Android.",
+    "best_for":  "Viajeros que quieren una opcion Bluetooth compatible con iPhone y Android sin depender solo de Apple o Samsung.",
+    "not_for":  "Quien necesita rastreo GPS real o cobertura global sin red cercana.",
+    "score":  8.3,
+    "price":  "43,99 EUR",
+    "pros":  [
+                 "Compatible con iOS y Android",
+                 "Pack de 2",
+                 "Marca conocida",
+                 "Bueno para llaves y bolsos"
+             ],
+    "cons":  [
+                 "Alcance Bluetooth limitado",
+                 "Algunas funciones pueden depender de app o servicio",
+                 "No es localizador satelital"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/localizadores-bluetooth/tile-mate-localizador-bluetooth-2pack.png",
+    "affiliate_url":  "https://amzn.to/4tt1KCD",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

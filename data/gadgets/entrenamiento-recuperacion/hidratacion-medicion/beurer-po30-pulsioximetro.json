@@ -1,0 +1,32 @@
+{
+    "id":  "beurer-po30-pulsioximetro",
+    "title":  "Beurer PO 30 Pulsioximetro",
+    "brand":  "Beurer",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "hidratacion-medicion"
+                 ],
+    "category":  "pulsioximetro",
+    "ranking":  5,
+    "ranking_label":  "Mejor medicion puntual",
+    "summary":  "Pulsioximetro de dedo para medir saturacion de oxigeno SpO2 y frecuencia cardiaca con pantalla en color.",
+    "best_for":  "Mediciones puntuales de pulso y saturacion antes o despues de actividad, sin convertirlo en diagnostico medico.",
+    "not_for":  "Quien busca seguimiento continuo, reloj deportivo o dispositivo medico profesional.",
+    "score":  8.2,
+    "price":  "19,99 EUR",
+    "pros":  [
+                 "Mide SpO2",
+                 "Mide frecuencia cardiaca",
+                 "Pantalla en color",
+                 "Compacto"
+             ],
+    "cons":  [
+                 "Uso puntual",
+                 "No es seguimiento continuo",
+                 "No sustituye criterio medico"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/hidratacion-medicion/beurer-po30-pulsioximetro.png",
+    "affiliate_url":  "https://amzn.to/4feuLyr",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

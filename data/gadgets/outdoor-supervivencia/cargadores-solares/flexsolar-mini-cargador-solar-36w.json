@@ -1,0 +1,32 @@
+{
+    "id":  "flexsolar-mini-cargador-solar-36w",
+    "title":  "Flexsolar Mini Cargador Solar Plegable 36W",
+    "brand":  "Flexsolar",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "cargadores-solares"
+                 ],
+    "category":  "cargadores solares plegables",
+    "ranking":  4,
+    "ranking_label":  "Mejor mini 36W",
+    "summary":  "Panel solar plegable de 36W resistente al agua con USB-A, USB-C y salida DC para dispositivos outdoor.",
+    "best_for":  "Cargar smartphone, tablet, powerbank o pequenos equipos en camping y senderismo.",
+    "not_for":  "Quien busca una placa grande para instalacion, camper o consumo continuo.",
+    "score":  8.2,
+    "price":  "54,99 EUR",
+    "pros":  [
+                 "36W",
+                 "USB-A y USB-C",
+                 "Salida DC",
+                 "Formato mini plegable"
+             ],
+    "cons":  [
+                 "No es una estacion de energia",
+                 "Potencia intermedia",
+                 "Puede quedarse corto en dias nublados"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/cargadores-solares/flexsolar-mini-cargador-solar-36w.png",
+    "affiliate_url":  "https://amzn.to/4nuXrFx",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

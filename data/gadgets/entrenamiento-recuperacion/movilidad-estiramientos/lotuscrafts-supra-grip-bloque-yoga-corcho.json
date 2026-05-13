@@ -1,0 +1,32 @@
+{
+    "id":  "lotuscrafts-supra-grip-bloque-yoga-corcho",
+    "title":  "Lotuscrafts Supra Grip Bloque de Yoga de Corcho",
+    "brand":  "Lotuscrafts",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "movilidad-estiramientos"
+                 ],
+    "category":  "bloque yoga corcho",
+    "ranking":  4,
+    "ranking_label":  "Mejor apoyo de posturas",
+    "summary":  "Bloque de yoga de corcho natural para apoyo en posturas, movilidad, estabilidad y ejercicios de flexibilidad.",
+    "best_for":  "Usuarios que necesitan soporte en posturas, mejorar tecnica y reducir distancia al suelo durante movilidad.",
+    "not_for":  "Quien busca cardio, fuerza o medicion de entrenamiento.",
+    "score":  8.2,
+    "price":  "21,99 EUR",
+    "pros":  [
+                 "Corcho natural",
+                 "Buen apoyo",
+                 "Util para principiantes",
+                 "Estable para posturas"
+             ],
+    "cons":  [
+                 "Uso limitado a suelo y posturas",
+                 "No sustituye esterilla",
+                 "Puede quedarse corto como unico accesorio"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/movilidad-estiramientos/lotuscrafts-supra-grip-bloque-yoga-corcho.png",
+    "affiliate_url":  "https://amzn.to/431gcXG",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

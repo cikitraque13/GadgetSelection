@@ -1,0 +1,32 @@
+{
+    "id":  "lifestraw-filtro-personal",
+    "title":  "LifeStraw Filtro Personal de Agua",
+    "brand":  "LifeStraw",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "filtros-agua"
+                 ],
+    "category":  "filtros personales",
+    "ranking":  1,
+    "ranking_label":  "Mejor basico de emergencia",
+    "summary":  "Filtro personal ligero para beber directamente de fuentes naturales en rutas, camping o situaciones de emergencia.",
+    "best_for":  "Mochila ligera, kit de emergencia y salidas donde necesitas una solucion simple para agua puntual.",
+    "not_for":  "Filtrar agua para varias personas o llenar botellas rapidamente.",
+    "score":  8.6,
+    "price":  "17,49 EUR",
+    "pros":  [
+                 "Muy ligero",
+                 "Facil de usar",
+                 "Precio bajo",
+                 "Formato clasico de supervivencia"
+             ],
+    "cons":  [
+                 "No almacena agua",
+                 "No es ideal para grupos",
+                 "Uso menos comodo que una botella filtrante"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/filtros-agua/lifestraw-filtro-personal.png",
+    "affiliate_url":  "https://amzn.to/42qafmY",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,31 @@
+{
+    "id":  "enjoy-solar-cable-conexion-6mm-5m",
+    "title":  "enjoy solar Cable de Conexion Profesional 6mm 5m",
+    "brand":  "enjoy solar",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "solar-camper"
+                 ],
+    "category":  "cable solar para regulador",
+    "ranking":  4,
+    "ranking_label":  "Mejor cable solar",
+    "summary":  "Cable de conexion profesional de 6mm2 y 5 metros para conectar modulo solar al regulador de carga solar.",
+    "best_for":  "Completar una instalacion solar camper con cableado adecuado entre panel y regulador.",
+    "not_for":  "Quien busca un cable especifico MC4 a XT60 para power station.",
+    "score":  8.6,
+    "price":  "18,05 EUR",
+    "pros":  [
+                 "Seccion de 6mm2",
+                 "5 metros de longitud",
+                 "Pensado para conexion solar",
+                 "Complemento esencial de instalacion"
+             ],
+    "cons":  [
+                 "No es un panel ni controlador",
+                 "Hay que comprobar compatibilidad de conectores"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/solar-camper/enjoy-solar-cable-conexion-6mm-5m.png",
+    "affiliate_url":  "https://amzn.to/4wpOfGB",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,32 @@
+{
+    "id":  "simpure-filtro-gravedad-3l",
+    "title":  "SimPure Filtro de Agua por Gravedad 3L",
+    "brand":  "SimPure",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "filtros-agua"
+                 ],
+    "category":  "filtros de gravedad",
+    "ranking":  6,
+    "ranking_label":  "Mejor para campamento",
+    "summary":  "Sistema portatil de filtro por gravedad con bolsa de 3 litros para camping, senderismo y emergencia.",
+    "best_for":  "Filtrar mas agua en campamento o para varias personas sin bombear manualmente.",
+    "not_for":  "Mochila ultraligera o beber rapido durante una ruta.",
+    "score":  8.1,
+    "price":  "35,99 EUR",
+    "pros":  [
+                 "Bolsa de 3 litros",
+                 "Funcionamiento por gravedad",
+                 "Bueno para campamento",
+                 "No requiere electricidad"
+             ],
+    "cons":  [
+                 "Mas voluminoso",
+                 "Menos rapido para beber en marcha",
+                 "Requiere colgar o apoyar la bolsa"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/filtros-agua/simpure-filtro-gravedad-3l.png",
+    "affiliate_url":  "https://amzn.to/4ngCVbu",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

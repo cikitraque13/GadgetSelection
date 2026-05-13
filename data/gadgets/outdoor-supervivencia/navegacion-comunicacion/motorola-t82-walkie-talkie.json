@@ -1,0 +1,32 @@
+{
+    "id":  "motorola-t82-walkie-talkie",
+    "title":  "Motorola Talkabout T82 Extreme Walkie Talkie",
+    "brand":  "Motorola",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "navegacion-comunicacion"
+                 ],
+    "category":  "walkie talkies outdoor",
+    "ranking":  3,
+    "ranking_label":  "Mejor walkie outdoor",
+    "summary":  "Walkie-talkies resistentes con alcance de hasta 10 km, pantalla oculta y linterna LED para grupos en exterior.",
+    "best_for":  "Grupos de camping, rutas, actividades outdoor y comunicación sin depender de cobertura móvil.",
+    "not_for":  "Comunicación a larga distancia real en montaña compleja o zonas sin línea de visión.",
+    "score":  8.4,
+    "price":  "85,94 EUR",
+    "pros":  [
+                 "Alcance hasta 10 km",
+                 "Pack preparado para exterior",
+                 "Pantalla oculta",
+                 "Incluye linterna LED"
+             ],
+    "cons":  [
+                 "El alcance real depende del terreno",
+                 "Más caro que modelos básicos",
+                 "No sustituye comunicación satelital"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/navegacion-comunicacion/motorola-t82-walkie-talkie.png",
+    "affiliate_url":  "https://amzn.to/4nlOCO5",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

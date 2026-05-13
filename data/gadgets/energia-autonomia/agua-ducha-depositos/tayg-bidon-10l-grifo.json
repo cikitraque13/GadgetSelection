@@ -1,0 +1,31 @@
+{
+    "id":  "tayg-bidon-10l-grifo",
+    "title":  "Tayg Bidon 10 Litros con Grifo",
+    "brand":  "Tayg",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "agua-ducha-depositos"
+                 ],
+    "category":  "bidon agua con grifo",
+    "ranking":  3,
+    "ranking_label":  "Mejor bidon compacto",
+    "summary":  "Bidon de 10 litros con grifo para tener agua accesible en mesa, camper, cocina exterior o zona de lavado.",
+    "best_for":  "Uso diario de agua sin cargar un deposito grande.",
+    "not_for":  "Autonomia de varios dias o grupos grandes.",
+    "score":  8.4,
+    "price":  "8,29 EUR",
+    "pros":  [
+                 "Formato compacto",
+                 "Grifo integrado",
+                 "Precio muy accesible",
+                 "Marca conocida en bidones"
+             ],
+    "cons":  [
+                 "Menos capacidad que un 20L",
+                 "Ocupa mas que una garrafa plegable cuando va vacio"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/agua-ducha-depositos/tayg-bidon-10l-grifo.png",
+    "affiliate_url":  "https://amzn.to/3P9dI6p",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,32 @@
+{
+    "id":  "mochila-antirrobo-impermeable-15-6-usb",
+    "title":  "Mochila Antirrobo Impermeable 15.6 USB",
+    "brand":  "Generic",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "mochilas-tecnologicas"
+                 ],
+    "category":  "mochilas antirrobo",
+    "ranking":  3,
+    "ranking_label":  "Mejor antirrobo barata",
+    "summary":  "Mochila impermeable para portatil de 15.6 pulgadas con puerto USB, enfoque antirrobo y uso para negocio, trabajo, viaje y escuela.",
+    "best_for":  "Viajeros que quieren una mochila economica con compartimento de portatil y funciones basicas antirrobo.",
+    "not_for":  "Quien busca acabados premium o compartimentos muy especializados.",
+    "score":  8.1,
+    "price":  "25,72 EUR",
+    "pros":  [
+                 "Antirrobo",
+                 "Impermeable",
+                 "Puerto USB",
+                 "Buen precio"
+             ],
+    "cons":  [
+                 "Marca generica",
+                 "Puerto USB pasivo",
+                 "Menos premium que modelos de marca"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/mochilas-tecnologicas/mochila-antirrobo-impermeable-15-6-usb.png",
+    "affiliate_url":  "https://amzn.to/4tkRhZP",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

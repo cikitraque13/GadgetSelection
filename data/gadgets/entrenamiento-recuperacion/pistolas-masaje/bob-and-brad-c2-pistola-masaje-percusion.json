@@ -1,0 +1,32 @@
+{
+    "id":  "bob-and-brad-c2-pistola-masaje-percusion",
+    "title":  "BOB AND BRAD C2 Pistola de Masaje",
+    "brand":  "BOB AND BRAD",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "pistolas-masaje"
+                 ],
+    "category":  "pistola masaje percusion",
+    "ranking":  1,
+    "ranking_label":  "Mejor opcion principal",
+    "summary":  "Pistola de percusion para tejidos profundos con 5 velocidades, pensada para gimnasio en casa, oficina y recuperacion muscular diaria.",
+    "best_for":  "Usuarios que quieren una pistola de masaje seria, manejable y de marca fiable para descarga muscular general.",
+    "not_for":  "Quien busca la opcion mas barata o una mini pistola ultracompacta.",
+    "score":  8.8,
+    "price":  "109,99 EUR",
+    "pros":  [
+                 "5 velocidades",
+                 "Tejidos profundos",
+                 "Marca reconocida",
+                 "Buena para recuperacion general"
+             ],
+    "cons":  [
+                 "Precio superior a modelos basicos",
+                 "No es mini",
+                 "Puede ser excesiva para uso muy ocasional"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/pistolas-masaje/bob-and-brad-c2-pistola-masaje-percusion.png",
+    "affiliate_url":  "https://amzn.to/4wow7N4",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,32 @@
+{
+    "id":  "ugreen-bolsa-accesorios-electronicos",
+    "title":  "UGREEN Bolsa Accesorios Electronicos",
+    "brand":  "UGREEN",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "organizadores-cables"
+                 ],
+    "category":  "bolsas de accesorios electronicos",
+    "ranking":  2,
+    "ranking_label":  "Mejor marca fiable",
+    "summary":  "Bolsa organizadora para cables, cargadores, movil, powerbank, disco duro y accesorios de viaje.",
+    "best_for":  "Quien quiere una bolsa de marca reconocida para ordenar accesorios electronicos en mochila o maleta.",
+    "not_for":  "Quien necesita una carcasa rigida para proteger golpes fuertes.",
+    "score":  8.4,
+    "price":  "18,39 EUR",
+    "pros":  [
+                 "Marca UGREEN",
+                 "Buena para cargadores y cables",
+                 "Compatible con iPad mini y disco duro",
+                 "Formato de viaje"
+             ],
+    "cons":  [
+                 "No es rigida",
+                 "Puede quedarse pequeña para muchos cargadores",
+                 "No sustituye una mochila tecnologica"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/organizadores-cables/ugreen-bolsa-accesorios-electronicos.png",
+    "affiliate_url":  "https://amzn.to/4ulS5zf",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

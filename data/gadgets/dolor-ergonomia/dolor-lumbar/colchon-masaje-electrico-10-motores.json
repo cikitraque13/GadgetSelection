@@ -1,0 +1,31 @@
+{
+    "id":  "colchon-masaje-electrico-10-motores",
+    "title":  "COMFIER Colchon de Masaje Electrico con 10 Motores",
+    "brand":  "COMFIER",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "dolor-lumbar"
+                 ],
+    "category":  "colchones masajeadores",
+    "ranking":  5,
+    "ranking_label":  "Mejor para descanso completo",
+    "summary":  "Colchon masajeador con vibracion y calor para aliviar espalda y cuerpo completo en sesiones de descanso.",
+    "best_for":  "Relajacion general de espalda despues de trabajo, entrenamiento o tension acumulada.",
+    "not_for":  "Quien busca una solucion compacta para silla de oficina.",
+    "score":  8,
+    "price":  "61,28 EUR",
+    "pros":  [
+                 "10 motores vibrantes",
+                 "Incluye calor",
+                 "Uso tumbado en casa"
+             ],
+    "cons":  [
+                 "Mas voluminoso",
+                 "No es especifico solo lumbar",
+                 "Precio mas alto"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/dolor-lumbar/colchon-masaje-electrico-10-motores.png",
+    "affiliate_url":  "https://amzn.to/3OSSfyz",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

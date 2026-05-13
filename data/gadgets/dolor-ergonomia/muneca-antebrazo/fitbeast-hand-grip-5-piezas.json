@@ -1,0 +1,32 @@
+{
+    "id":  "fitbeast-hand-grip-5-piezas",
+    "title":  "FitBeast Hand Grip Kit 5 Piezas",
+    "brand":  "FitBeast",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "muneca-antebrazo"
+                 ],
+    "category":  "fortalecedores de agarre",
+    "ranking":  6,
+    "ranking_label":  "Mejor para fuerza de agarre",
+    "summary":  "Kit de 5 piezas para entrenar agarre, dedos y antebrazo con resistencia ajustable y accesorios complementarios.",
+    "best_for":  "Fortalecer mano, dedos y antebrazo cuando ya no hay dolor agudo.",
+    "not_for":  "Primera solucion para dolor por ordenador sin corregir raton, teclado o postura.",
+    "score":  7.8,
+    "price":  "14,99 EUR",
+    "pros":  [
+                 "Pack completo",
+                 "Resistencia ajustable",
+                 "Incluye pelota y anillo",
+                 "Trabaja dedos y agarre"
+             ],
+    "cons":  [
+                 "Mas entrenamiento que ergonomia",
+                 "No sustituye reposo si hay lesion",
+                 "Puede sobrecargar si se usa sin criterio"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/muneca-antebrazo/fitbeast-hand-grip-5-piezas.png",
+    "affiliate_url":  "https://amzn.to/4fiuSsG",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

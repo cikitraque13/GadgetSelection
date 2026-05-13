@@ -1,0 +1,32 @@
+{
+    "id":  "sony-wf-c510-auriculares-in-ear",
+    "title":  "Sony WF-C510 Auriculares Inalambricos",
+    "brand":  "Sony",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "auriculares-viaje"
+                 ],
+    "category":  "auriculares in-ear compactos",
+    "ranking":  5,
+    "ranking_label":  "Mejor compacto economico",
+    "summary":  "Auriculares inalambricos pequenos y ligeros con conexion multipunto, modo sonido ambiente, IPX4 y hasta 22 horas de bateria.",
+    "best_for":  "Viajeros que quieren auriculares Sony compactos, ligeros y de precio contenido.",
+    "not_for":  "Quien necesita cancelacion activa de ruido potente.",
+    "score":  8.1,
+    "price":  "37,99 EUR",
+    "pros":  [
+                 "Compactos",
+                 "Multipunto",
+                 "IPX4",
+                 "Carga rapida"
+             ],
+    "cons":  [
+                 "Sin ANC potente",
+                 "Menos premium que WF-1000XM5",
+                 "Autonomia depende del uso"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/auriculares-viaje/sony-wf-c510-auriculares-in-ear.png",
+    "affiliate_url":  "https://amzn.to/3PxEXaP",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

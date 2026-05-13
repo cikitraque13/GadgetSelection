@@ -1,0 +1,32 @@
+{
+    "id":  "lepro-linterna-frontal-recargable-2pack",
+    "title":  "LEPRO Linterna Frontal LED Recargable 2 Pack",
+    "brand":  "LEPRO",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "linternas-recargables"
+                 ],
+    "category":  "linternas frontales",
+    "ranking":  1,
+    "ranking_label":  "Mejor frontal calidad/precio",
+    "summary":  "Pack de 2 linternas frontales recargables con 6 modos, luz roja e impermeabilidad IPX4 para camping, pesca, ruta y emergencia.",
+    "best_for":  "Llevar luz frontal de manos libres para rutas, tienda, pesca o salidas nocturnas.",
+    "not_for":  "Quien busca una frontal premium de montaña con alcance largo y cuerpo más robusto.",
+    "score":  8.7,
+    "price":  "18,69 EUR",
+    "pros":  [
+                 "Pack de 2",
+                 "Recargable USB",
+                 "6 modos de luz",
+                 "Incluye luz roja"
+             ],
+    "cons":  [
+                 "IPX4 limitado frente a lluvia intensa",
+                 "Menos premium que marcas técnicas",
+                 "No es la más potente para montaña exigente"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/linternas-recargables/lepro-linterna-frontal-recargable-2pack.png",
+    "affiliate_url":  "https://amzn.to/49nqLYG",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

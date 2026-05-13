@@ -1,0 +1,32 @@
+{
+    "id":  "matein-mochila-portatil-17-3-gran-capacidad",
+    "title":  "MATEIN Mochila Portatil 17.3 Gran Capacidad",
+    "brand":  "MATEIN",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "mochilas-tecnologicas"
+                 ],
+    "category":  "mochilas portatil grandes",
+    "ranking":  5,
+    "ranking_label":  "Mejor gran capacidad",
+    "summary":  "Mochila para portatil de 17.3 pulgadas con enfoque antirrobo, gran capacidad e impermeabilidad para trabajo, universidad y viaje diario.",
+    "best_for":  "Quien lleva portatil grande, cargador, tablet, accesorios y documentos en una sola mochila.",
+    "not_for":  "Viajes ligeros o usuarios que prefieren mochilas pequeñas.",
+    "score":  8.3,
+    "price":  "45,99 EUR",
+    "pros":  [
+                 "Portatil 17.3",
+                 "Gran capacidad",
+                 "Antirrobo",
+                 "Impermeable"
+             ],
+    "cons":  [
+                 "Mas grande y pesada",
+                 "No ideal para minimalistas",
+                 "Puede ser excesiva para uso corto"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/mochilas-tecnologicas/matein-mochila-portatil-17-3-gran-capacidad.png",
+    "affiliate_url":  "https://amzn.to/4d1mBbg",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

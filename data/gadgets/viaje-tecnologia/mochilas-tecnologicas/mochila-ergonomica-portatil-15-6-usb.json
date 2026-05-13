@@ -1,0 +1,32 @@
+{
+    "id":  "mochila-ergonomica-portatil-15-6-usb",
+    "title":  "Mochila Ergonomica Portatil 15.6 USB",
+    "brand":  "Generic",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "mochilas-tecnologicas"
+                 ],
+    "category":  "mochilas ergonomicas portatil",
+    "ranking":  4,
+    "ranking_label":  "Mejor ergonomica compacta",
+    "summary":  "Mochila ergonomica para portatil de 15.6 pulgadas con puerto USB, acolchado e impermeabilidad para trabajo, estudio y viaje.",
+    "best_for":  "Usuarios que priorizan comodidad, acolchado y formato elegante para portatil y accesorios.",
+    "not_for":  "Quien necesita gran capacidad o mochila expandible.",
+    "score":  8,
+    "price":  "39,99 EUR",
+    "pros":  [
+                 "Ergonomica",
+                 "Acolchada",
+                 "Puerto USB",
+                 "Estilo elegante"
+             ],
+    "cons":  [
+                 "Volumen 11L",
+                 "Menos capacidad",
+                 "Precio mayor que opciones basicas"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/mochilas-tecnologicas/mochila-ergonomica-portatil-15-6-usb.png",
+    "affiliate_url":  "https://amzn.to/4dAEwWp",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

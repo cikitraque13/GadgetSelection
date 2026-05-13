@@ -1,0 +1,24 @@
+{
+    "id": "mochilas-tecnologicas",
+    "world_id": "viaje-tecnologia",
+    "title": "Mochilas tecnol\u00f3gicas",
+    "slug": "mochilas-tecnologicas",
+    "description": "Mochilas para transportar port\u00e1til, cables, accesorios y dispositivos con orden y protecci\u00f3n.",
+    "image": "/public/assets/images/needs/viaje-tecnologia/mochilas-tecnologicas.png",
+    "gadget_types": [
+        "mochilas para port\u00e1til",
+        "mochilas antirrobo",
+        "mochilas con USB",
+        "mochilas para cables",
+        "mochilas impermeables",
+        "mochilas para viaje corto",
+        "mochilas tech minimalistas",
+        "mochilas para n\u00f3madas digitales"
+    ],
+    "gadgets": [],
+    "seo": {
+        "title": "Mochilas tecnol\u00f3gicas | GadgetSelection",
+        "description": "Mochilas para transportar port\u00e1til, cables, accesorios y dispositivos con orden y protecci\u00f3n."
+    },
+    "status": "draft"
+}

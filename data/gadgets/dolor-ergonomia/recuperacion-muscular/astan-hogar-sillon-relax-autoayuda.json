@@ -1,0 +1,32 @@
+{
+    "id":  "astan-hogar-sillon-relax-autoayuda",
+    "title":  "Astan Hogar Sillon Relax con Auto-Ayuda",
+    "brand":  "Astan Hogar",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "recuperacion-muscular"
+                 ],
+    "category":  "sillones relax con autoayuda",
+    "ranking":  2,
+    "ranking_label":  "Mejor para levantarse mejor",
+    "summary":  "Sillon relax con funcion levanta personas, reclinacion electrica, masaje y termoterapia.",
+    "best_for":  "Personas mayores o usuarios que quieren levantarse y reclinarse con menos esfuerzo.",
+    "not_for":  "Quien necesita masaje Shiatsu profundo de cuerpo completo.",
+    "score":  8.4,
+    "price":  "329,99 EUR",
+    "pros":  [
+                 "Funcion auto-ayuda",
+                 "Reclinacion electrica",
+                 "Masaje",
+                 "Termoterapia"
+             ],
+    "cons":  [
+                 "Ocupa espacio",
+                 "No es compacto",
+                 "Menos avanzado que un sillon de masaje premium"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/recuperacion-muscular/astan-hogar-sillon-relax-autoayuda.png",
+    "affiliate_url":  "https://amzn.to/4eCQjoj",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

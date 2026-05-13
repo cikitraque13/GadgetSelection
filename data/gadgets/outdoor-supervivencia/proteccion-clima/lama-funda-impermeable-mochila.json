@@ -1,0 +1,32 @@
+{
+    "id":  "lama-funda-impermeable-mochila",
+    "title":  "LAMA Funda Impermeable para Mochila 2 Piezas",
+    "brand":  "LAMA",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "proteccion-clima"
+                 ],
+    "category":  "fundas impermeables para mochila",
+    "ranking":  2,
+    "ranking_label":  "Mejor para mochila",
+    "summary":  "Pack de 2 fundas impermeables reflectantes para proteger mochilas de lluvia, polvo y salpicaduras.",
+    "best_for":  "Mantener seca la mochila en rutas con lluvia o clima cambiante.",
+    "not_for":  "Proteger objetos delicados si van sueltos dentro de la mochila sin bolsa estanca.",
+    "score":  8.3,
+    "price":  "11,99 EUR",
+    "pros":  [
+                 "Pack de 2",
+                 "Reflectante",
+                 "Impermeable",
+                 "Ligera"
+             ],
+    "cons":  [
+                 "Solo protege por fuera",
+                 "Debe ajustarse bien al tamano de mochila",
+                 "No sustituye una bolsa estanca interna"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/proteccion-clima/lama-funda-impermeable-mochila.png",
+    "affiliate_url":  "https://amzn.to/430V8k2",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

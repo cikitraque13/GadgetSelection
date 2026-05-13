@@ -1,0 +1,32 @@
+{
+    "id":  "compressport-r2v2-pantorrilleras-compresion",
+    "title":  "Compressport R2V2 Manga de Compresion para Pantorrillas",
+    "brand":  "Compressport",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "compresion-muscular"
+                 ],
+    "category":  "pantorrilleras compresion deportiva",
+    "ranking":  3,
+    "ranking_label":  "Mejor para pantorrillas",
+    "summary":  "Manga de compresion para pantorrillas orientada a proteccion muscular, rendimiento y recuperacion en running, ciclismo, trail y triatlon.",
+    "best_for":  "Deportistas que quieren compresion ligera en gemelos durante entrenamiento o recuperacion.",
+    "not_for":  "Quien busca masaje activo, calor o compresion electrica.",
+    "score":  8.4,
+    "price":  "21,99 EUR",
+    "pros":  [
+                 "Ultraligera",
+                 "Enfocada en pantorrillas",
+                 "Uso deportivo",
+                 "Buena para running y trail"
+             ],
+    "cons":  [
+                 "Solo cubre gemelos",
+                 "No incluye masaje activo",
+                 "Depende de elegir bien la talla"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/compresion-muscular/compressport-r2v2-pantorrilleras-compresion.png",
+    "affiliate_url":  "https://amzn.to/3R4Hz0k",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

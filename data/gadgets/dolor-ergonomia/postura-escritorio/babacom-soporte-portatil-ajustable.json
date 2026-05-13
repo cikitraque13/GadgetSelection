@@ -1,0 +1,32 @@
+{
+    "id":  "babacom-soporte-portatil-ajustable",
+    "title":  "Babacom Soporte Portatil Mesa 5 Angulos",
+    "brand":  "Babacom",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "postura-escritorio"
+                 ],
+    "category":  "soportes de portatil",
+    "ranking":  2,
+    "ranking_label":  "Mejor para elevar el portatil",
+    "summary":  "Soporte plegable de aluminio para elevar el portatil y reducir la postura de cuello inclinado hacia abajo.",
+    "best_for":  "Teletrabajo con portatil y uso combinado con teclado y raton externos.",
+    "not_for":  "Quien usa el teclado del portatil como teclado principal todo el dia.",
+    "score":  8.5,
+    "price":  "13,72 EUR",
+    "pros":  [
+                 "5 angulos ajustables",
+                 "Aleacion de aluminio",
+                 "Plegable",
+                 "Compatible con portatiles de 10 a 15.6 pulgadas"
+             ],
+    "cons":  [
+                 "Conviene usar teclado externo",
+                 "No sustituye un monitor grande",
+                 "Puede quedarse corto para setups muy altos"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/postura-escritorio/babacom-soporte-portatil-ajustable.png",
+    "affiliate_url":  "https://amzn.to/4eJ3RyF",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,31 @@
+{
+    "id":  "homca-almohada-cervical-2en1",
+    "title":  "HOMCA Almohada Cervical 2 en 1",
+    "brand":  "HOMCA",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "dolor-cervical"
+                 ],
+    "category":  "almohadas cervicales",
+    "ranking":  2,
+    "ranking_label":  "Mejor para dormir mejor",
+    "summary":  "Almohada cervical de espuma de memoria para mejorar el apoyo de cabeza, cuello y hombros durante el descanso.",
+    "best_for":  "Personas que despiertan con el cuello cargado o necesitan mas soporte al dormir.",
+    "not_for":  "Alivio inmediato durante el dia o masaje muscular activo.",
+    "score":  8.6,
+    "price":  "44,99 EUR",
+    "pros":  [
+                 "Buen soporte cervical durante el descanso",
+                 "Espuma de memoria",
+                 "Pensada para cabeza, cuello y hombros"
+             ],
+    "cons":  [
+                 "Requiere adaptacion segun postura",
+                 "No ofrece masaje ni calor",
+                 "No corrige la ergonomia diaria"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/dolor-cervical/homca-almohada-cervical-2en1.png",
+    "affiliate_url":  "https://amzn.to/4dgOoU8",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

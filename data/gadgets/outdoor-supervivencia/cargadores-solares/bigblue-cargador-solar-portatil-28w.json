@@ -1,0 +1,32 @@
+{
+    "id":  "bigblue-cargador-solar-portatil-28w",
+    "title":  "BigBlue 28W Cargador Solar Portatil",
+    "brand":  "BigBlue",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "cargadores-solares"
+                 ],
+    "category":  "cargadores solares portatiles",
+    "ranking":  1,
+    "ranking_label":  "Mejor para ruta y mochila",
+    "summary":  "Cargador solar plegable de 28W con USB-C, USB-A, resistencia IP44 y amperimetro LCD para salidas outdoor.",
+    "best_for":  "Rutas largas, camping ligero, movil, camara, GoPro, linterna o powerbank pequeno.",
+    "not_for":  "Cargar estaciones electricas grandes o montar una base solar de camper.",
+    "score":  8.7,
+    "price":  "69,99 EUR",
+    "pros":  [
+                 "28W portatil",
+                 "USB-C y USB-A",
+                 "IP44",
+                 "Amperimetro LCD"
+             ],
+    "cons":  [
+                 "No es para estaciones grandes",
+                 "Depende mucho del sol directo",
+                 "Potencia limitada frente a paneles de 100W"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/cargadores-solares/bigblue-cargador-solar-portatil-28w.png",
+    "affiliate_url":  "https://amzn.to/4tpCQUk",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

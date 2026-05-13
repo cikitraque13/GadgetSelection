@@ -1,0 +1,32 @@
+{
+    "id":  "sillon-masaje-reposapies-giratorio",
+    "title":  "Sillon de Masaje con Reposapies Giratorio",
+    "brand":  "Generic",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "recuperacion-muscular"
+                 ],
+    "category":  "sillones relax con reposapies",
+    "ranking":  4,
+    "ranking_label":  "Mejor para salon",
+    "summary":  "Sillon de masaje vibratorio con reposapies, giro 360 grados y respaldo ajustable para salon o dormitorio.",
+    "best_for":  "Crear una zona de relax en casa con masaje suave, reclinacion y reposapies.",
+    "not_for":  "Quien busca masaje profundo tipo Shiatsu o tecnologia avanzada.",
+    "score":  8,
+    "price":  "361,77 EUR",
+    "pros":  [
+                 "Reposapies",
+                 "Giro 360 grados",
+                 "Masaje vibratorio",
+                 "Respaldo ajustable"
+             ],
+    "cons":  [
+                 "Mas relax que masaje profundo",
+                 "Ocupa espacio",
+                 "No es cuerpo completo avanzado"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/recuperacion-muscular/sillon-masaje-reposapies-giratorio.png",
+    "affiliate_url":  "https://amzn.to/48TfgrN",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

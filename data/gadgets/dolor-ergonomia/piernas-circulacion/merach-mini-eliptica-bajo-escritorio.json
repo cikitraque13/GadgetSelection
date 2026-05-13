@@ -1,0 +1,32 @@
+{
+    "id":  "merach-mini-eliptica-bajo-escritorio",
+    "title":  "MERACH Mini Eliptica Electrica Bajo Escritorio",
+    "brand":  "MERACH",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "piernas-circulacion"
+                 ],
+    "category":  "ejercitadores de piernas electricos",
+    "ranking":  5,
+    "ranking_label":  "Mejor para movilidad suave",
+    "summary":  "Mini eliptica electrica bajo escritorio para mover piernas sentado con mando, pantalla y varias velocidades.",
+    "best_for":  "Personas sedentarias, teletrabajo o mayores que quieren movimiento suave sentado.",
+    "not_for":  "Quien busca masaje, compresion o una solucion de descanso pasivo.",
+    "score":  8.1,
+    "price":  "139,99 EUR",
+    "pros":  [
+                 "12 velocidades",
+                 "Mando a distancia",
+                 "Uso bajo escritorio",
+                 "Base antideslizante"
+             ],
+    "cons":  [
+                 "Precio alto",
+                 "No masajea",
+                 "Requiere espacio en el suelo"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/piernas-circulacion/merach-mini-eliptica-bajo-escritorio.png",
+    "affiliate_url":  "https://amzn.to/3Rh0yEZ",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

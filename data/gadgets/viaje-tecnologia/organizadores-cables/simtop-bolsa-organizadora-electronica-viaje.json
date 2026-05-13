@@ -1,0 +1,32 @@
+{
+    "id":  "simtop-bolsa-organizadora-electronica-viaje",
+    "title":  "SIMTOP Bolsa Organizadora Electronica de Viaje",
+    "brand":  "SIMTOP",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "organizadores-cables"
+                 ],
+    "category":  "bolsas organizadoras electronicas",
+    "ranking":  3,
+    "ranking_label":  "Mejor compacta",
+    "summary":  "Bolsa pequeña para organizar cables de carga, accesorios electronicos y pequenos dispositivos durante viajes o trabajo.",
+    "best_for":  "Quien busca un organizador pequeño para cables basicos, cargador y accesorios diarios.",
+    "not_for":  "Quien necesita doble capa, gran capacidad o proteccion rigida.",
+    "score":  8.1,
+    "price":  "11,39 EUR",
+    "pros":  [
+                 "Compacta",
+                 "Precio accesible",
+                 "Buena para cables basicos",
+                 "Facil de meter en mochila"
+             ],
+    "cons":  [
+                 "Capacidad limitada",
+                 "Menos compartimentos",
+                 "No protege como estuche rigido"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/organizadores-cables/simtop-bolsa-organizadora-electronica-viaje.png",
+    "affiliate_url":  "https://amzn.to/4uyClIC",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,32 @@
+{
+    "id":  "welcon-sillon-masaje-lujo-prestige-ii",
+    "title":  "WELCON Sillon de Masaje de Lujo Prestige II",
+    "brand":  "WELCON",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "recuperacion-muscular"
+                 ],
+    "category":  "sillones de masaje premium",
+    "ranking":  6,
+    "ranking_label":  "Mejor opcion premium",
+    "summary":  "Sillon de masaje Shiatsu de lujo para quien busca una solucion premium de recuperacion y relax en casa.",
+    "best_for":  "Usuarios que quieren una experiencia avanzada de masaje en casa y aceptan una inversion alta.",
+    "not_for":  "Quien busca una opcion economica o compacta.",
+    "score":  8.1,
+    "price":  "1.699,00 EUR",
+    "pros":  [
+                 "Gama premium",
+                 "Masaje Shiatsu",
+                 "Enfoque relax avanzado",
+                 "Producto de alta inversion"
+             ],
+    "cons":  [
+                 "Precio muy alto",
+                 "No apto para espacios pequenos",
+                 "Excesivo para uso ocasional"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/recuperacion-muscular/welcon-sillon-masaje-lujo-prestige-ii.png",
+    "affiliate_url":  "https://amzn.to/430pKSK",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

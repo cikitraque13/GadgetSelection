@@ -1,0 +1,32 @@
+{
+    "id":  "merach-bicicleta-estatica-4-en-1",
+    "title":  "MERACH Bicicleta Estatica 4 en 1 con App Entrenamiento",
+    "brand":  "MERACH",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "entrenamiento-casa"
+                 ],
+    "category":  "bicicleta estatica plegable",
+    "ranking":  3,
+    "ranking_label":  "Mejor bici plegable",
+    "summary":  "Bicicleta estatica plegable 4 en 1 con app de entrenamiento, resistencia magnetica de 16 niveles, banda de resistencia, pantalla LCD, medicion de pulso y asiento comodo.",
+    "best_for":  "Cardio de bajo impacto en casa, usuarios con poco espacio y sesiones regulares sin ruido.",
+    "not_for":  "Quien busca una bicicleta de spinning pesada para entrenamientos muy intensos.",
+    "score":  8.6,
+    "price":  "159,99 EUR",
+    "pros":  [
+                 "Formato 4 en 1",
+                 "Plegable",
+                 "16 niveles de resistencia",
+                 "Incluye bandas de resistencia"
+             ],
+    "cons":  [
+                 "No es una bici spinning profesional",
+                 "Menos estable que modelos pesados",
+                 "La comodidad depende del ajuste del asiento"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/entrenamiento-casa/merach-bicicleta-estatica-4-en-1.png",
+    "affiliate_url":  "https://amzn.to/4uI1d0J",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,31 @@
+{
+    "id":  "bluetti-elite-30-v2-288wh-600w",
+    "title":  "BLUETTI Elite 30 V2 Estacion de Energia Portatil 288Wh",
+    "brand":  "BLUETTI",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "estaciones-energia"
+                 ],
+    "category":  "estacion de energia compacta LiFePO4",
+    "ranking":  2,
+    "ranking_label":  "Mejor entrada LiFePO4",
+    "summary":  "Estacion portatil de 288Wh con salidas CA de 600W, Power Lifting 1500W y bateria LiFePO4 de carga rapida para camping y cortes de luz.",
+    "best_for":  "Usuarios que quieren una estacion compacta con mas margen de potencia que una mini power station.",
+    "not_for":  "Quien necesita alimentar muchos equipos durante largos periodos.",
+    "score":  9,
+    "price":  "239,00 EUR",
+    "pros":  [
+                 "288Wh de capacidad",
+                 "Salidas CA de 600W",
+                 "Bateria LiFePO4",
+                 "Precio competitivo"
+             ],
+    "cons":  [
+                 "Capacidad compacta",
+                 "No sustituye una estacion grande para varios dias"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/estaciones-energia/bluetti-elite-30-v2-288wh-600w.png",
+    "affiliate_url":  "https://amzn.to/42ZHmya",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

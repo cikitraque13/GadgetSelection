@@ -1,0 +1,32 @@
+{
+    "id":  "tessan-adaptador-viaje-gan-65w",
+    "title":  "TESSAN 65W GAN Adaptador de Viaje",
+    "brand":  "TESSAN",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "adaptadores-viaje"
+                 ],
+    "category":  "adaptadores gan de viaje",
+    "ranking":  5,
+    "ranking_label":  "Mejor GaN equilibrado",
+    "summary":  "Adaptador universal de viaje con tecnologia GaN de 65W, 2 USB-A, 2 USB-C y enchufe internacional.",
+    "best_for":  "Viajeros que quieren cargar movil, tablet y portatil ligero con un unico adaptador.",
+    "not_for":  "Quien busca un adaptador ultra barato o solo necesita enchufe basico.",
+    "score":  8.5,
+    "price":  "51,99 EUR",
+    "pros":  [
+                 "65W",
+                 "Tecnologia GaN",
+                 "2 USB-C",
+                 "2 USB-A"
+             ],
+    "cons":  [
+                 "Precio mas alto",
+                 "Mas potente de lo necesario para viajes simples",
+                 "No sustituye una regleta si viajan varias personas"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/adaptadores-viaje/tessan-adaptador-viaje-gan-65w.png",
+    "affiliate_url":  "https://amzn.to/3QRvpbf",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

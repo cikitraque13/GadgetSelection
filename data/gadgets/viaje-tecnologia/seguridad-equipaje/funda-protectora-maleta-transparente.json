@@ -1,0 +1,32 @@
+{
+    "id":  "funda-protectora-maleta-transparente",
+    "title":  "Funda Protectora Maleta Transparente",
+    "brand":  "Generic",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "seguridad-equipaje"
+                 ],
+    "category":  "fundas protectoras maleta",
+    "ranking":  4,
+    "ranking_label":  "Mejor proteccion exterior",
+    "summary":  "Funda transparente para proteger la superficie de la maleta frente a roces, suciedad y desgaste en viaje.",
+    "best_for":  "Conservar mejor la maleta sin ocultar su diseno ni perder identificacion visual.",
+    "not_for":  "Quien busca seguridad antirrobo o cierre de equipaje.",
+    "score":  7.9,
+    "price":  "17,99 EUR",
+    "pros":  [
+                 "Transparente",
+                 "Protege de roces",
+                 "Compatible con varias tallas",
+                 "Mantiene visible la maleta"
+             ],
+    "cons":  [
+                 "No es antirrobo",
+                 "Debe ajustarse a la talla",
+                 "Puede desgastarse con uso intenso"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/seguridad-equipaje/funda-protectora-maleta-transparente.png",
+    "affiliate_url":  "https://amzn.to/4uyEofM",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

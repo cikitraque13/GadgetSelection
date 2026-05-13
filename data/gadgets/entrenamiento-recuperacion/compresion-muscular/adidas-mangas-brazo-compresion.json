@@ -1,0 +1,32 @@
+{
+    "id":  "adidas-mangas-brazo-compresion",
+    "title":  "adidas Mangas de Brazo de Compresion",
+    "brand":  "adidas",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "compresion-muscular"
+                 ],
+    "category":  "mangas brazo compresion",
+    "ranking":  4,
+    "ranking_label":  "Mejor para brazos",
+    "summary":  "Mangas de brazo de compresion para soporte muscular durante entrenamiento y recuperacion de brazos.",
+    "best_for":  "Usuarios que quieren compresion en brazos para entrenamiento, deporte o recuperacion muscular localizada.",
+    "not_for":  "Quien necesita compresion de piernas, pantorrillas o un sistema electrico de recuperacion.",
+    "score":  8,
+    "price":  "109,00 EUR",
+    "pros":  [
+                 "Marca reconocida",
+                 "Compresion para brazos",
+                 "Formato deportivo",
+                 "Ligero frente a sistemas electricos"
+             ],
+    "cons":  [
+                 "Precio alto para una prenda",
+                 "Uso limitado a brazos",
+                 "No aporta calor ni masaje activo"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/compresion-muscular/adidas-mangas-brazo-compresion.png",
+    "affiliate_url":  "https://amzn.to/3P9JPD2",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

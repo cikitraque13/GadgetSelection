@@ -1,0 +1,32 @@
+{
+    "id":  "vrurc-power-bank-10000mah-cables-integrados",
+    "title":  "VRURC Power Bank 10000mAh con Cables Integrados",
+    "brand":  "VRURC",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "energia-viaje"
+                 ],
+    "category":  "powerbanks de viaje con cables",
+    "ranking":  4,
+    "ranking_label":  "Mejor sin cables sueltos",
+    "summary":  "Powerbank slim de 10000mAh con 4 cables integrados, USB-C in/out y pantalla LED para cargar el movil sin llevar cables aparte.",
+    "best_for":  "Aeropuerto, tren, hotel y dias largos donde quieres cargar el movil sin buscar cables.",
+    "not_for":  "Quien necesita una bateria rugerizada outdoor o mucha capacidad para varios dias.",
+    "score":  8.2,
+    "price":  "15,33 EUR",
+    "pros":  [
+                 "10000mAh",
+                 "4 cables integrados",
+                 "USB-C in/out",
+                 "Pantalla LED"
+             ],
+    "cons":  [
+                 "No es rugerizado",
+                 "Capacidad media",
+                 "Los cables integrados limitan flexibilidad si se dañan"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/energia-viaje/vrurc-power-bank-10000mah-cables-integrados.png",
+    "affiliate_url":  "https://amzn.to/3RxLt1O",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

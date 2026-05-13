@@ -1,0 +1,24 @@
+{
+    "id":  "solar-camper",
+    "world_id":  "energia-autonomia",
+    "title":  "Solar camper",
+    "slug":  "solar-camper",
+    "description":  "Paneles solares y kits de carga solar pensados para camper, caravana, estación de energía y autonomía prolongada.",
+    "image":  "/public/assets/images/needs/energia-autonomia/solar-camper.png",
+    "gadget_types":  [
+                         "paneles plegables 100W",
+                         "paneles plegables 200W",
+                         "paneles flexibles",
+                         "kits solares 12V",
+                         "controladores solares",
+                         "cables MC4"
+                     ],
+    "gadgets":  [
+
+                ],
+    "seo":  {
+                "title":  "Paneles solares para camper y caravana | GadgetSelection",
+                "description":  "Paneles solares plegables, flexibles y kits 12V para camper, caravana y estaciones de energía."
+            },
+    "status":  "published"
+}

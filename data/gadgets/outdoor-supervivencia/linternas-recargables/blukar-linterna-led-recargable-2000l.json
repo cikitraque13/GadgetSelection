@@ -1,0 +1,32 @@
+{
+    "id":  "blukar-linterna-led-recargable-2000l",
+    "title":  "Blukar Linterna LED Recargable 2000L",
+    "brand":  "Blukar",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "linternas-recargables"
+                 ],
+    "category":  "linternas de mano",
+    "ranking":  6,
+    "ranking_label":  "Mejor linterna de mano",
+    "summary":  "Linterna LED recargable de mano con 4 modos, cuerpo de aluminio y enfoque ajustable para camping, ciclismo o montaña.",
+    "best_for":  "Llevar una linterna compacta y barata en mochila, coche o kit de emergencia.",
+    "not_for":  "Quien necesita largo alcance real o resistencia extrema.",
+    "score":  8.3,
+    "price":  "11,49 EUR",
+    "pros":  [
+                 "Recargable",
+                 "4 modos",
+                 "Enfoque ajustable",
+                 "Muy barata"
+             ],
+    "cons":  [
+                 "No es premium",
+                 "Potencia real limitada frente a linternas técnicas",
+                 "No ideal para uso intensivo profesional"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/linternas-recargables/blukar-linterna-led-recargable-2000l.png",
+    "affiliate_url":  "https://amzn.to/42veRIu",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

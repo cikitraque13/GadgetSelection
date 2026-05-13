@@ -1,0 +1,31 @@
+{
+    "id":  "ngs-footrest-reposapies-ergonomico",
+    "title":  "NGS Footnest Reposapies Ergonomico",
+    "brand":  "NGS",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "dolor-lumbar"
+                 ],
+    "category":  "reposapies ergonomicos",
+    "ranking":  3,
+    "ranking_label":  "Mejor para postura sentada",
+    "summary":  "Reposapies ajustable con inclinacion para mejorar la posicion de piernas, pelvis y espalda baja en escritorio.",
+    "best_for":  "Teletrabajo y oficina cuando los pies no apoyan bien o la silla queda alta.",
+    "not_for":  "Alivio directo de contractura lumbar ya instalada.",
+    "score":  8.2,
+    "price":  "23,85 EUR",
+    "pros":  [
+                 "Altura ajustable",
+                 "Inclinacion de 0 a 15 grados",
+                 "Base antideslizante"
+             ],
+    "cons":  [
+                 "No actua directamente sobre la espalda",
+                 "Ocupa espacio bajo la mesa",
+                 "Depende de la altura de silla y mesa"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/dolor-lumbar/ngs-footrest-reposapies-ergonomico.png",
+    "affiliate_url":  "https://amzn.to/3P72JKL",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

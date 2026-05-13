@@ -1,0 +1,32 @@
+{
+    "id":  "m-mcombo-sillon-masaje-reclinable-calor",
+    "title":  "M MCombo Sillon Masaje Reclinable con Calor",
+    "brand":  "M MCombo",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "recuperacion-muscular"
+                 ],
+    "category":  "sillones reclinables con masaje",
+    "ranking":  5,
+    "ranking_label":  "Mejor sillon TV",
+    "summary":  "Sillon de relajacion electrico con funcion reclinable, masaje por vibracion y calefaccion.",
+    "best_for":  "Quien quiere un sillon de television comodo con masaje suave y calor.",
+    "not_for":  "Quien necesita masaje profesional de cuerpo completo.",
+    "score":  7.9,
+    "price":  "409,99 EUR",
+    "pros":  [
+                 "Reclinable electrico",
+                 "Calefaccion",
+                 "Masaje por vibracion",
+                 "Formato sillon TV"
+             ],
+    "cons":  [
+                 "Mas relax que terapia intensa",
+                 "Precio medio-alto",
+                 "Necesita espacio fijo"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/recuperacion-muscular/sillon-masaje-cuerpo-completo-14-rodillos.png",
+    "affiliate_url":  "https://amzn.to/430FnJS",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

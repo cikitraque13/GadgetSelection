@@ -1,0 +1,31 @@
+{
+    "id":  "lisen-cargador-coche-retractil-84w",
+    "title":  "LISEN Cargador Coche Retractil 84W USB-C",
+    "brand":  "LISEN",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "electricidad-12v-230v"
+                 ],
+    "category":  "cargador coche usb c",
+    "ranking":  6,
+    "ranking_label":  "Mejor carga 12V USB-C",
+    "summary":  "Cargador de coche retractil de 84W con USB-C PD45W para cargar moviles, tablets y accesorios desde tomas 12V/24V.",
+    "best_for":  "Carga rapida desde mechero en coche, camper o furgoneta sin llevar cables sueltos.",
+    "not_for":  "Alimentar dispositivos de 230V o grandes consumos.",
+    "score":  8.8,
+    "price":  "18,99 EUR",
+    "pros":  [
+                 "84W totales",
+                 "USB-C PD45W",
+                 "Cable retractil",
+                 "Compatible con 12V y 24V"
+             ],
+    "cons":  [
+                 "No sustituye un inversor",
+                 "Uso limitado a carga USB"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/electricidad-12v-230v/lisen-cargador-coche-retractil-84w.png",
+    "affiliate_url":  "https://amzn.to/4u5sgTA",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

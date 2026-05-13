@@ -1,0 +1,32 @@
+{
+    "id":  "amazon-basics-banda-resistencia-dominadas",
+    "title":  "Amazon Basics Banda Elastica de Resistencia y Dominadas",
+    "brand":  "Amazon Basics",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "bandas-elasticas"
+                 ],
+    "category":  "banda resistencia dominadas",
+    "ranking":  4,
+    "ranking_label":  "Mejor para dominadas",
+    "summary":  "Banda elastica de resistencia para dominadas asistidas y ejercicios de fuerza con peso corporal.",
+    "best_for":  "Dominadas asistidas, calistenia, movilidad de hombro y fuerza corporal.",
+    "not_for":  "Quien necesita un kit con asas, tobilleras o varias resistencias combinables.",
+    "score":  8.1,
+    "price":  "21,92 EUR",
+    "pros":  [
+                 "Formato para dominadas",
+                 "Marca Amazon Basics",
+                 "Simple de usar",
+                 "Buena para fuerza corporal"
+             ],
+    "cons":  [
+                 "Una sola banda",
+                 "No incluye asas",
+                 "Menos versatil para ejercicios con puerta"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/bandas-elasticas/amazon-basics-banda-resistencia-dominadas.png",
+    "affiliate_url":  "https://amzn.to/4d7hOni",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

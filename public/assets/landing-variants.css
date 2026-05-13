@@ -1,0 +1,461 @@
+/* =========================
+   LANDING VARIANTS
+   Theme layer for world index pages
+   ========================= */
+
+/* -------------------------
+   Shared theme variables
+   ------------------------- */
+
+.landing-scenario {
+    --theme-bg:
+        radial-gradient(circle at 14% 10%, rgba(255,255,255,.24) 0%, rgba(255,255,255,0) 26%),
+        linear-gradient(180deg, #edf2f7 0%, #f6f8fb 100%);
+
+    --theme-bg-overlay:
+        linear-gradient(90deg, rgba(138,156,178,.06) 0%, rgba(138,156,178,0) 28%),
+        linear-gradient(180deg, rgba(255,255,255,.24) 0%, rgba(255,255,255,0) 38%);
+
+    --theme-hero-fallback:
+        linear-gradient(90deg, rgba(10,21,31,.58) 0%, rgba(10,21,31,.34) 28%, rgba(10,21,31,.10) 52%, rgba(10,21,31,0) 76%),
+        linear-gradient(135deg, #17344d 0%, #32536f 48%, #607889 100%);
+
+    --theme-hero-overlay:
+        linear-gradient(180deg, rgba(8,18,27,.06) 0%, rgba(8,18,27,.28) 100%);
+
+    --theme-hero-halo: radial-gradient(ellipse at center, rgba(255,255,255,0) 0%, rgba(255,255,255,0) 100%);
+    --theme-hero-halo-opacity: 0;
+
+    --theme-chip-bg: #e8eef5;
+    --theme-chip-color: #485f77;
+    --theme-chip-border: #d7e1eb;
+
+    --theme-hero-text: #f7fbff;
+    --theme-hero-muted: #eef6ff;
+
+    --theme-panel-bg: rgba(255,255,255,.12);
+    --theme-panel-border: rgba(255,255,255,.12);
+    --theme-panel-text: #eef6ff;
+
+    --theme-bridge-bg: rgba(255,255,255,.88);
+    --theme-bridge-border: #dde5ee;
+    --theme-bridge-text: #4b5d72;
+
+    --theme-grid-bg: rgba(255,255,255,.84);
+    --theme-grid-border: #dde5ee;
+
+    --theme-card-bg: linear-gradient(180deg, #ffffff 0%, #fafbfd 100%);
+    --theme-card-border: #dde5ee;
+    --theme-card-title: #18263b;
+    --theme-card-text: #4b5d72;
+
+    --theme-card-image-overlay:
+        linear-gradient(180deg, rgba(8,18,27,.08) 0%, rgba(8,18,27,.26) 100%);
+
+    --theme-link-color: #365373;
+    --theme-marker: #c89531;
+    --theme-marker-ring: rgba(200,149,49,.12);
+}
+
+/* -------------------------
+   Fallback neutral
+   ------------------------- */
+
+.landing-scenario.is-neutral {
+    --theme-bg:
+        radial-gradient(circle at 14% 10%, rgba(255,255,255,.62) 0%, rgba(255,255,255,0) 26%),
+        linear-gradient(180deg, #edf2f7 0%, #f6f8fb 100%);
+
+    --theme-hero-fallback:
+        linear-gradient(90deg, rgba(10,21,31,.58) 0%, rgba(10,21,31,.34) 28%, rgba(10,21,31,.10) 52%, rgba(10,21,31,0) 76%),
+        linear-gradient(135deg, #17344d 0%, #32536f 48%, #607889 100%);
+}
+
+/* -------------------------
+   Dolor y ergonomia
+   ------------------------- */
+
+.landing-scenario.is-dolor-ergonomia {
+    --theme-bg:
+        linear-gradient(180deg, #163148 0%, #274761 26%, #35566f 52%, #274761 76%, #163148 100%);
+
+    --theme-bg-overlay:
+        linear-gradient(90deg, rgba(12,26,37,.16) 0%, rgba(12,26,37,0) 30%),
+        radial-gradient(circle at 78% 26%, rgba(210,220,212,.12) 0%, rgba(210,220,212,0) 20%);
+
+    --theme-hero-fallback:
+        linear-gradient(90deg, rgba(8,18,27,.82) 0%, rgba(8,18,27,.60) 24%, rgba(8,18,27,.28) 48%, rgba(8,18,27,.14) 66%, rgba(8,18,27,.20) 100%),
+        linear-gradient(135deg, #163148 0%, #274761 50%, #35566f 100%);
+
+    --theme-hero-overlay:
+        linear-gradient(90deg, rgba(8,18,27,.82) 0%, rgba(8,18,27,.60) 24%, rgba(8,18,27,.28) 48%, rgba(8,18,27,.14) 66%, rgba(8,18,27,.20) 100%),
+        linear-gradient(180deg, rgba(255,255,255,.02) 0%, rgba(8,18,27,.26) 100%);
+
+    --theme-chip-bg: linear-gradient(180deg, rgba(247,239,223,.96) 0%, rgba(236,224,198,.92) 100%);
+    --theme-chip-color: #5b4630;
+    --theme-chip-border: rgba(161,134,84,.26);
+
+    --theme-panel-bg: rgba(13,28,41,.48);
+    --theme-panel-border: rgba(255,255,255,.12);
+    --theme-panel-text: #eef4ee;
+
+    --theme-bridge-bg: rgba(239,244,240,.94);
+    --theme-bridge-border: #d7e0d6;
+    --theme-bridge-text: #415347;
+
+    --theme-grid-bg: linear-gradient(180deg, #f3f7f1 0%, #ffffff 100%);
+    --theme-grid-border: #dbe4d9;
+
+    --theme-card-bg: linear-gradient(180deg, #ffffff 0%, #fbfcfa 100%);
+    --theme-card-border: #dde4da;
+    --theme-card-title: #203027;
+    --theme-card-text: #415347;
+
+    --theme-link-color: #234236;
+    --theme-marker: #d3a03a;
+    --theme-marker-ring: rgba(211,160,58,.14);
+}
+
+/* -------------------------
+   Outdoor y supervivencia
+   ------------------------- */
+
+.landing-scenario.is-outdoor-supervivencia {
+    --theme-bg:
+        radial-gradient(circle at 18% 12%, rgba(178,205,151,.16) 0%, rgba(178,205,151,0) 26%),
+        linear-gradient(180deg, #10251f 0%, #1f3a31 34%, #365344 66%, #10251f 100%);
+
+    --theme-bg-overlay:
+        linear-gradient(90deg, rgba(8,19,15,.24) 0%, rgba(8,19,15,0) 34%),
+        radial-gradient(circle at 82% 22%, rgba(232,210,148,.12) 0%, rgba(232,210,148,0) 24%);
+
+    --theme-hero-fallback:
+        linear-gradient(90deg, rgba(8,18,15,.78) 0%, rgba(8,18,15,.52) 30%, rgba(8,18,15,.18) 62%, rgba(8,18,15,0) 100%),
+        linear-gradient(135deg, #10251f 0%, #1f3a31 48%, #365344 100%);
+
+    --theme-hero-overlay:
+        linear-gradient(90deg, rgba(8,18,15,.80) 0%, rgba(8,18,15,.54) 26%, rgba(8,18,15,.20) 56%, rgba(8,18,15,.12) 100%),
+        linear-gradient(180deg, rgba(255,255,255,.02) 0%, rgba(8,18,15,.28) 100%);
+
+    --theme-chip-bg: linear-gradient(180deg, rgba(245,238,211,.96) 0%, rgba(229,218,180,.92) 100%);
+    --theme-chip-color: #4b3e24;
+    --theme-chip-border: rgba(190,154,76,.28);
+
+    --theme-panel-bg: rgba(17,39,31,.54);
+    --theme-panel-border: rgba(255,255,255,.12);
+    --theme-panel-text: #f2f7ec;
+
+    --theme-bridge-bg: rgba(242,245,237,.94);
+    --theme-bridge-border: #d9e3cf;
+    --theme-bridge-text: #334236;
+
+    --theme-grid-bg: linear-gradient(180deg, #f2f5ed 0%, #ffffff 100%);
+    --theme-grid-border: #d8e2cf;
+
+    --theme-card-bg: linear-gradient(180deg, #ffffff 0%, #fbfcf8 100%);
+    --theme-card-border: #d7e1ce;
+    --theme-card-title: #1f3028;
+    --theme-card-text: #415347;
+
+    --theme-link-color: #244b3c;
+    --theme-marker: #c89531;
+    --theme-marker-ring: rgba(200,149,49,.14);
+}
+
+/* -------------------------
+   Viaje y tecnologia
+   ------------------------- */
+
+.landing-scenario.is-viaje-tecnologia {
+    --theme-bg:
+        radial-gradient(circle at 16% 12%, rgba(96,165,250,.14) 0%, rgba(96,165,250,0) 26%),
+        linear-gradient(180deg, #111827 0%, #1f2937 38%, #334155 72%, #111827 100%);
+
+    --theme-bg-overlay:
+        linear-gradient(90deg, rgba(9,17,31,.20) 0%, rgba(9,17,31,0) 34%),
+        radial-gradient(circle at 82% 24%, rgba(148,190,255,.12) 0%, rgba(148,190,255,0) 24%);
+
+    --theme-hero-fallback:
+        linear-gradient(90deg, rgba(8,15,28,.78) 0%, rgba(8,15,28,.52) 30%, rgba(8,15,28,.18) 62%, rgba(8,15,28,0) 100%),
+        linear-gradient(135deg, #111827 0%, #1f2937 52%, #334155 100%);
+
+    --theme-hero-overlay:
+        linear-gradient(90deg, rgba(8,15,28,.80) 0%, rgba(8,15,28,.54) 26%, rgba(8,15,28,.20) 56%, rgba(8,15,28,.12) 100%),
+        linear-gradient(180deg, rgba(255,255,255,.02) 0%, rgba(8,15,28,.28) 100%);
+
+    --theme-chip-bg: rgba(230,240,255,.96);
+    --theme-chip-color: #24415f;
+    --theme-chip-border: rgba(96,165,250,.28);
+
+    --theme-panel-bg: rgba(15,23,42,.50);
+    --theme-panel-border: rgba(255,255,255,.12);
+    --theme-panel-text: #eef6ff;
+
+    --theme-bridge-bg: rgba(245,247,251,.94);
+    --theme-bridge-border: #dbe3ee;
+    --theme-bridge-text: #334155;
+
+    --theme-grid-bg: linear-gradient(180deg, #f5f7fb 0%, #ffffff 100%);
+    --theme-grid-border: #dce4ee;
+
+    --theme-card-bg: linear-gradient(180deg, #ffffff 0%, #fafcff 100%);
+    --theme-card-border: #dbe3ee;
+    --theme-card-title: #182033;
+    --theme-card-text: #475569;
+
+    --theme-link-color: #2563eb;
+    --theme-marker: #60a5fa;
+    --theme-marker-ring: rgba(96,165,250,.16);
+}
+
+/* -------------------------
+   Entrenamiento y recuperacion
+   ------------------------- */
+
+.landing-scenario.is-entrenamiento-recuperacion {
+    --theme-bg:
+        radial-gradient(circle at 16% 12%, rgba(159,122,234,.16) 0%, rgba(159,122,234,0) 26%),
+        linear-gradient(180deg, #151827 0%, #252a44 38%, #3a4263 72%, #151827 100%);
+
+    --theme-bg-overlay:
+        linear-gradient(90deg, rgba(11,14,27,.20) 0%, rgba(11,14,27,0) 34%),
+        radial-gradient(circle at 82% 24%, rgba(180,150,255,.12) 0%, rgba(180,150,255,0) 24%);
+
+    --theme-hero-fallback:
+        linear-gradient(90deg, rgba(10,13,26,.78) 0%, rgba(10,13,26,.52) 30%, rgba(10,13,26,.18) 62%, rgba(10,13,26,0) 100%),
+        linear-gradient(135deg, #151827 0%, #252a44 52%, #3a4263 100%);
+
+    --theme-hero-overlay:
+        linear-gradient(90deg, rgba(10,13,26,.80) 0%, rgba(10,13,26,.54) 26%, rgba(10,13,26,.20) 56%, rgba(10,13,26,.12) 100%),
+        linear-gradient(180deg, rgba(255,255,255,.02) 0%, rgba(10,13,26,.28) 100%);
+
+    --theme-chip-bg: rgba(240,232,255,.96);
+    --theme-chip-color: #46346c;
+    --theme-chip-border: rgba(159,122,234,.30);
+
+    --theme-panel-bg: rgba(24,29,53,.50);
+    --theme-panel-border: rgba(255,255,255,.12);
+    --theme-panel-text: #f3f0ff;
+
+    --theme-bridge-bg: rgba(246,244,251,.94);
+    --theme-bridge-border: #e2dcf1;
+    --theme-bridge-text: #3d3852;
+
+    --theme-grid-bg: linear-gradient(180deg, #f6f4fb 0%, #ffffff 100%);
+    --theme-grid-border: #e2dcf1;
+
+    --theme-card-bg: linear-gradient(180deg, #ffffff 0%, #fbfaff 100%);
+    --theme-card-border: #e3ddf1;
+    --theme-card-title: #242033;
+    --theme-card-text: #534d63;
+
+    --theme-link-color: #6d4cc2;
+    --theme-marker: #9f7aea;
+    --theme-marker-ring: rgba(159,122,234,.18);
+}
+
+/* -------------------------
+   Energia y autonomia
+   ------------------------- */
+
+.landing-scenario.is-energia-autonomia {
+    --theme-bg:
+        radial-gradient(circle at 14% 10%, rgba(0,208,132,.13) 0%, rgba(0,208,132,0) 27%),
+        radial-gradient(circle at 82% 22%, rgba(214,182,76,.13) 0%, rgba(214,182,76,0) 25%),
+        linear-gradient(180deg, #121c22 0%, #202a30 36%, #30383b 70%, #121c22 100%);
+
+    --theme-bg-overlay:
+        linear-gradient(90deg, rgba(6,15,18,.26) 0%, rgba(6,15,18,0) 34%),
+        radial-gradient(circle at 78% 24%, rgba(124,255,203,.10) 0%, rgba(124,255,203,0) 23%),
+        radial-gradient(circle at 18% 78%, rgba(214,182,76,.10) 0%, rgba(214,182,76,0) 25%);
+
+    --theme-hero-fallback:
+        linear-gradient(90deg, rgba(8,16,20,.82) 0%, rgba(8,16,20,.58) 28%, rgba(8,16,20,.22) 58%, rgba(8,16,20,.08) 100%),
+        linear-gradient(135deg, #111c20 0%, #233136 52%, #3b4035 100%);
+
+    --theme-hero-overlay:
+        linear-gradient(90deg, rgba(8,16,20,.82) 0%, rgba(8,16,20,.58) 26%, rgba(8,16,20,.22) 56%, rgba(8,16,20,.10) 100%),
+        linear-gradient(180deg, rgba(255,255,255,.02) 0%, rgba(8,16,20,.30) 100%);
+
+    --theme-hero-halo:
+        radial-gradient(ellipse at 50% 100%, rgba(124,255,203,.24) 0%, rgba(0,208,132,.14) 26%, rgba(214,182,76,.10) 46%, rgba(0,208,132,0) 72%);
+    --theme-hero-halo-opacity: .86;
+
+    --theme-chip-bg: linear-gradient(180deg, rgba(255,243,215,.98) 0%, rgba(236,218,176,.94) 100%);
+    --theme-chip-color: #4f3b1c;
+    --theme-chip-border: rgba(214,182,76,.34);
+
+    --theme-panel-bg: rgba(12,26,30,.58);
+    --theme-panel-border: rgba(124,255,203,.13);
+    --theme-panel-text: #fff8e8;
+
+    --theme-bridge-bg: rgba(245,247,240,.95);
+    --theme-bridge-border: #dce8d7;
+    --theme-bridge-text: #34463f;
+
+    --theme-grid-bg: linear-gradient(180deg, #f5f7f0 0%, #ffffff 100%);
+    --theme-grid-border: #dce8d7;
+
+    --theme-card-bg: linear-gradient(180deg, #ffffff 0%, #fbfdf8 100%);
+    --theme-card-border: #dce8d7;
+    --theme-card-title: #1f3028;
+    --theme-card-text: #415347;
+
+    --theme-link-color: #155e4f;
+    --theme-marker: #d6b64c;
+    --theme-marker-ring: rgba(124,255,203,.16);
+}
+
+/* -------------------------
+   Shared themed rendering
+   ------------------------- */
+
+.landing-scenario {
+    background: var(--theme-bg);
+}
+
+.landing-scenario::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: var(--theme-bg-overlay);
+    pointer-events: none;
+}
+
+.landing-scenario .landing-hero::after {
+    content: "";
+    position: absolute;
+    left: 3%;
+    right: 3%;
+    bottom: -18%;
+    height: 38%;
+    background: var(--theme-hero-halo);
+    opacity: var(--theme-hero-halo-opacity);
+    filter: blur(18px);
+    pointer-events: none;
+    z-index: 1;
+}
+
+.landing-scenario .landing-hero__background {
+    background-image: var(--theme-hero-fallback);
+}
+
+.landing-scenario .landing-hero__overlay {
+    background: var(--theme-hero-overlay);
+}
+
+.landing-scenario .landing-eyebrow,
+.landing-scenario .landing-entry-card__badge,
+.landing-scenario .landing-section-kicker,
+.landing-scenario .landing-diagnostic__eyebrow,
+.landing-scenario .landing-diagnostic__tag,
+.landing-scenario .landing-context-panel__eyebrow,
+.landing-scenario .landing-context-panel__tag {
+    background: var(--theme-chip-bg);
+    color: var(--theme-chip-color);
+    border: 1px solid var(--theme-chip-border);
+    box-shadow: 0 10px 24px rgba(15,23,42,.08);
+}
+
+.landing-scenario .landing-hero__primary h1,
+.landing-scenario .landing-lead {
+    color: var(--theme-hero-text);
+}
+
+.landing-scenario .landing-benefit,
+.landing-scenario .landing-diagnostic,
+.landing-scenario .landing-context-panel {
+    background: var(--theme-panel-bg);
+    border: 1px solid var(--theme-panel-border);
+    color: var(--theme-panel-text);
+    backdrop-filter: blur(8px);
+}
+
+.landing-scenario .landing-benefit strong {
+    color: #ffffff;
+}
+
+.landing-scenario .landing-hero__footer-title {
+    color: var(--theme-hero-muted);
+}
+
+.landing-scenario .landing-hero__footer-tags span {
+    background: var(--theme-panel-bg);
+    border: 1px solid var(--theme-panel-border);
+    color: var(--theme-hero-muted);
+}
+
+.landing-scenario .landing-figure__head,
+.landing-scenario .landing-figure__torso,
+.landing-scenario .landing-figure__spine {
+    background: rgba(226,236,229,.82);
+}
+
+.landing-scenario .landing-figure__marker {
+    background: var(--theme-marker);
+    box-shadow: 0 0 0 6px var(--theme-marker-ring);
+}
+
+.landing-scenario .landing-context-panel__visual {
+    color: var(--theme-marker);
+}
+
+.landing-scenario .landing-context-panel__node {
+    box-shadow: 0 0 0 7px var(--theme-marker-ring);
+}
+
+.landing-scenario .landing-bridge__inner {
+    background: var(--theme-bridge-bg);
+    border: 1px solid var(--theme-bridge-border);
+}
+
+.landing-scenario .landing-bridge__text,
+.landing-scenario .landing-entry-card p {
+    color: var(--theme-card-text);
+}
+
+.landing-scenario .landing-grid-block {
+    background: var(--theme-grid-bg);
+    border-color: var(--theme-grid-border);
+}
+
+.landing-scenario .landing-grid-block h2,
+.landing-scenario .landing-entry-card h3 {
+    color: var(--theme-card-title);
+}
+
+.landing-scenario .landing-entry-card {
+    background: var(--theme-card-bg);
+    border-color: var(--theme-card-border);
+}
+
+.landing-scenario .landing-entry-card__visual {
+    background-image: none;
+}
+
+.landing-scenario .landing-entry-card__visual-overlay {
+    background: var(--theme-card-image-overlay);
+}
+
+.landing-scenario .landing-link--subtle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 42px;
+    padding: 0 16px;
+    border-radius: 999px;
+    background: var(--theme-chip-bg);
+    color: var(--theme-link-color);
+    border: 1px solid var(--theme-chip-border);
+    box-shadow: 0 10px 24px rgba(15,23,42,.08);
+    text-decoration: none;
+    font-weight: 700;
+    transition: transform .16s ease, box-shadow .16s ease, background .16s ease;
+}
+
+.landing-scenario .landing-link--subtle:hover,
+.landing-scenario .landing-link--subtle:focus-visible {
+    transform: translateY(-1px);
+    box-shadow: 0 14px 28px rgba(15,23,42,.12);
+    text-decoration: none;
+}

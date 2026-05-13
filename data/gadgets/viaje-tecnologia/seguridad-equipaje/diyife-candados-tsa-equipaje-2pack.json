@@ -1,0 +1,32 @@
+{
+    "id":  "diyife-candados-tsa-equipaje-2pack",
+    "title":  "Diyife Candados TSA Equipaje 2 Pack",
+    "brand":  "Diyife",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "seguridad-equipaje"
+                 ],
+    "category":  "candados tsa",
+    "ranking":  2,
+    "ranking_label":  "Mejor cierre TSA",
+    "summary":  "Pack de 2 candados TSA de combinacion para proteger maletas, mochilas y equipaje durante viajes.",
+    "best_for":  "Cerrar equipaje con una solucion simple, reconocible y apta para controles TSA.",
+    "not_for":  "Quien busca seguimiento de maleta o seguridad electronica.",
+    "score":  8.4,
+    "price":  "10,97 EUR",
+    "pros":  [
+                 "Pack de 2",
+                 "Combinacion de 3 digitos",
+                 "Formato TSA",
+                 "Util para maletas y mochilas"
+             ],
+    "cons":  [
+                 "No evita perdida de equipaje",
+                 "No sustituye vigilancia",
+                 "Combinacion simple"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/seguridad-equipaje/diyife-candados-tsa-equipaje-2pack.png",
+    "affiliate_url":  "https://amzn.to/4dp3cjE",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

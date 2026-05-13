@@ -1,0 +1,32 @@
+{
+    "id":  "pedernal-supervivencia-magnesio-7en1",
+    "title":  "Pedernal Supervivencia Magnesio Kit 7 en 1",
+    "brand":  "Generic",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "kits-emergencia"
+                 ],
+    "category":  "kits de fuego de emergencia",
+    "ranking":  6,
+    "ranking_label":  "Mejor kit fuego economico",
+    "summary":  "Kit compacto de pedernal de magnesio 7 en 1 para iniciar fuego en acampada, senderismo, montanismo o viaje.",
+    "best_for":  "Quien quiere un kit de fuego barato y multiuso como respaldo en mochila.",
+    "not_for":  "Quien prefiere una marca especializada o una solucion de encendido mas simple.",
+    "score":  8.1,
+    "price":  "9,99 EUR",
+    "pros":  [
+                 "Kit 7 en 1",
+                 "Precio bajo",
+                 "Formato compacto",
+                 "Hasta 10000 chispas segun ficha"
+             ],
+    "cons":  [
+                 "Calidad menos predecible que marcas especializadas",
+                 "Requiere practica",
+                 "No debe usarse sin criterio en zonas de riesgo"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/kits-emergencia/pedernal-supervivencia-magnesio-7en1.png",
+    "affiliate_url":  "https://amzn.to/42rEKsE",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

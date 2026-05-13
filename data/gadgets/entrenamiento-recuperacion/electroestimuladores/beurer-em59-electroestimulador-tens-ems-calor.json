@@ -1,0 +1,32 @@
+{
+    "id":  "beurer-em59-electroestimulador-tens-ems-calor",
+    "title":  "Beurer EM 59 Electroestimulador Digital con Funcion Calor",
+    "brand":  "Beurer",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "electroestimuladores"
+                 ],
+    "category":  "electroestimulador TENS EMS con calor",
+    "ranking":  1,
+    "ranking_label":  "Mejor general con calor",
+    "summary":  "Electroestimulador digital con funcion calor, TENS, EMS y masaje, 2 canales, 4 electrodos, pads de gel, intensidad regulable y temporizador.",
+    "best_for":  "Usuarios que quieren un dispositivo completo para recuperacion general, estimulacion muscular y masaje electrico con calor.",
+    "not_for":  "Quien busca el dispositivo mas barato o solo necesita un accesorio de electrodos.",
+    "score":  8.8,
+    "price":  "59,99 EUR",
+    "pros":  [
+                 "TENS y EMS",
+                 "Funcion calor",
+                 "2 canales",
+                 "Incluye 4 electrodos"
+             ],
+    "cons":  [
+                 "Mas caro que modelos basicos",
+                 "No es un dispositivo deportivo avanzado",
+                 "Requiere colocar electrodos correctamente"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/electroestimuladores/beurer-em59-electroestimulador-tens-ems-calor.png",
+    "affiliate_url":  "https://amzn.to/3R0g34g",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

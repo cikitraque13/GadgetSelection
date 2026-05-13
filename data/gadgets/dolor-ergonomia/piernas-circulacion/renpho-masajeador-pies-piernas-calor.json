@@ -1,0 +1,32 @@
+{
+    "id":  "renpho-masajeador-pies-piernas-calor",
+    "title":  "RENPHO Masajeador Shiatsu para Pies y Piernas con Calor",
+    "brand":  "RENPHO",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "piernas-circulacion"
+                 ],
+    "category":  "masajeadores premium pies y piernas",
+    "ranking":  7,
+    "ranking_label":  "Mejor opcion premium",
+    "summary":  "Masajeador Shiatsu con asa para pies y piernas, funcion de calor, control remoto y rodillo de amasamiento.",
+    "best_for":  "Quien quiere una opcion mas completa para pies, pantorrillas y descanso en casa.",
+    "not_for":  "Quien busca una solucion economica o muy compacta.",
+    "score":  8,
+    "price":  "224,99 EUR",
+    "pros":  [
+                 "Masaje Shiatsu",
+                 "Funcion de calor",
+                 "Control remoto",
+                 "Uso en pies y piernas"
+             ],
+    "cons":  [
+                 "Precio muy alto",
+                 "Mas grande que un masajeador de pies simple",
+                 "No es la primera opcion para todos"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/piernas-circulacion/renpho-masajeador-pies-piernas-calor.png",
+    "affiliate_url":  "https://amzn.to/4wkFnSp",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "pistolas-masaje",
+    "world_id": "entrenamiento-recuperacion",
+    "title": "Pistolas de masaje",
+    "slug": "pistolas-masaje",
+    "description": "Pistolas de masaje para descarga muscular, calentamiento y recuperaci\u00f3n general.",
+    "image": "/public/assets/images/needs/entrenamiento-recuperacion/pistolas-masaje.png",
+    "gadget_types": [
+        "pistolas de masaje grandes",
+        "pistolas compactas",
+        "pistolas silenciosas",
+        "pistolas con calor",
+        "pistolas para viaje",
+        "cabezales de masaje",
+        "pistolas para deportistas",
+        "pistolas econ\u00f3micas"
+    ],
+    "gadgets": [],
+    "seo": {
+        "title": "Pistolas de masaje | GadgetSelection",
+        "description": "Pistolas de masaje para descarga muscular, calentamiento y recuperaci\u00f3n general."
+    },
+    "status": "draft"
+}

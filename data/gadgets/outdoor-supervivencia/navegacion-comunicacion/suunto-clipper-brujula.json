@@ -1,0 +1,32 @@
+{
+    "id":  "suunto-clipper-brujula",
+    "title":  "SUUNTO Clipper Brujula",
+    "brand":  "SUUNTO",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "navegacion-comunicacion"
+                 ],
+    "category":  "brujulas compactas",
+    "ranking":  5,
+    "ranking_label":  "Mejor brújula compacta",
+    "summary":  "Brújula compacta tipo clip para llevar en correa, mochila o equipo como respaldo de orientación básico.",
+    "best_for":  "Tener una referencia analógica mínima sin depender de batería, móvil o GPS.",
+    "not_for":  "Navegación avanzada con mapa, rumbo preciso y planificación técnica.",
+    "score":  8,
+    "price":  "22,63 EUR",
+    "pros":  [
+                 "Muy compacta",
+                 "Sin batería",
+                 "Marca Suunto",
+                 "Buena como respaldo"
+             ],
+    "cons":  [
+                 "Menos precisa que una brújula de placa",
+                 "Pantalla pequeña",
+                 "Uso limitado para navegación avanzada"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/navegacion-comunicacion/suunto-clipper-brujula.png",
+    "affiliate_url":  "https://amzn.to/42rIo5O",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

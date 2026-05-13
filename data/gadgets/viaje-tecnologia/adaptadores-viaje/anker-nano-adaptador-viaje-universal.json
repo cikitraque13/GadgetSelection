@@ -1,0 +1,32 @@
+{
+    "id":  "anker-nano-adaptador-viaje-universal",
+    "title":  "Anker Nano Adaptador Enchufe Universal de Viaje",
+    "brand":  "Anker",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "adaptadores-viaje"
+                 ],
+    "category":  "adaptadores universales compactos",
+    "ranking":  2,
+    "ranking_label":  "Mejor premium compacto",
+    "summary":  "Adaptador universal de viaje 5 en 1 con toma CA, 2 USB-A, 2 USB-C y control de temperatura integrado.",
+    "best_for":  "Viajeros que priorizan marca fiable, tamano compacto y carga segura para dispositivos personales.",
+    "not_for":  "Quien busca la opcion mas barata posible.",
+    "score":  8.6,
+    "price":  "22,99 EUR",
+    "pros":  [
+                 "Marca Anker",
+                 "5 en 1",
+                 "2 USB-C",
+                 "Control de temperatura"
+             ],
+    "cons":  [
+                 "Mas caro que opciones genericas",
+                 "Potencia limitada frente a modelos GaN",
+                 "No pensado para portatil exigente"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/adaptadores-viaje/anker-nano-adaptador-viaje-universal.png",
+    "affiliate_url":  "https://amzn.to/4d1gSlM",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,32 @@
+{
+    "id":  "navaris-tabla-inclinada-ajustable-estiramiento",
+    "title":  "Navaris Tabla Extensible Antideslizante Ajustable",
+    "brand":  "Navaris",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "movilidad-estiramientos"
+                 ],
+    "category":  "tabla inclinada estiramiento",
+    "ranking":  5,
+    "ranking_label":  "Mejor para gemelos y tobillo",
+    "summary":  "Tabla extensible antideslizante y ajustable para estirar pantorrillas, pies, tobillos, piernas y espalda, con formato plegable.",
+    "best_for":  "Movilidad de tobillo, estiramiento de gemelos, soleo, cadena posterior y preparacion para sentadillas o carrera.",
+    "not_for":  "Quien busca una esterilla general o un accesorio pequeno de yoga.",
+    "score":  8.3,
+    "price":  "32,99 EUR",
+    "pros":  [
+                 "Ajustable",
+                 "Antideslizante",
+                 "Plegable",
+                 "Muy util para tobillo y gemelos"
+             ],
+    "cons":  [
+                 "Uso especifico",
+                 "Ocupa mas que una correa",
+                 "No es para fuerza general"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/movilidad-estiramientos/navaris-tabla-inclinada-ajustable-estiramiento.png",
+    "affiliate_url":  "https://amzn.to/42saU7u",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

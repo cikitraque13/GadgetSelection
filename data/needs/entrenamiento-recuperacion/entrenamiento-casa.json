@@ -1,0 +1,48 @@
+{
+    "id":  "entrenamiento-casa",
+    "world_id":  "entrenamiento-recuperacion",
+    "title":  "Entrenamiento en casa",
+    "slug":  "entrenamiento-casa",
+    "description":  "Maquinas y gadgets compactos para entrenar cardio y fuerza en casa sin depender del gimnasio.",
+    "image":  "/public/assets/images/needs/entrenamiento-recuperacion/entrenamiento-casa.png",
+    "gadget_types":  [
+                         {
+                             "id":  "cintas-correr",
+                             "title":  "Cintas de correr",
+                             "description":  "Cintas plegables o domesticas para correr y caminar en casa."
+                         },
+                         {
+                             "id":  "walking-pads",
+                             "title":  "Walking pads",
+                             "description":  "Cintas compactas para caminar en casa o bajo escritorio."
+                         },
+                         {
+                             "id":  "bicicletas-estaticas",
+                             "title":  "Bicicletas estaticas",
+                             "description":  "Bicicletas indoor para cardio de bajo impacto."
+                         },
+                         {
+                             "id":  "elipticas",
+                             "title":  "Elipticas",
+                             "description":  "Maquinas elipticas para cardio con menor impacto articular."
+                         },
+                         {
+                             "id":  "remos",
+                             "title":  "Remos",
+                             "description":  "Maquinas de remo para trabajo cardiovascular y muscular global."
+                         },
+                         {
+                             "id":  "fuerza-compacta",
+                             "title":  "Fuerza compacta",
+                             "description":  "Mancuernas ajustables, bancos plegables y accesorios compactos de fuerza domestica."
+                         }
+                     ],
+    "gadgets":  [
+
+                ],
+    "seo":  {
+                "title":  "Entrenamiento en casa",
+                "description":  "Seleccion de gadgets para entrenar en casa: cintas de correr, walking pads, bicicletas estaticas, elipticas, remos, mancuernas y bancos compactos."
+            },
+    "status":  "draft"
+}

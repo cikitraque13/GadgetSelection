@@ -1,0 +1,24 @@
+{
+    "id":  "frio-cocina-12v",
+    "world_id":  "energia-autonomia",
+    "title":  "Frío y cocina 12V",
+    "slug":  "frio-cocina-12v",
+    "description":  "Neveras, soluciones de frío y pequeños gadgets de cocina para conservar comida y resolver comidas básicas en camper o caravana.",
+    "image":  "/public/assets/images/needs/energia-autonomia/frio-cocina-12v.png",
+    "gadget_types":  [
+                         "neveras compresor 12V",
+                         "neveras 12V 230V",
+                         "fiambreras eléctricas",
+                         "hervidores 12V",
+                         "cafeteras portátiles",
+                         "conservación de comida"
+                     ],
+    "gadgets":  [
+
+                ],
+    "seo":  {
+                "title":  "Neveras y cocina 12V para camper | GadgetSelection",
+                "description":  "Neveras de compresor 12V, fiambreras eléctricas y accesorios de cocina compacta para camper y caravana."
+            },
+    "status":  "published"
+}

@@ -1,0 +1,32 @@
+{
+    "id":  "soundcore-p40i-auriculares-anc",
+    "title":  "Soundcore P40i Auriculares ANC",
+    "brand":  "Soundcore",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "auriculares-viaje"
+                 ],
+    "category":  "auriculares in-ear anc",
+    "ranking":  6,
+    "ranking_label":  "Mejor in-ear calidad/precio",
+    "summary":  "Auriculares inalambricos con cancelacion de ruido adaptativa, graves intensos, hasta 60 horas, IPX5 y carga inalambrica.",
+    "best_for":  "Viajeros que quieren in-ear con ANC, buena bateria y precio moderado.",
+    "not_for":  "Quien prefiere diadema o cancelacion premium Bose/Sony.",
+    "score":  8.5,
+    "price":  "49,99 EUR",
+    "pros":  [
+                 "ANC adaptativa",
+                 "Hasta 60 horas",
+                 "IPX5",
+                 "Carga inalambrica"
+             ],
+    "cons":  [
+                 "No es gama alta",
+                 "Aislamiento menor que diadema",
+                 "Ajuste depende del oido"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/auriculares-viaje/soundcore-p40i-auriculares-anc.png",
+    "affiliate_url":  "https://amzn.to/4uCuEky",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

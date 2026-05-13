@@ -1,0 +1,32 @@
+{
+    "id":  "etiquetas-equipaje-metalicas",
+    "title":  "Etiquetas Equipaje Metalicas 6 Piezas",
+    "brand":  "Generic",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "seguridad-equipaje"
+                 ],
+    "category":  "etiquetas de equipaje",
+    "ranking":  5,
+    "ranking_label":  "Mejor identificacion rapida",
+    "summary":  "Pack de etiquetas metalicas para identificar maletas, bolsos y equipaje de forma mas visible y resistente.",
+    "best_for":  "Marcar equipaje con datos de identificacion y diferenciarlo rapidamente.",
+    "not_for":  "Quien necesita rastreo Bluetooth o localizacion en tiempo real.",
+    "score":  7.8,
+    "price":  "8,99 EUR",
+    "pros":  [
+                 "Pack de 6",
+                 "Metalicas",
+                 "Sirven para maletas y bolsos",
+                 "Ayudan a identificar equipaje"
+             ],
+    "cons":  [
+                 "No localizan objetos",
+                 "No cierran ni protegen",
+                 "Dependen de que alguien revise la etiqueta"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/seguridad-equipaje/etiquetas-equipaje-metalicas.png",
+    "affiliate_url":  "https://amzn.to/4u1ZDqm",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,32 @@
+{
+    "id":  "bramble-mantas-termicas-supervivencia",
+    "title":  "Bramble 10 Mantas Termicas Supervivencia",
+    "brand":  "Bramble",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "proteccion-clima"
+                 ],
+    "category":  "mantas termicas",
+    "ranking":  7,
+    "ranking_label":  "Mejor pack termico",
+    "summary":  "Pack de 10 mantas termicas de supervivencia en dorado y plateado para conservar calor y senalizar en emergencia.",
+    "best_for":  "Mochila, coche, grupo, kit outdoor o respaldo termico barato y compacto.",
+    "not_for":  "Sustituir abrigo, saco de dormir o refugio adecuado.",
+    "score":  8,
+    "price":  "14,99 EUR",
+    "pros":  [
+                 "Pack de 10",
+                 "Muy compacto",
+                 "Uso termico y senalizacion",
+                 "Barato"
+             ],
+    "cons":  [
+                 "Uso principalmente de emergencia",
+                 "Fragiles frente a uso repetido",
+                 "No aportan comodidad"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/proteccion-clima/bramble-mantas-termicas-supervivencia.png",
+    "affiliate_url":  "https://amzn.to/4noyFqC",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

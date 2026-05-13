@@ -1,0 +1,24 @@
+{
+    "id": "powerbanks-resistentes",
+    "world_id": "outdoor-supervivencia",
+    "title": "Powerbanks resistentes",
+    "slug": "powerbanks-resistentes",
+    "description": "Bater\u00edas externas rugerizadas para exterior, emergencia, camping y dispositivos cr\u00edticos.",
+    "image": "/public/assets/images/needs/outdoor-supervivencia/powerbanks-resistentes.png",
+    "gadget_types": [
+        "powerbanks rugerizados",
+        "powerbanks solares",
+        "powerbanks con linterna",
+        "powerbanks de alta capacidad",
+        "powerbanks USB-C PD",
+        "powerbanks impermeables",
+        "bater\u00edas para camping",
+        "bater\u00edas compactas de emergencia"
+    ],
+    "gadgets": [],
+    "seo": {
+        "title": "Powerbanks resistentes | GadgetSelection",
+        "description": "Bater\u00edas externas rugerizadas para exterior, emergencia, camping y dispositivos cr\u00edticos."
+    },
+    "status": "draft"
+}

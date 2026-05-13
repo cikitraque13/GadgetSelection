@@ -1,0 +1,32 @@
+{
+    "id":  "radio-emergencia-manivela-solar-brujula",
+    "title":  "Radio de Emergencia Manivela Solar con Brujula",
+    "brand":  "Generic",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "radios-emergencia"
+                 ],
+    "category":  "radios solares con manivela",
+    "ranking":  2,
+    "ranking_label":  "Mejor multiemergencia",
+    "summary":  "Radio de emergencia con AM/FM, manivela, carga solar, alarma SOS, puerto USB, linterna LED, lampara de lectura y brujula.",
+    "best_for":  "Preparar una mochila o kit de campamento con informacion, senal SOS y luz minima.",
+    "not_for":  "Navegacion seria con brujula tecnica o comunicacion de largo alcance.",
+    "score":  8.3,
+    "price":  "32,29 EUR",
+    "pros":  [
+                 "Manivela y solar",
+                 "AM/FM",
+                 "SOS",
+                 "Incluye brujula"
+             ],
+    "cons":  [
+                 "La brujula es secundaria",
+                 "No es GPS",
+                 "No debe sustituir una linterna dedicada"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/radios-emergencia/radio-emergencia-manivela-solar-brujula.png",
+    "affiliate_url":  "https://amzn.to/4dzBgum",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

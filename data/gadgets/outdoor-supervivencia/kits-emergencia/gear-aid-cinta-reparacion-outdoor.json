@@ -1,0 +1,32 @@
+{
+    "id":  "gear-aid-cinta-reparacion-outdoor",
+    "title":  "Gear Aid Tenacious Cinta Reparacion Tela",
+    "brand":  "Gear Aid",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "kits-emergencia"
+                 ],
+    "category":  "reparacion de equipo",
+    "ranking":  2,
+    "ranking_label":  "Mejor reparacion rapida",
+    "summary":  "Cinta adhesiva para reparar tela, chaquetas, mochilas, tiendas, lonas o equipo outdoor danado.",
+    "best_for":  "Arreglar rasgados y fugas pequenas en equipo blando durante ruta, camping o emergencia.",
+    "not_for":  "Reparaciones estructurales, costuras muy grandes o piezas rigidas rotas.",
+    "score":  8.5,
+    "price":  "22,03 EUR",
+    "pros":  [
+                 "Reparacion rapida",
+                 "Pack de 2 unidades",
+                 "Buena para tienda, mochila y ropa",
+                 "Marca especializada"
+             ],
+    "cons":  [
+                 "No sirve para todo tipo de rotura",
+                 "La superficie debe estar limpia",
+                 "No reemplaza una reparacion permanente"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/kits-emergencia/gear-aid-cinta-reparacion-outdoor.png",
+    "affiliate_url":  "https://amzn.to/4wncvsG",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,31 @@
+{
+    "id":  "well-b4-reposacabezas-cojin",
+    "title":  "Well B4 Reposacabezas Cojin",
+    "brand":  "Well B4",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "dolor-cervical"
+                 ],
+    "category":  "reposacabezas ergonomicos",
+    "ranking":  6,
+    "ranking_label":  "Mejor para apoyo cervical",
+    "summary":  "Cojin reposacabezas de espuma viscoelastica para dar soporte al cuello en silla, sofa o lectura.",
+    "best_for":  "Apoyar el cuello en descansos, lectura o sillas sin buen reposacabezas.",
+    "not_for":  "Trabajo activo frente al ordenador sin ajustar altura de pantalla.",
+    "score":  8,
+    "price":  "39,90 EUR",
+    "pros":  [
+                 "Espuma viscoelastica",
+                 "Uso en silla, sofa o lectura",
+                 "Incluye contrapeso"
+             ],
+    "cons":  [
+                 "No sustituye una silla ergonomica",
+                 "Puede no encajar en todos los respaldos",
+                 "Es mas apoyo pasivo que correccion postural"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/dolor-cervical/well-b4-reposacabezas-cojin.png",
+    "affiliate_url":  "https://amzn.to/4uEbD1k",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

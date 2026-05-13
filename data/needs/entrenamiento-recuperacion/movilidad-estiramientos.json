@@ -1,0 +1,24 @@
+{
+    "id": "movilidad-estiramientos",
+    "world_id": "entrenamiento-recuperacion",
+    "title": "Movilidad y estiramientos",
+    "slug": "movilidad-estiramientos",
+    "description": "Gadgets simples para movilidad, flexibilidad, estiramientos y trabajo corporal.",
+    "image": "/public/assets/images/needs/entrenamiento-recuperacion/movilidad-estiramientos.png",
+    "gadget_types": [
+        "esterillas",
+        "bloques de movilidad",
+        "ruedas de yoga",
+        "bandas de movilidad",
+        "correas de estiramiento",
+        "pelotas de movilidad",
+        "soportes de estiramiento",
+        "kits de movilidad"
+    ],
+    "gadgets": [],
+    "seo": {
+        "title": "Movilidad y estiramientos | GadgetSelection",
+        "description": "Gadgets simples para movilidad, flexibilidad, estiramientos y trabajo corporal."
+    },
+    "status": "draft"
+}

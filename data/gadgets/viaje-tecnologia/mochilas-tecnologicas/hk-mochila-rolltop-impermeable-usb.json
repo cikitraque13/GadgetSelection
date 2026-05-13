@@ -1,0 +1,32 @@
+{
+    "id":  "hk-mochila-rolltop-impermeable-usb",
+    "title":  "HK Mochila Roll-Top Impermeable USB",
+    "brand":  "HK",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "mochilas-tecnologicas"
+                 ],
+    "category":  "mochilas rolltop impermeables",
+    "ranking":  6,
+    "ranking_label":  "Mejor roll-top impermeable",
+    "summary":  "Mochila enrollable impermeable con puerto USB para portatil de 15.6 pulgadas, enfoque antirrobo y capacidad de 23L.",
+    "best_for":  "Viajeros urbanos, lluvia, trayectos diarios y quien quiere una mochila roll-top con proteccion extra.",
+    "not_for":  "Quien prefiere acceso rapido clasico o mochila de oficina tradicional.",
+    "score":  8.2,
+    "price":  "59,99 EUR",
+    "pros":  [
+                 "Roll-top",
+                 "Impermeable",
+                 "Puerto USB",
+                 "23L"
+             ],
+    "cons":  [
+                 "Precio alto",
+                 "Acceso menos rapido",
+                 "Estilo mas urbano/deportivo"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/mochilas-tecnologicas/hk-mochila-rolltop-impermeable-usb.png",
+    "affiliate_url":  "https://amzn.to/4dAEI85",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,32 @@
+{
+    "id":  "botiquin-primeros-auxilios-camping",
+    "title":  "HONYAO Botiquin Primeros Auxilios 90 Piezas",
+    "brand":  "HONYAO",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "kits-emergencia"
+                 ],
+    "category":  "botiquines compactos",
+    "ranking":  1,
+    "ranking_label":  "Mejor primeros auxilios",
+    "summary":  "Mini botiquin de 90 piezas para coche, casa, mochila, acampada, senderismo y viaje.",
+    "best_for":  "Cortes, rozaduras, pequenos golpes, ampollas y preparacion basica en rutas o camping.",
+    "not_for":  "Emergencias medicas graves que requieren asistencia profesional.",
+    "score":  8.6,
+    "price":  "11,99 EUR",
+    "pros":  [
+                 "90 piezas",
+                 "Formato compacto",
+                 "Util para mochila y coche",
+                 "Precio accesible"
+             ],
+    "cons":  [
+                 "No sustituye atencion medica",
+                 "Conviene revisar contenido antes de cada salida",
+                 "Puede quedarse corto para grupos grandes"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/kits-emergencia/botiquin-primeros-auxilios-camping.png",
+    "affiliate_url":  "https://amzn.to/4wihb3a",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

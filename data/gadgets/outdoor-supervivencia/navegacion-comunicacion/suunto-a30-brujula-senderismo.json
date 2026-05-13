@@ -1,0 +1,32 @@
+{
+    "id":  "suunto-a30-brujula-senderismo",
+    "title":  "SUUNTO Brujula A-30 NH USGS",
+    "brand":  "SUUNTO",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "navegacion-comunicacion"
+                 ],
+    "category":  "brujulas de senderismo",
+    "ranking":  6,
+    "ranking_label":  "Mejor brújula de mapa",
+    "summary":  "Brújula de placa para senderismo, orientación y uso con mapa cuando necesitas un respaldo analógico serio.",
+    "best_for":  "Usuarios que saben trabajar con mapa, rumbo y orientación clásica en montaña.",
+    "not_for":  "Quien solo quiere una brújula pequeña de respaldo o un gadget automático.",
+    "score":  8.2,
+    "price":  "71,45 EUR",
+    "pros":  [
+                 "Brújula de placa",
+                 "Marca Suunto",
+                 "Buena para mapa",
+                 "No depende de batería"
+             ],
+    "cons":  [
+                 "Requiere saber usarla",
+                 "Precio alto para brújula básica",
+                 "No ofrece GPS ni comunicación"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/navegacion-comunicacion/suunto-a30-brujula-senderismo.png",
+    "affiliate_url":  "https://amzn.to/4dixvIC",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

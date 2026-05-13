@@ -1,0 +1,32 @@
+{
+    "id":  "iniu-power-bank-portatil-100w-25000mah",
+    "title":  "INIU Power Bank para Portatil 100W 25000mAh",
+    "brand":  "INIU",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "powerbanks-resistentes"
+                 ],
+    "category":  "powerbanks para portatil",
+    "ranking":  6,
+    "ranking_label":  "Mejor para dispositivos grandes",
+    "summary":  "Powerbank de 25000mAh con salida USB-C de 100W para portatil, Steam Deck, tablet y dispositivos de mayor consumo.",
+    "best_for":  "Campamento o salidas donde necesitas cargar algo mas que un movil.",
+    "not_for":  "Mochila ligera, rutas rapidas o quien solo necesita una carga de emergencia.",
+    "score":  8.3,
+    "price":  "59,99 EUR",
+    "pros":  [
+                 "100W",
+                 "25000mAh",
+                 "USB-C",
+                 "Apto para portatil y tablet"
+             ],
+    "cons":  [
+                 "Mas caro",
+                 "Mas pesado",
+                 "Menos orientado a uso ultraligero"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/powerbanks-resistentes/iniu-power-bank-portatil-100w-25000mah.png",
+    "affiliate_url":  "https://amzn.to/4tnlfwx",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

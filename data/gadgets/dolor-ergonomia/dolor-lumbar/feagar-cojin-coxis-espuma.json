@@ -1,0 +1,31 @@
+{
+    "id":  "feagar-cojin-coxis-espuma",
+    "title":  "Feagar Cojin Coxis de Espuma Memoria",
+    "brand":  "Feagar",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "dolor-lumbar"
+                 ],
+    "category":  "cojines de asiento ergonomicos",
+    "ranking":  2,
+    "ranking_label":  "Mejor para pelvis y coxis",
+    "summary":  "Cojin de asiento de espuma de memoria para descargar coxis, pelvis y zona lumbar al sentarse.",
+    "best_for":  "Mejorar el apoyo de pelvis en oficina, coche, silla gaming o silla de ruedas.",
+    "not_for":  "Quien busque soporte directo en el respaldo lumbar.",
+    "score":  8.5,
+    "price":  "37,99 EUR",
+    "pros":  [
+                 "Espuma de memoria",
+                 "Funda lavable",
+                 "Uso en varias sillas"
+             ],
+    "cons":  [
+                 "No sustituye respaldo lumbar",
+                 "Puede elevar demasiado el asiento",
+                 "No incluye masaje"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/dolor-lumbar/feagar-cojin-coxis-espuma.png",
+    "affiliate_url":  "https://amzn.to/4d2QTKI",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

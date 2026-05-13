@@ -1,0 +1,32 @@
+{
+    "id":  "dr-arthritis-musleras-compresion",
+    "title":  "Dr. Arthritis Musleras Compresion Hombre",
+    "brand":  "Dr. Arthritis",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "compresion-muscular"
+                 ],
+    "category":  "musleras compresion",
+    "ranking":  5,
+    "ranking_label":  "Mejor para muslos",
+    "summary":  "Musleras de compresion para muslo e isquiotibiales, orientadas a soporte muscular y recuperacion localizada.",
+    "best_for":  "Compresion en muslos, isquiotibiales y zona alta de pierna despues de esfuerzo o durante actividad.",
+    "not_for":  "Quien busca rodilleras articulares, botas de presoterapia o compresion completa de pierna.",
+    "score":  8.1,
+    "price":  "29,95 EUR",
+    "pros":  [
+                 "Enfocadas en muslo",
+                 "Unisex",
+                 "Soporte para isquiotibiales",
+                 "Formato facil de usar"
+             ],
+    "cons":  [
+                 "No cubre pantorrillas",
+                 "No es sistema electrico",
+                 "La talla debe ajustarse bien"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/compresion-muscular/dr-arthritis-musleras-compresion.png",
+    "affiliate_url":  "https://amzn.to/4njAXr7",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

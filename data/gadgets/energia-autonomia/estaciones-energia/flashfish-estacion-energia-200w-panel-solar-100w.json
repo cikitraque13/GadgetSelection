@@ -1,0 +1,31 @@
+{
+    "id":  "flashfish-estacion-energia-200w-panel-solar-100w",
+    "title":  "FlashFish 200W Estacion de Energia con Panel Solar 100W",
+    "brand":  "FlashFish",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "estaciones-energia"
+                 ],
+    "category":  "kit solar compacto",
+    "ranking":  5,
+    "ranking_label":  "Mejor kit solar compacto",
+    "summary":  "Estacion de energia portatil de 200W con panel solar de 100W y bateria de 172,8Wh para camping, aventura y emergencia ligera.",
+    "best_for":  "Entrada economica a un kit con panel solar para luces, movil y pequenos consumos.",
+    "not_for":  "Neveras grandes, cargas potentes o autonomia larga.",
+    "score":  8.5,
+    "price":  "219,99 EUR",
+    "pros":  [
+                 "Incluye panel solar de 100W",
+                 "Formato compacto",
+                 "Precio mas accesible",
+                 "Buena entrada a autonomia solar"
+             ],
+    "cons":  [
+                 "Capacidad limitada",
+                 "No apta para consumos altos"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/estaciones-energia/flashfish-estacion-energia-200w-panel-solar-100w.png",
+    "affiliate_url":  "https://amzn.to/4uJAe4U",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

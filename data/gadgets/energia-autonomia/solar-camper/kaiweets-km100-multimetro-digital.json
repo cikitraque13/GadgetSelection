@@ -1,0 +1,31 @@
+{
+    "id":  "kaiweets-km100-multimetro-digital",
+    "title":  "KAIWEETS KM100 Multimetro Digital",
+    "brand":  "KAIWEETS",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "solar-camper"
+                 ],
+    "category":  "multimetro sistema solar",
+    "ranking":  5,
+    "ranking_label":  "Mejor comprobador electrico",
+    "summary":  "Multimetro digital para medir continuidad, tension en CA y CC, amperios en CC, resistencia y diodos en sistemas electricos basicos.",
+    "best_for":  "Comprobar paneles, polaridad, continuidad, bateria 12V y conexiones solares en camper.",
+    "not_for":  "Quien no va a revisar ni montar ningun sistema electrico.",
+    "score":  8.7,
+    "price":  "13,52 EUR",
+    "pros":  [
+                 "Mide tension CA y CC",
+                 "Mide continuidad",
+                 "Incluye cables de prueba",
+                 "Muy barato para diagnostico electrico"
+             ],
+    "cons":  [
+                 "Requiere conocimientos basicos",
+                 "No sustituye un instalador profesional"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/solar-camper/kaiweets-km100-multimetro-digital.png",
+    "affiliate_url":  "https://amzn.to/4fi5OlI",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,32 @@
+{
+    "id":  "ivoler-soporte-portatil-plegable",
+    "title":  "iVoler Soporte Portatil Plegable",
+    "brand":  "iVoler",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "productividad-movil"
+                 ],
+    "category":  "soportes portatiles plegables",
+    "ranking":  1,
+    "ranking_label":  "Mejor soporte ligero",
+    "summary":  "Soporte de aluminio plegable con 6 angulos ajustables para elevar el portatil y trabajar con mejor postura en viaje.",
+    "best_for":  "Trabajar con portatil en hotel, tren, cafeteria o escritorio temporal sin forzar cuello y espalda.",
+    "not_for":  "Quien necesita una estacion de trabajo fija o soporte para portatiles muy grandes.",
+    "score":  8.6,
+    "price":  "15,99 EUR",
+    "pros":  [
+                 "6 angulos ajustables",
+                 "Plegable",
+                 "Aluminio",
+                 "Ligero para transportar"
+             ],
+    "cons":  [
+                 "No incluye teclado ni raton",
+                 "Conviene usar teclado externo",
+                 "No es para portatiles muy pesados"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/productividad-movil/ivoler-soporte-portatil-plegable.png",
+    "affiliate_url":  "https://amzn.to/4u37rs7",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

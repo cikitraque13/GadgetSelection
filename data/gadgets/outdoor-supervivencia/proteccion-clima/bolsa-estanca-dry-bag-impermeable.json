@@ -1,0 +1,32 @@
+{
+    "id":  "bolsa-estanca-dry-bag-impermeable",
+    "title":  "Bolsa Estanca Dry Bag Impermeable",
+    "brand":  "Generic",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "proteccion-clima"
+                 ],
+    "category":  "bolsas estancas",
+    "ranking":  3,
+    "ranking_label":  "Mejor para equipo seco",
+    "summary":  "Bolsa estanca impermeable en varios tamanos para proteger ropa, electronica, comida o accesorios en agua y lluvia.",
+    "best_for":  "Kayak, rafting, playa, camping o rutas donde lo critico debe ir seco dentro de la mochila.",
+    "not_for":  "Quien solo necesita cubrir la mochila por fuera con una funda simple.",
+    "score":  8.4,
+    "price":  "17,02 EUR",
+    "pros":  [
+                 "Varios tamanos",
+                 "Impermeable",
+                 "Util para ropa y electronica",
+                 "Buena para agua y lluvia"
+             ],
+    "cons":  [
+                 "Hay que cerrarla bien",
+                 "No protege golpes fuertes",
+                 "Puede ocupar volumen interno"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/proteccion-clima/bolsa-estanca-dry-bag-impermeable.png",
+    "affiliate_url":  "https://amzn.to/4nlYk3f",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,32 @@
+{
+    "id":  "benfei-hub-usb-c-5-en-1-hdmi",
+    "title":  "BENFEI Hub USB C 5 en 1 HDMI",
+    "brand":  "BENFEI",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "productividad-movil"
+                 ],
+    "category":  "hubs usb-c compactos",
+    "ranking":  4,
+    "ranking_label":  "Mejor hub compacto",
+    "summary":  "Hub USB-C 5 en 1 con HDMI 4K, USB-A y PD 100W para ampliar conectividad de portatil, tablet o movil compatible.",
+    "best_for":  "Conectar pantalla, perifericos y carga desde un accesorio pequeno durante viajes o trabajo movil.",
+    "not_for":  "Quien necesita lector SD, Ethernet o muchos puertos profesionales.",
+    "score":  8.3,
+    "price":  "11,99 EUR",
+    "pros":  [
+                 "HDMI 4K",
+                 "USB-A",
+                 "PD 100W",
+                 "Compacto"
+             ],
+    "cons":  [
+                 "Sin Ethernet",
+                 "Sin lector SD",
+                 "Depende de compatibilidad USB-C del equipo"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/productividad-movil/benfei-hub-usb-c-5-en-1-hdmi.png",
+    "affiliate_url":  "https://amzn.to/4tnyCgd",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

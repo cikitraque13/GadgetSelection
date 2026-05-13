@@ -1,0 +1,32 @@
+{
+    "id":  "ecosonique-cargador-solar-portatil-30w",
+    "title":  "Ecosonique Cargador Solar Portatil 30W",
+    "brand":  "Ecosonique",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "cargadores-solares"
+                 ],
+    "category":  "cargadores solares compactos",
+    "ranking":  3,
+    "ranking_label":  "Mejor compacto resistente",
+    "summary":  "Cargador solar plegable de 30W con USB-C, USB-A, superficie ETFE e impermeabilidad para camping y mochileros.",
+    "best_for":  "Mochileros, camping y salidas donde importa llevar energia ligera y resistente.",
+    "not_for":  "Quien necesita alimentar varios dispositivos grandes durante muchas horas.",
+    "score":  8.4,
+    "price":  "49,68 EUR",
+    "pros":  [
+                 "30W",
+                 "USB-C y USB-A",
+                 "ETFE",
+                 "Buen precio"
+             ],
+    "cons":  [
+                 "Menos margen que 40W",
+                 "No carga equipos grandes",
+                 "Necesita buena orientacion solar"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/cargadores-solares/ecosonique-cargador-solar-portatil-30w.png",
+    "affiliate_url":  "https://amzn.to/4ux0AHg",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

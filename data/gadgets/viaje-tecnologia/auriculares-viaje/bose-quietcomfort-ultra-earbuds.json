@@ -1,0 +1,32 @@
+{
+    "id":  "bose-quietcomfort-ultra-earbuds",
+    "title":  "Bose QuietComfort Ultra Earbuds",
+    "brand":  "Bose",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "auriculares-viaje"
+                 ],
+    "category":  "earbuds premium anc",
+    "ranking":  7,
+    "ranking_label":  "Mejor premium compacto",
+    "summary":  "Auriculares inalambricos premium con cancelacion de ruido, Bluetooth, sonido espacial y bateria de larga duracion.",
+    "best_for":  "Viajeros que quieren cancelacion Bose en formato compacto sin llevar diadema.",
+    "not_for":  "Quien busca una opcion barata o auriculares de batalla.",
+    "score":  8.6,
+    "price":  "179,51 EUR",
+    "pros":  [
+                 "Cancelacion Bose",
+                 "Formato compacto",
+                 "Sonido espacial",
+                 "Gama alta"
+             ],
+    "cons":  [
+                 "Precio alto",
+                 "Menos autonomia que una diadema grande",
+                 "Ajuste depende del oido"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/auriculares-viaje/bose-quietcomfort-ultra-earbuds.png",
+    "affiliate_url":  "https://amzn.to/4uJ4zAI",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

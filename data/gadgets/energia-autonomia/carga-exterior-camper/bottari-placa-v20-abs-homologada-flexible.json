@@ -1,0 +1,31 @@
+{
+    "id":  "bottari-placa-v20-abs-homologada-flexible",
+    "title":  "Bottari Placa V20 ABS de Carga Elevada Homologada 50x50",
+    "brand":  "Bottari",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "carga-exterior-camper"
+                 ],
+    "category":  "placa v20 carga exterior",
+    "ranking":  3,
+    "ranking_label":  "Mejor senal V20",
+    "summary":  "Placa V20 homologada y flexible de 50 x 50 cm para señalizar carga elevada o sobresaliente en portabicicletas y carga exterior.",
+    "best_for":  "Senalizar correctamente bicicletas o carga trasera en carretera.",
+    "not_for":  "Sujetar fisicamente la carga o sustituir luces y matricula visibles.",
+    "score":  9,
+    "price":  "18,50 EUR",
+    "pros":  [
+                 "Homologada",
+                 "Formato 50 x 50 cm",
+                 "Flexible",
+                 "Clave para carga exterior visible"
+             ],
+    "cons":  [
+                 "Solo senaliza, no sujeta",
+                 "Debe colocarse correctamente"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/carga-exterior-camper/bottari-placa-v20-abs-homologada-flexible.png",
+    "affiliate_url":  "https://amzn.to/4tzfps2",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

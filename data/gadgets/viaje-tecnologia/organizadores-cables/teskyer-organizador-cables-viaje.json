@@ -1,0 +1,32 @@
+{
+    "id":  "teskyer-organizador-cables-viaje",
+    "title":  "Teskyer Organizador Cables Viaje",
+    "brand":  "Teskyer",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "organizadores-cables"
+                 ],
+    "category":  "organizadores de cables impermeables",
+    "ranking":  5,
+    "ranking_label":  "Mejor impermeable compacto",
+    "summary":  "Organizador impermeable para cables, cargadores y accesorios electronicos de viaje en formato compacto.",
+    "best_for":  "Llevar cables y accesorios pequenos con algo mas de proteccion frente a humedad y roce.",
+    "not_for":  "Quien busca organizador grande de dos capas o mochila tech completa.",
+    "score":  8,
+    "price":  "11,99 EUR",
+    "pros":  [
+                 "Impermeable",
+                 "Compacto",
+                 "Precio bajo",
+                 "Bueno para accesorios pequeños"
+             ],
+    "cons":  [
+                 "Capacidad moderada",
+                 "Menos premium",
+                 "No protege como carcasa dura"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/organizadores-cables/teskyer-organizador-cables-viaje.png",
+    "affiliate_url":  "https://amzn.to/42mKxzP",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

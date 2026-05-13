@@ -1,0 +1,32 @@
+{
+    "id":  "almohadilla-termica-espalda-cuello-60x100",
+    "title":  "Almohadilla Termica para Espalda y Cuello 60x100 cm",
+    "brand":  "No especificada",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "frio-calor-recuperacion"
+                 ],
+    "category":  "almohadilla termica",
+    "ranking":  3,
+    "ranking_label":  "Mejor calor localizado",
+    "summary":  "Almohadilla termica grande para espalda y cuello con 6 niveles de calor, temporizador de apagado automatico de 2 horas, calentamiento rapido, cinturon y franela lavable.",
+    "best_for":  "Calor localizado en espalda, cuello, piernas o zonas cargadas despues de entrenar.",
+    "not_for":  "Quien busca frio, inmersion o una solucion portatil de bolsillo.",
+    "score":  8.3,
+    "price":  "39,99 EUR",
+    "pros":  [
+                 "Tamano 60x100 cm",
+                 "6 niveles de calor",
+                 "Temporizador",
+                 "Lavable a maquina"
+             ],
+    "cons":  [
+                 "Necesita enchufe",
+                 "Solo calor",
+                 "No sirve para inmersion ni frio"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/frio-calor-recuperacion/almohadilla-termica-espalda-cuello-60x100.png",
+    "affiliate_url":  "https://amzn.to/4ty1ker",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

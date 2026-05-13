@@ -1,0 +1,32 @@
+{
+    "id":  "esky-radio-solar-emergencia-12000mah",
+    "title":  "Radio Emergencia 12000mAh Solar Dinamo",
+    "brand":  "Generic",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "radios-emergencia"
+                 ],
+    "category":  "radios emergencia alta capacidad",
+    "ranking":  5,
+    "ranking_label":  "Mejor bateria grande",
+    "summary":  "Radio portatil FM AM SW con bateria recargable de 12000mAh, solar, dinamo, lampara de lectura, linterna, SOS, USB y Tipo C.",
+    "best_for":  "Emergencias largas, apagones o campamentos donde interesa mas autonomia en una sola radio.",
+    "not_for":  "Mochila ultraligera o quien busca el equipo mas compacto posible.",
+    "score":  8.2,
+    "price":  "39,99 EUR",
+    "pros":  [
+                 "12000mAh",
+                 "FM AM SW",
+                 "USB y Tipo C",
+                 "Resistente a lluvia, viento y golpes"
+             ],
+    "cons":  [
+                 "Mas grande",
+                 "Carga solar de respaldo lenta",
+                 "No sustituye powerbank outdoor dedicada"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/radios-emergencia/esky-radio-solar-emergencia-12000mah.png",
+    "affiliate_url":  "https://amzn.to/3Pc9Gdu",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

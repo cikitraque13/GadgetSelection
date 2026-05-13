@@ -1,0 +1,32 @@
+{
+    "id":  "atuvos-air-tag-smart-tracker-4pack-negro",
+    "title":  "ATUVOS Air Tag Smart Tracker 4 Pack Negro",
+    "brand":  "ATUVOS",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "localizadores-bluetooth"
+                 ],
+    "category":  "localizadores compatibles Apple Find My",
+    "ranking":  1,
+    "ranking_label":  "Mejor pack para maletas",
+    "summary":  "Pack de 4 localizadores Bluetooth compatibles con Buscar de Apple para llaves, maletas, equipaje y objetos importantes.",
+    "best_for":  "Viajeros con iPhone que quieren localizar varias maletas, mochilas, llaves o bolsos sin comprar AirTags sueltos.",
+    "not_for":  "Usuarios Android, porque funciona solo con iOS y la red Buscar de Apple.",
+    "score":  8.5,
+    "price":  "23,21 EUR",
+    "pros":  [
+                 "Pack de 4",
+                 "Compatible con Buscar Apple",
+                 "Bateria reemplazable",
+                 "Buen precio por unidad"
+             ],
+    "cons":  [
+                 "No compatible con Android",
+                 "No es GPS en tiempo real",
+                 "Depende de la red Buscar de Apple"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/localizadores-bluetooth/atuvos-air-tag-smart-tracker-4pack-negro.png",
+    "affiliate_url":  "https://amzn.to/4nnSWMT",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,32 @@
+{
+    "id":  "forthiq-masajeador-rodilla-calor-laser-vibracion",
+    "title":  "FORTHiQ Masajeador de Rodilla Inalambrico",
+    "brand":  "FORTHiQ",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "frio-calor-recuperacion"
+                 ],
+    "category":  "masajeador rodilla calor vibracion",
+    "ranking":  5,
+    "ranking_label":  "Mejor calor articular localizado",
+    "summary":  "Masajeador de rodilla inalambrico con calor infrarrojo, terapia con laser y vibracion para uso localizado tras esfuerzo.",
+    "best_for":  "Calor y vibracion localizada en rodilla o zona concreta despues de actividad fisica.",
+    "not_for":  "Quien busca una solucion general de cuerpo completo o frio por inmersion.",
+    "score":  8,
+    "price":  "109,00 EUR",
+    "pros":  [
+                 "Inalambrico",
+                 "Calor infrarrojo",
+                 "Vibracion",
+                 "Uso localizado"
+             ],
+    "cons":  [
+                 "Uso muy especifico",
+                 "Precio medio alto",
+                 "No sustituye evaluacion medica"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/frio-calor-recuperacion/forthiq-masajeador-rodilla-calor-laser-vibracion.png",
+    "affiliate_url":  "https://amzn.to/48VLz9x",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

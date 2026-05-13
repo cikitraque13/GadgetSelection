@@ -1,0 +1,32 @@
+{
+    "id":  "waterdrop-filtro-agua-camping-3-pack",
+    "title":  "Waterdrop Filtro de Agua Camping 3 Pack",
+    "brand":  "Waterdrop",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "filtros-agua"
+                 ],
+    "category":  "filtros de agua para camping",
+    "ranking":  3,
+    "ranking_label":  "Mejor pack compacto",
+    "summary":  "Pack de 3 filtros de agua portatiles de 0.01 micras para camping, senderismo, viajes y emergencia.",
+    "best_for":  "Grupos pequenos, kits de emergencia o quien quiere llevar filtros de repuesto.",
+    "not_for":  "Quien prefiere una botella filtrante lista para beber.",
+    "score":  8.3,
+    "price":  "29,99 EUR",
+    "pros":  [
+                 "Pack de 3",
+                 "Filtracion 0.01 micras",
+                 "Bueno para repartir o reservar",
+                 "Precio competitivo"
+             ],
+    "cons":  [
+                 "Formato menos integrado",
+                 "No incluye botella rigida",
+                 "Hay que organizar bien su uso"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/filtros-agua/waterdrop-filtro-agua-camping-3-pack.png",
+    "affiliate_url":  "https://amzn.to/3Pxs54w",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

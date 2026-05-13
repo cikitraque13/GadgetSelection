@@ -1,0 +1,31 @@
+{
+    "id":  "masajeador-cervical-brelley",
+    "title":  "Brelley Masajeador Cervical y Espalda",
+    "brand":  "Brelley",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "dolor-cervical"
+                 ],
+    "category":  "masajeadores cervicales",
+    "ranking":  1,
+    "ranking_label":  "Mejor para alivio rapido",
+    "summary":  "Masajeador con calor para descargar cuello, hombros y parte alta de la espalda tras muchas horas de tension.",
+    "best_for":  "Tension cervical acumulada, rigidez por pantallas y molestias en cuello y hombros.",
+    "not_for":  "Corregir una mala postura de trabajo o una pantalla demasiado baja.",
+    "score":  8.4,
+    "price":  "37,99 EUR",
+    "pros":  [
+                 "Alivio localizado en cuello y hombros",
+                 "Incluye calor relajante",
+                 "Sirve tambien para espalda alta"
+             ],
+    "cons":  [
+                 "No corrige la causa postural",
+                 "Puede resultar voluminoso",
+                 "No sustituye un setup ergonomico bien ajustado"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/dolor-cervical/masajeador-cervical-brelley.png",
+    "affiliate_url":  "https://amzn.to/3PvlkQH",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

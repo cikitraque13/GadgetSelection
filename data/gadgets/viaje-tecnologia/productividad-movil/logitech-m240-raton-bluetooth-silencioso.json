@@ -1,0 +1,32 @@
+{
+    "id":  "logitech-m240-raton-bluetooth-silencioso",
+    "title":  "Logitech M240 Raton Bluetooth Silencioso",
+    "brand":  "Logitech",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "productividad-movil"
+                 ],
+    "category":  "ratones bluetooth compactos",
+    "ranking":  3,
+    "ranking_label":  "Mejor raton compacto",
+    "summary":  "Raton Bluetooth silencioso, compacto y portatil para trabajar con mas precision en viajes, oficina movil o espacios compartidos.",
+    "best_for":  "Usar portatil o tablet con mas comodidad sin llevar receptor USB ni cables.",
+    "not_for":  "Quien busca raton ergonomico vertical o gaming.",
+    "score":  8.5,
+    "price":  "14,96 EUR",
+    "pros":  [
+                 "Bluetooth",
+                 "Silencioso",
+                 "Compacto",
+                 "Hasta 18 meses de bateria"
+             ],
+    "cons":  [
+                 "No es ergonomico vertical",
+                 "No es recargable",
+                 "Formato pequeno no ideal para todas las manos"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/productividad-movil/logitech-m240-raton-bluetooth-silencioso.png",
+    "affiliate_url":  "https://amzn.to/4eEQbVb",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

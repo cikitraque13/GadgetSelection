@@ -1,0 +1,32 @@
+{
+    "id":  "apple-airpods-4-usb-c",
+    "title":  "Apple AirPods 4 USB-C",
+    "brand":  "Apple",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "auriculares-viaje"
+                 ],
+    "category":  "auriculares inalambricos apple",
+    "ranking":  4,
+    "ranking_label":  "Mejor para iPhone",
+    "summary":  "Auriculares inalambricos Apple con audio espacial personalizado, resistencia al agua y sudor, chip H2 y estuche USB-C.",
+    "best_for":  "Usuarios de iPhone que quieren integracion rapida, estuche compacto y uso simple en viajes.",
+    "not_for":  "Quien busca aislamiento fuerte o cancelacion de ruido de gama alta.",
+    "score":  8.4,
+    "price":  "129,00 EUR",
+    "pros":  [
+                 "Integracion Apple",
+                 "USB-C",
+                 "Audio espacial",
+                 "Estuche compacto"
+             ],
+    "cons":  [
+                 "Sin aislamiento fuerte",
+                 "Precio alto frente a alternativas",
+                 "Mejor dentro del ecosistema Apple"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/auriculares-viaje/apple-airpods-4-usb-c.png",
+    "affiliate_url":  "https://amzn.to/4uDrihp",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

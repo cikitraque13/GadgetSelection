@@ -1,0 +1,31 @@
+{
+    "id":  "babacom-soporte-portatil",
+    "title":  "Babacom Soporte Portatil Mesa",
+    "brand":  "Babacom",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "dolor-cervical"
+                 ],
+    "category":  "soportes de portatil",
+    "ranking":  3,
+    "ranking_label":  "Mejor para elevar el portatil",
+    "summary":  "Soporte ajustable para subir la pantalla del portatil y reducir la flexion constante del cuello.",
+    "best_for":  "Trabajar con portatil sin mirar hacia abajo todo el dia.",
+    "not_for":  "Quien no use teclado y raton externos.",
+    "score":  8.3,
+    "price":  "20,99 EUR",
+    "pros":  [
+                 "Eleva la pantalla del portatil",
+                 "Ajustable",
+                 "Compatible con portatiles y tablets"
+             ],
+    "cons":  [
+                 "Conviene usar teclado externo",
+                 "No soluciona una mala silla",
+                 "Ocupa espacio en la mesa"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/dolor-cervical/babacom-soporte-portatil.png",
+    "affiliate_url":  "https://amzn.to/42tSjYD",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

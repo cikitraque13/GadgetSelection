@@ -1,0 +1,32 @@
+{
+    "id":  "freetoo-bascula-digital-equipaje",
+    "title":  "FREETOO Bascula Digital de Equipaje",
+    "brand":  "FREETOO",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "seguridad-equipaje"
+                 ],
+    "category":  "basculas de equipaje",
+    "ranking":  1,
+    "ranking_label":  "Mejor control de peso",
+    "summary":  "Bascula digital portatil con pantalla LCD para pesar maletas y evitar sobrepeso antes de facturar.",
+    "best_for":  "Controlar el peso del equipaje antes de llegar al aeropuerto y evitar cargos extra.",
+    "not_for":  "Quien solo viaja con mochila pequena o equipaje sin facturar.",
+    "score":  8.5,
+    "price":  "16,99 EUR",
+    "pros":  [
+                 "Portatil",
+                 "Pantalla LCD",
+                 "Hasta 50 kg",
+                 "Bateria incluida"
+             ],
+    "cons":  [
+                 "No protege la maleta",
+                 "Solo mide peso",
+                 "Requiere llevarla aparte"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/seguridad-equipaje/freetoo-bascula-digital-equipaje.png",
+    "affiliate_url":  "https://amzn.to/49sKMNx",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

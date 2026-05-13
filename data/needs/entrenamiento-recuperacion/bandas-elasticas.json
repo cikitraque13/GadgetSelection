@@ -1,0 +1,24 @@
+{
+    "id": "bandas-elasticas",
+    "world_id": "entrenamiento-recuperacion",
+    "title": "Bandas el\u00e1sticas",
+    "slug": "bandas-elasticas",
+    "description": "Bandas para fuerza, movilidad, calentamiento, rehabilitaci\u00f3n general y entrenamiento port\u00e1til.",
+    "image": "/public/assets/images/needs/entrenamiento-recuperacion/bandas-elasticas.png",
+    "gadget_types": [
+        "bandas de resistencia",
+        "mini bands",
+        "bandas largas",
+        "bandas con asas",
+        "bandas para gl\u00fateos",
+        "bandas de movilidad",
+        "sets de entrenamiento",
+        "anclajes de puerta"
+    ],
+    "gadgets": [],
+    "seo": {
+        "title": "Bandas el\u00e1sticas | GadgetSelection",
+        "description": "Bandas para fuerza, movilidad, calentamiento, rehabilitaci\u00f3n general y entrenamiento port\u00e1til."
+    },
+    "status": "draft"
+}

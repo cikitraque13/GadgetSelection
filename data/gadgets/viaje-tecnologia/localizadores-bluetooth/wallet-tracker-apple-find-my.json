@@ -1,0 +1,32 @@
+{
+    "id":  "wallet-tracker-apple-find-my",
+    "title":  "Wallet Tracker Ultra Delgado Apple Find My",
+    "brand":  "Generic",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "localizadores-bluetooth"
+                 ],
+    "category":  "localizadores formato tarjeta",
+    "ranking":  7,
+    "ranking_label":  "Mejor para cartera",
+    "summary":  "Localizador ultradelgado tipo tarjeta compatible con Apple Find My para cartera, bolso, llaves u objetos planos.",
+    "best_for":  "Carteras, tarjeteros, bolsos finos y objetos donde un localizador redondo no encaja bien.",
+    "not_for":  "Usuarios Android o quien necesita bateria reemplazable tipo AirTag.",
+    "score":  8,
+    "price":  "16,28 EUR",
+    "pros":  [
+                 "Formato tarjeta",
+                 "Compatible con Apple Find My",
+                 "Muy fino",
+                 "Bueno para cartera"
+             ],
+    "cons":  [
+                 "Solo Apple Find My",
+                 "No tiene el formato AirTag",
+                 "Autonomia y recarga dependen del modelo"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/localizadores-bluetooth/wallet-tracker-apple-find-my.png",
+    "affiliate_url":  "https://amzn.to/4dztdh7",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

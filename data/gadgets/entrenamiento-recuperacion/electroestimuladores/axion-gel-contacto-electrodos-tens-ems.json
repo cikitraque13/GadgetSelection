@@ -1,0 +1,32 @@
+{
+    "id":  "axion-gel-contacto-electrodos-tens-ems",
+    "title":  "axion Gel de Contacto para Electrodos TENS EMS",
+    "brand":  "axion",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "electroestimuladores"
+                 ],
+    "category":  "gel contacto electrodos TENS EMS",
+    "ranking":  6,
+    "ranking_label":  "Mejor accesorio util",
+    "summary":  "Gel de contacto para electrodos TENS y EMS de 250 g, pensado para mejorar la conductividad de electrodos autoadhesivos desgastados y de goma.",
+    "best_for":  "Mantener mejor contacto electrico en electrodos TENS y EMS y alargar la utilidad de accesorios compatibles.",
+    "not_for":  "Quien necesita comprar el electroestimulador principal, no un accesorio.",
+    "score":  7.9,
+    "price":  "9,95 EUR",
+    "pros":  [
+                 "Accesorio barato",
+                 "Mejora conductividad",
+                 "Compatible con TENS y EMS",
+                 "Bote de 250 g"
+             ],
+    "cons":  [
+                 "No es un electroestimulador",
+                 "Depende de compatibilidad con electrodos",
+                 "No sustituye electrodos muy deteriorados"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/electroestimuladores/axion-gel-contacto-electrodos-tens-ems.png",
+    "affiliate_url":  "https://amzn.to/4u4TQRd",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,31 @@
+{
+    "id":  "apalus-puerta-malla-magnetica-80x210",
+    "title":  "Apalus Puerta de Malla Magnetica 80x210",
+    "brand":  "Apalus",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "habitabilidad-seguridad-camper"
+                 ],
+    "category":  "malla magnetica puerta",
+    "ranking":  5,
+    "ranking_label":  "Mejor malla magnetica",
+    "summary":  "Cortina de malla magnetica de 80x210 cm con cierre automatico para mantener aire fresco y reducir entrada de insectos.",
+    "best_for":  "Ventilar entrada de camper, avance o zona de acceso evitando mosquitos e insectos.",
+    "not_for":  "Puertas con medidas incompatibles o instalaciones permanentes a medida.",
+    "score":  8.6,
+    "price":  "15,99 EUR",
+    "pros":  [
+                 "Cierre magnetico automatico",
+                 "Ayuda contra insectos",
+                 "Permite paso de aire",
+                 "Precio bajo"
+             ],
+    "cons":  [
+                 "Requiere ajustar medidas",
+                 "No es una mosquitera camper a medida"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/habitabilidad-seguridad-camper/apalus-puerta-malla-magnetica-80x210.png",
+    "affiliate_url":  "https://amzn.to/4filk0Q",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

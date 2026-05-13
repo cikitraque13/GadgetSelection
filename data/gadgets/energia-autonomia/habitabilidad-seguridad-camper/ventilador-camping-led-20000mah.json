@@ -1,0 +1,31 @@
+{
+    "id":  "ventilador-camping-led-20000mah",
+    "title":  "Ventilador de Acampar con Linterna LED 20000mAh",
+    "brand":  "No especificada",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "habitabilidad-seguridad-camper"
+                 ],
+    "category":  "ventilador camping recargable",
+    "ranking":  3,
+    "ranking_label":  "Mejor ventilacion",
+    "summary":  "Ventilador recargable de 20000 mAh con linterna LED, gancho, ajuste de 270 grados y 4 velocidades para camping, cortes de energia o camper.",
+    "best_for":  "Mover aire y mejorar descanso en noches calurosas dentro o junto a la camper.",
+    "not_for":  "Sustituir una claraboya con ventilacion fija o aire acondicionado.",
+    "score":  8.8,
+    "price":  "34,39 EUR",
+    "pros":  [
+                 "Bateria de 20000 mAh",
+                 "Linterna LED integrada",
+                 "Gancho y ajuste amplio",
+                 "4 velocidades"
+             ],
+    "cons":  [
+                 "Ocupa mas que un ventilador pequeno",
+                 "Depende de recarga USB"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/habitabilidad-seguridad-camper/ventilador-camping-led-20000mah.png",
+    "affiliate_url":  "https://amzn.to/4ntFDL1",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

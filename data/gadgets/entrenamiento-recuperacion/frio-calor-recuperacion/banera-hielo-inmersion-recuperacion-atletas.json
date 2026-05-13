@@ -1,0 +1,32 @@
+{
+    "id":  "banera-hielo-inmersion-recuperacion-atletas",
+    "title":  "Banera de Hielo para Recuperacion de Atletas",
+    "brand":  "No especificada",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "frio-calor-recuperacion"
+                 ],
+    "category":  "banera hielo recuperacion",
+    "ranking":  1,
+    "ranking_label":  "Mejor inmersion fria",
+    "summary":  "Banera de inmersion en agua fria para recuperacion de atletas, con barril de hielo de multiples capas.",
+    "best_for":  "Rutinas de inmersion fria tras entrenamiento intenso, carrera, fuerza o sesiones de alta carga.",
+    "not_for":  "Quien no tiene espacio, no tolera frio intenso o busca una solucion pequena de frio localizado.",
+    "score":  8.4,
+    "price":  "79,99 EUR",
+    "pros":  [
+                 "Inmersion fria",
+                 "Formato portatil",
+                 "Multiples capas",
+                 "Precio contenido para ice bath"
+             ],
+    "cons":  [
+                 "Requiere espacio",
+                 "Necesita hielo o agua fria",
+                 "No es para todo el mundo"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/frio-calor-recuperacion/banera-hielo-inmersion-recuperacion-atletas.png",
+    "affiliate_url":  "https://amzn.to/42xeJIu",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

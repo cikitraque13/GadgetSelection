@@ -1,0 +1,32 @@
+{
+    "id":  "samsung-galaxy-smarttag2-noir",
+    "title":  "Samsung Galaxy SmartTag2 Noir",
+    "brand":  "Samsung",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "localizadores-bluetooth"
+                 ],
+    "category":  "localizadores Samsung",
+    "ranking":  2,
+    "ranking_label":  "Mejor para Samsung",
+    "summary":  "Localizador Samsung SmartTag2 para encontrar llaves, mochila, maleta o bolso dentro del ecosistema Samsung SmartThings.",
+    "best_for":  "Usuarios Samsung Galaxy que quieren localizar objetos durante viajes usando el ecosistema SmartThings.",
+    "not_for":  "Usuarios de iPhone o Android no Samsung que buscan compatibilidad amplia.",
+    "score":  8.6,
+    "price":  "18,84 EUR",
+    "pros":  [
+                 "Ecosistema Samsung",
+                 "Formato compacto",
+                 "Buena opcion para Galaxy",
+                 "Precio razonable"
+             ],
+    "cons":  [
+                 "Dependencia del ecosistema Samsung",
+                 "No es GPS autonomo",
+                 "Menos universal que Tile"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/localizadores-bluetooth/samsung-galaxy-smarttag2-noir.png",
+    "affiliate_url":  "https://amzn.to/4dhHMEK",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,32 @@
+{
+    "id":  "protoarc-teclado-bluetooth-plegable-touchpad",
+    "title":  "ProtoArc Teclado Bluetooth Plegable con Touchpad",
+    "brand":  "ProtoArc",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "productividad-movil"
+                 ],
+    "category":  "teclados plegables bluetooth",
+    "ranking":  2,
+    "ranking_label":  "Mejor teclado plegable",
+    "summary":  "Teclado Bluetooth plegable con touchpad integrado para trabajar mejor con tablet, movil, Surface o portatil durante viajes.",
+    "best_for":  "Escribir correos, documentos o notas en movilidad sin depender del teclado tactil.",
+    "not_for":  "Quien necesita teclado mecanico, numerico completo o setup fijo de escritorio.",
+    "score":  8.7,
+    "price":  "57,49 EUR",
+    "pros":  [
+                 "Plegable",
+                 "Touchpad integrado",
+                 "Bluetooth",
+                 "Compatible con varios sistemas"
+             ],
+    "cons":  [
+                 "Precio mas alto",
+                 "Requiere carga",
+                 "No sustituye un teclado de escritorio completo"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/productividad-movil/protoarc-teclado-bluetooth-plegable-touchpad.png",
+    "affiliate_url":  "https://amzn.to/4cYCDCM",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

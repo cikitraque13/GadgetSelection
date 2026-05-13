@@ -1,0 +1,31 @@
+{
+    "id":  "almohadilla-termica-cervical",
+    "title":  "Almohadilla de Calefaccion Electrica",
+    "brand":  "Generic",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "dolor-cervical"
+                 ],
+    "category":  "almohadillas termicas",
+    "ranking":  8,
+    "ranking_label":  "Mejor para calor localizado",
+    "summary":  "Almohadilla electrica con apagado automatico y varios niveles de temperatura para aplicar calor localizado.",
+    "best_for":  "Relajar cuello, hombros o espalda alta con calor suave y controlado.",
+    "not_for":  "Quien necesite masaje mecanico o correccion postural.",
+    "score":  7.7,
+    "price":  "13,15 EUR",
+    "pros":  [
+                 "Precio muy bajo",
+                 "6 temperaturas",
+                 "Apagado automatico"
+             ],
+    "cons":  [
+                 "No ofrece masaje",
+                 "Requiere uso responsable del calor",
+                 "No corrige la causa ergonomica"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/dolor-cervical/almohadilla-termica-cervical.png",
+    "affiliate_url":  "https://amzn.to/4tmzcdV",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

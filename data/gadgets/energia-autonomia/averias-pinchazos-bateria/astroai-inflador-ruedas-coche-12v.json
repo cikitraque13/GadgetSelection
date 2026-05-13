@@ -1,0 +1,31 @@
+{
+    "id":  "astroai-inflador-ruedas-coche-12v",
+    "title":  "AstroAI Inflador Ruedas Coche 12V",
+    "brand":  "AstroAI",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "averias-pinchazos-bateria"
+                 ],
+    "category":  "compresor aire coche",
+    "ranking":  3,
+    "ranking_label":  "Mejor compresor 12V",
+    "summary":  "Compresor de aire portatil 12V con pantalla LCD, luz LED y cable de 3 metros para inflar ruedas de coche, bicicleta o moto.",
+    "best_for":  "Mantener presion de neumaticos y resolver ruedas bajas durante viajes con coche, camper o furgoneta.",
+    "not_for":  "Arrancar una bateria descargada o reparar un pinchazo con fuga real.",
+    "score":  8.9,
+    "price":  "34,98 EUR",
+    "pros":  [
+                 "Conexion 12V de coche",
+                 "Pantalla LCD",
+                 "Luz LED",
+                 "Cable de 3 metros"
+             ],
+    "cons":  [
+                 "Depende de toma 12V",
+                 "No repara pinchazos por si solo"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/averias-pinchazos-bateria/astroai-inflador-ruedas-coche-12v.png",
+    "affiliate_url":  "https://amzn.to/49vijqn",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

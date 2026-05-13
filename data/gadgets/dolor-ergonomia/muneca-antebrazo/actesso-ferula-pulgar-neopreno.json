@@ -1,0 +1,31 @@
+{
+    "id":  "actesso-ferula-pulgar-neopreno",
+    "title":  "Actesso Ferula de Neopreno para el Pulgar",
+    "brand":  "Actesso",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "muneca-antebrazo"
+                 ],
+    "category":  "ferulas de pulgar",
+    "ranking":  3,
+    "ranking_label":  "Mejor para pulgar derecho",
+    "summary":  "Ortesis de neopreno para pulgar orientada a molestias, tendinitis, esguinces y tenosinovitis de De Quervain.",
+    "best_for":  "Dolor localizado en pulgar derecho, base del pulgar o gestos repetitivos de pinza.",
+    "not_for":  "Dolor general de muneca sin afectacion del pulgar.",
+    "score":  8.2,
+    "price":  "16,99 EUR",
+    "pros":  [
+                 "Soporte especifico de pulgar",
+                 "Talla universal",
+                 "Material de neopreno"
+             ],
+    "cons":  [
+                 "Orientada a mano derecha",
+                 "No es reposamunecas de escritorio",
+                 "Puede limitar tareas finas"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/muneca-antebrazo/actesso-ferula-pulgar-neopreno.png",
+    "affiliate_url":  "https://amzn.to/4u7l4qc",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

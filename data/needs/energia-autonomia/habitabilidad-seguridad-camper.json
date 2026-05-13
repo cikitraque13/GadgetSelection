@@ -1,0 +1,24 @@
+{
+    "id":  "habitabilidad-seguridad-camper",
+    "world_id":  "energia-autonomia",
+    "title":  "Habitabilidad y seguridad camper",
+    "slug":  "habitabilidad-seguridad-camper",
+    "description":  "Gadgets para nivelar, ventilar, proteger y hacer más habitable una camper o caravana durante escapadas largas.",
+    "image":  "/public/assets/images/needs/energia-autonomia/habitabilidad-seguridad-camper.png",
+    "gadget_types":  [
+                         "calzos niveladores",
+                         "detectores CO gas",
+                         "ventiladores 12V",
+                         "mosquiteras camper",
+                         "alfombras exteriores",
+                         "escalones plegables"
+                     ],
+    "gadgets":  [
+
+                ],
+    "seo":  {
+                "title":  "Habitabilidad y seguridad para camper | GadgetSelection",
+                "description":  "Calzos niveladores, detectores de gas, ventiladores, mosquiteras y accesorios de confort para camper y caravana."
+            },
+    "status":  "published"
+}

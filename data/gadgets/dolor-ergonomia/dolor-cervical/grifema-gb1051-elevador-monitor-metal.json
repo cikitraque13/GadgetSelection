@@ -1,0 +1,31 @@
+{
+    "id":  "grifema-gb1051-elevador-monitor-metal",
+    "title":  "GRIFEMA GB1051 Elevador Monitor de Metal",
+    "brand":  "GRIFEMA",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "dolor-cervical"
+                 ],
+    "category":  "elevadores de monitor",
+    "ranking":  4,
+    "ranking_label":  "Mejor para monitor fijo",
+    "summary":  "Elevador metalico para colocar el monitor a una altura mas comoda y liberar espacio bajo la pantalla.",
+    "best_for":  "Escritorios con monitor bajo, portatil cerrado o pantalla fija.",
+    "not_for":  "Quien necesite una solucion regulable en altura.",
+    "score":  8.1,
+    "price":  "9,75 EUR",
+    "pros":  [
+                 "Precio muy accesible",
+                 "Estructura metalica",
+                 "Ayuda a ordenar la mesa"
+             ],
+    "cons":  [
+                 "Altura fija",
+                 "No es una solucion articulada",
+                 "Puede quedarse corto para algunos monitores"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/dolor-cervical/grifema-gb1051-elevador-monitor-metal.png",
+    "affiliate_url":  "https://amzn.to/4uEjYlM",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

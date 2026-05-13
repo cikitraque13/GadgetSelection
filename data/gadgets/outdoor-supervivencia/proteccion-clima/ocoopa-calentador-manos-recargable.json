@@ -1,0 +1,32 @@
+{
+    "id":  "ocoopa-calentador-manos-recargable",
+    "title":  "OCOOPA Calentador de Manos Recargable 2 en 1",
+    "brand":  "OCOOPA",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "proteccion-clima"
+                 ],
+    "category":  "calentadores de manos",
+    "ranking":  6,
+    "ranking_label":  "Mejor para frio",
+    "summary":  "Calentador de manos recargable, magnetico, ultraligero y ultrafino con tres niveles de calor.",
+    "best_for":  "Rutas frias, camping, pesca, espera o actividades donde las manos se quedan heladas.",
+    "not_for":  "Sustituir guantes tecnicos o ropa termica adecuada.",
+    "score":  8.2,
+    "price":  "20,89 EUR",
+    "pros":  [
+                 "Recargable",
+                 "3 niveles de calor",
+                 "Magnetico",
+                 "Compacto"
+             ],
+    "cons":  [
+                 "Necesita bateria cargada",
+                 "No sustituye guantes",
+                 "Autonomia limitada segun modo"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/proteccion-clima/ocoopa-calentador-manos-recargable.png",
+    "affiliate_url":  "https://amzn.to/4eDorQX",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

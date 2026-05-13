@@ -1,0 +1,32 @@
+{
+    "id":  "hydracy-botella-agua-marcador-tiempo-1l",
+    "title":  "Hydracy Botella de Agua con Marcador de Tiempo 1 L",
+    "brand":  "Hydracy",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "hidratacion-medicion"
+                 ],
+    "category":  "botella hidratacion entrenamiento",
+    "ranking":  1,
+    "ranking_label":  "Mejor botella con marcador",
+    "summary":  "Botella de agua deportiva de 1 litro con marcador de tiempo, sin BPA, antifugas, funda antitranspirante y colador de infusion.",
+    "best_for":  "Controlar la hidratacion diaria durante entrenamiento, gimnasio, oficina o rutinas en casa.",
+    "not_for":  "Quien busca una botella inteligente con sensores, app o recordatorios automaticos.",
+    "score":  8.5,
+    "price":  "22,99 EUR",
+    "pros":  [
+                 "Marcador de tiempo",
+                 "1 litro",
+                 "Sin BPA",
+                 "Incluye colador de infusion"
+             ],
+    "cons":  [
+                 "No es inteligente",
+                 "No mide consumo real",
+                 "Requiere seguimiento manual"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/hidratacion-medicion/hydracy-botella-agua-marcador-tiempo-1l.png",
+    "affiliate_url":  "https://amzn.to/4diR4k8",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

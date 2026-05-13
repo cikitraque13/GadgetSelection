@@ -1,0 +1,32 @@
+{
+    "id":  "katadyn-hiker-pro-filtro-bomba",
+    "title":  "Katadyn Hiker Pro Filtro de Agua de Bomba",
+    "brand":  "Katadyn",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "filtros-agua"
+                 ],
+    "category":  "filtros de bomba",
+    "ranking":  7,
+    "ranking_label":  "Mejor bomba manual",
+    "summary":  "Filtro de agua de bomba de mano para mochileros, camping y supervivencia de emergencia.",
+    "best_for":  "Rutas serias, campamentos y situaciones donde se quiere filtrar agua de forma controlada.",
+    "not_for":  "Quien busca una solucion ultraligera o de uso instantaneo tipo pajita.",
+    "score":  8,
+    "price":  "101,91 EUR",
+    "pros":  [
+                 "Bomba manual",
+                 "Marca especializada",
+                 "Uso outdoor serio",
+                 "Control de filtrado"
+             ],
+    "cons":  [
+                 "Precio alto",
+                 "Requiere bombeo manual",
+                 "Mas piezas que una botella o pajita"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/filtros-agua/katadyn-hiker-pro-filtro-bomba.png",
+    "affiliate_url":  "https://amzn.to/48TYRDw",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

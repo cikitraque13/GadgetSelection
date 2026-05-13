@@ -1,0 +1,31 @@
+{
+    "id":  "g3-ferrari-g10061-placa-induccion-2000w",
+    "title":  "G3 Ferrari G10061 Placa de Induccion Individual 2000W",
+    "brand":  "G3 Ferrari",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "frio-cocina-12v"
+                 ],
+    "category":  "placa induccion portatil",
+    "ranking":  5,
+    "ranking_label":  "Mejor placa portatil",
+    "summary":  "Placa de induccion individual de 2000W con pantalla digital, regulacion de temperatura, controles soft-touch y temporizador.",
+    "best_for":  "Cocinar de verdad cuando hay 230V de camping, inversor adecuado o estacion de energia potente.",
+    "not_for":  "Uso directo desde 12V o estaciones pequenas de baja potencia.",
+    "score":  8.8,
+    "price":  "99,90 EUR",
+    "pros":  [
+                 "2000W de potencia",
+                 "Control de temperatura",
+                 "Temporizador",
+                 "Permite cocinar mas alla de calentar comida"
+             ],
+    "cons":  [
+                 "Necesita 230V",
+                 "No apta para estaciones de energia pequenas"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/frio-cocina-12v/g3-ferrari-g10061-placa-induccion-2000w.png",
+    "affiliate_url":  "https://amzn.to/4uE89vK",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

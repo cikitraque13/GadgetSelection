@@ -1,0 +1,32 @@
+{
+    "id":  "lotuscrafts-cinturon-yoga-algodon-250cm",
+    "title":  "Lotuscrafts Cinturon de Yoga 100% Algodon 250 cm",
+    "brand":  "Lotuscrafts",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "movilidad-estiramientos"
+                 ],
+    "category":  "cinturon yoga estiramiento",
+    "ranking":  3,
+    "ranking_label":  "Mejor correa de estiramiento",
+    "summary":  "Cinturon de yoga de algodon con hebilla metalica, 250 x 3,8 cm, para estirar mejor y asistir posturas en principiantes y avanzados.",
+    "best_for":  "Mejorar rango de movimiento, asistir estiramientos y trabajar flexibilidad sin usar bandas elasticas de resistencia.",
+    "not_for":  "Quien busca entrenamiento de fuerza con resistencia o una banda elastica deportiva.",
+    "score":  8.4,
+    "price":  "15,99 EUR",
+    "pros":  [
+                 "Algodon",
+                 "Hebilla metalica",
+                 "250 cm",
+                 "Ayuda en estiramientos"
+             ],
+    "cons":  [
+                 "No aporta resistencia",
+                 "Uso muy especifico",
+                 "Requiere tecnica basica"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/movilidad-estiramientos/lotuscrafts-cinturon-yoga-algodon-250cm.png",
+    "affiliate_url":  "https://amzn.to/4dBEFJb",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

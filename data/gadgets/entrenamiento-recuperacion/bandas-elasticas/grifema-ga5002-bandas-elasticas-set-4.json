@@ -1,0 +1,32 @@
+{
+    "id":  "grifema-ga5002-bandas-elasticas-set-4",
+    "title":  "GRIFEMA GA5002 Bandas Elasticas Fitness Set de 4",
+    "brand":  "GRIFEMA",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "bandas-elasticas"
+                 ],
+    "category":  "bandas elasticas largas",
+    "ranking":  1,
+    "ranking_label":  "Mejor set basico largo",
+    "summary":  "Set de 4 cintas elasticas de 1.8 m con 4 niveles de resistencia para entrenamiento de fuerza, yoga y pilates.",
+    "best_for":  "Calentamiento, movilidad, fuerza ligera, yoga, pilates y entrenamiento portatil.",
+    "not_for":  "Quien necesita asas, anclaje de puerta o resistencia alta para fuerza pesada.",
+    "score":  8.6,
+    "price":  "7,98 EUR",
+    "pros":  [
+                 "Set de 4 bandas",
+                 "1.8 m",
+                 "4 niveles de resistencia",
+                 "Ligero y portatil"
+             ],
+    "cons":  [
+                 "No incluye asas",
+                 "No incluye anclaje de puerta",
+                 "Puede quedarse corto para fuerza alta"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/bandas-elasticas/grifema-ga5002-bandas-elasticas-set-4.png",
+    "affiliate_url":  "https://amzn.to/4tnXZhF",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

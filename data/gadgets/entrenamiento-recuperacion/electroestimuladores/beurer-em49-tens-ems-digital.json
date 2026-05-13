@@ -1,0 +1,32 @@
+{
+    "id":  "beurer-em49-tens-ems-digital",
+    "title":  "Beurer EM 49 TENS EMS Digital",
+    "brand":  "Beurer",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "electroestimuladores"
+                 ],
+    "category":  "electroestimulador TENS EMS 3 en 1",
+    "ranking":  4,
+    "ranking_label":  "Mejor Beurer sin calor",
+    "summary":  "Dispositivo de corriente de estimulacion 3 en 1 con TENS, EMS y funcion de masaje, orientado a alivio no medico, entrenamiento y recuperacion general.",
+    "best_for":  "Quien quiere un electroestimulador Beurer mas economico que el EM 59 y no necesita calor.",
+    "not_for":  "Quien quiere calor integrado o un pack con muchos electrodos incluidos.",
+    "score":  8.4,
+    "price":  "44,99 EUR",
+    "pros":  [
+                 "TENS EMS y masaje",
+                 "Marca Beurer",
+                 "Incluye 4 electrodos",
+                 "Buena alternativa sin calor"
+             ],
+    "cons":  [
+                 "No tiene calor",
+                 "Menos completo que EM 59",
+                 "Solo 4 electrodos incluidos"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/electroestimuladores/beurer-em49-tens-ems-digital.png",
+    "affiliate_url":  "https://amzn.to/4ninG1L",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

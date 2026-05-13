@@ -1,0 +1,32 @@
+{
+    "id":  "ulla-recordatorio-hidratacion-botella",
+    "title":  "Ulla Recordatorio de Hidratacion Inteligente",
+    "brand":  "Ulla",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "hidratacion-medicion"
+                 ],
+    "category":  "recordatorio hidratacion botella",
+    "ranking":  6,
+    "ranking_label":  "Mejor recordatorio simple",
+    "summary":  "Recordatorio inteligente de hidratacion para beber mas agua, adaptable a la mayoria de botellas y con aviso luminoso.",
+    "best_for":  "Usuarios que ya tienen botella y quieren un recordatorio visual simple para beber mas agua.",
+    "not_for":  "Quien quiere una botella completa, medicion automatica o app avanzada.",
+    "score":  7.9,
+    "price":  "29,99 EUR",
+    "pros":  [
+                 "Se adapta a muchas botellas",
+                 "Aviso luminoso",
+                 "No obliga a cambiar botella",
+                 "Gadget simple"
+             ],
+    "cons":  [
+                 "No mide agua bebida",
+                 "No es botella",
+                 "Precio alto para accesorio"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/hidratacion-medicion/ulla-recordatorio-hidratacion-botella.png",
+    "affiliate_url":  "https://amzn.to/4f9cL8E",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,32 @@
+{
+    "id":  "ugreen-nexode-cargador-usb-c-65w",
+    "title":  "UGREEN Nexode Cargador USB C 65W",
+    "brand":  "UGREEN",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "energia-viaje"
+                 ],
+    "category":  "cargadores usb-c de viaje",
+    "ranking":  2,
+    "ranking_label":  "Mejor alternativa 65W",
+    "summary":  "Cargador USB-C de 65W con carga rapida y 3 puertos para movil, tablet, portatil ligero y accesorios de viaje.",
+    "best_for":  "Quien busca un cargador compacto y potente para hotel, aeropuerto, tren o mochila tecnologica.",
+    "not_for":  "Quien necesita powerbank o adaptador universal de viaje.",
+    "score":  8.5,
+    "price":  "22,99 EUR",
+    "pros":  [
+                 "65W",
+                 "3 puertos",
+                 "Carga rapida",
+                 "Marca UGREEN"
+             ],
+    "cons":  [
+                 "No almacena energia",
+                 "No sustituye adaptador internacional",
+                 "Puede requerir cable aparte"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/energia-viaje/ugreen-nexode-cargador-usb-c-65w.png",
+    "affiliate_url":  "https://amzn.to/3Ri0IvP",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

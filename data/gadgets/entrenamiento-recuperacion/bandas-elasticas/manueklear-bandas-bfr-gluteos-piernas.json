@@ -1,0 +1,32 @@
+{
+    "id":  "manueklear-bandas-bfr-gluteos-piernas",
+    "title":  "MANUEKLEAR Bandas de Restriccion de Flujo Sanguineo BFR",
+    "brand":  "MANUEKLEAR",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "bandas-elasticas"
+                 ],
+    "category":  "bandas BFR oclusion",
+    "ranking":  3,
+    "ranking_label":  "Mejor para BFR",
+    "summary":  "Bandas de restriccion de flujo sanguineo orientadas a gluteos, piernas, sentadillas y entrenamiento de cadera.",
+    "best_for":  "Trabajo especifico de piernas, gluteos y entrenamiento BFR cuando el usuario sabe como aplicarlo.",
+    "not_for":  "Principiantes que no tienen claro el uso de bandas de oclusion o usuarios con problemas circulatorios.",
+    "score":  7.8,
+    "price":  "47,04 EUR",
+    "pros":  [
+                 "Formato BFR",
+                 "Enfocadas en gluteos y piernas",
+                 "Utiles para sentadillas",
+                 "Producto especifico"
+             ],
+    "cons":  [
+                 "Uso mas tecnico",
+                 "No sustituye bandas de fuerza general",
+                 "No es ideal para principiantes sin guia"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/bandas-elasticas/manueklear-bandas-bfr-gluteos-piernas.png",
+    "affiliate_url":  "https://amzn.to/4wnA9Fx",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

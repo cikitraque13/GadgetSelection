@@ -1,0 +1,32 @@
+{
+    "id":  "auvon-tens-electroestimulador-doble-canal-20-modos",
+    "title":  "AUVON 3 en 1 Electroestimulador Muscular de 24 Modos",
+    "brand":  "AUVON",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "electroestimuladores"
+                 ],
+    "category":  "electroestimulador TENS EMS masaje",
+    "ranking":  2,
+    "ranking_label":  "Mejor calidad precio",
+    "summary":  "Electroestimulador muscular 3 en 1 con TENS, EMS y masaje, 24 modos, 2 canales y 12 electrodos de 2 x 2 pulgadas.",
+    "best_for":  "Quien quiere probar TENS y EMS con muchos modos, doble canal y varios electrodos sin gastar demasiado.",
+    "not_for":  "Quien necesita calor integrado o un equipo profesional de electroestimulacion deportiva.",
+    "score":  8.6,
+    "price":  "35,99 EUR",
+    "pros":  [
+                 "24 modos",
+                 "TENS EMS y masaje",
+                 "2 canales",
+                 "Incluye 12 electrodos"
+             ],
+    "cons":  [
+                 "No incluye calor",
+                 "Menos premium que Beurer",
+                 "Los electrodos se desgastan con el uso"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/electroestimuladores/auvon-tens-electroestimulador-doble-canal-20-modos.png",
+    "affiliate_url":  "https://amzn.to/4tu8Tmh",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

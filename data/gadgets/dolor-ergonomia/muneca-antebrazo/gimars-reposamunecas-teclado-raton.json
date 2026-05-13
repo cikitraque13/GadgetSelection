@@ -1,0 +1,31 @@
+{
+    "id":  "gimars-reposamunecas-teclado-raton",
+    "title":  "Gimars Reposamunecas Teclado y Raton",
+    "brand":  "Gimars",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "muneca-antebrazo"
+                 ],
+    "category":  "reposamunecas ergonomicos",
+    "ranking":  2,
+    "ranking_label":  "Mejor para escritorio",
+    "summary":  "Set de reposamunecas con espuma de memoria para teclado y raton pensado para aliviar presion en uso prolongado.",
+    "best_for":  "Escritorios donde la muneca queda apoyada en borde duro o trabaja muchas horas con teclado.",
+    "not_for":  "Quien necesita inmovilizacion por lesion o soporte tipo ferula.",
+    "score":  8.4,
+    "price":  "13,91 EUR",
+    "pros":  [
+                 "Incluye teclado y raton",
+                 "Espuma con memoria",
+                 "Base para oficina o gaming"
+             ],
+    "cons":  [
+                 "No sustituye un raton ergonomico",
+                 "Puede elevar demasiado la muneca si se coloca mal",
+                 "No inmoviliza la articulacion"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/muneca-antebrazo/gimars-reposamunecas-teclado-raton.png",
+    "affiliate_url":  "https://amzn.to/4nnGPzw",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

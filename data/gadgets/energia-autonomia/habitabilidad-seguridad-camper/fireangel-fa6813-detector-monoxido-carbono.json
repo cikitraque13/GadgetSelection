@@ -1,0 +1,31 @@
+{
+    "id":  "fireangel-fa6813-detector-monoxido-carbono",
+    "title":  "FireAngel FA6813 Detector de Monoxido de Carbono",
+    "brand":  "FireAngel",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "habitabilidad-seguridad-camper"
+                 ],
+    "category":  "detector monoxido carbono",
+    "ranking":  2,
+    "ranking_label":  "Mejor detector CO",
+    "summary":  "Alarma y detector de monoxido de carbono con sensor de 10 anos y pilas AA, util como detector portatil de viaje.",
+    "best_for":  "Aumentar seguridad dentro de camper o caravana cuando hay calefaccion, cocina o espacios cerrados.",
+    "not_for":  "Detectar humo, gas propano o butano si el modelo no lo especifica.",
+    "score":  9.1,
+    "price":  "18,08 EUR",
+    "pros":  [
+                 "Sensor de 10 anos",
+                 "Formato portatil",
+                 "Uso de viaje",
+                 "Precio accesible para seguridad critica"
+             ],
+    "cons":  [
+                 "Solo cubre monoxido de carbono",
+                 "No sustituye ventilacion ni mantenimiento"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/habitabilidad-seguridad-camper/fireangel-fa6813-detector-monoxido-carbono.png",
+    "affiliate_url":  "https://amzn.to/3Rhz8if",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

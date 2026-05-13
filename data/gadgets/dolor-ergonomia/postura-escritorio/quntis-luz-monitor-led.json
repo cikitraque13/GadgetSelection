@@ -1,0 +1,32 @@
+{
+    "id":  "quntis-luz-monitor-led",
+    "title":  "Quntis Lampara Monitor LED 40 cm",
+    "brand":  "Quntis",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "postura-escritorio"
+                 ],
+    "category":  "luces de monitor",
+    "ranking":  5,
+    "ranking_label":  "Mejor para fatiga visual",
+    "summary":  "Barra de luz para monitor con control remoto y atenuacion automatica para iluminar el escritorio sin ocupar espacio.",
+    "best_for":  "Trabajar de noche o en mesas con mala iluminacion sin llenar el escritorio de lamparas.",
+    "not_for":  "Quien ya tiene iluminacion ambiental bien resuelta.",
+    "score":  8,
+    "price":  "49,99 EUR",
+    "pros":  [
+                 "Control remoto",
+                 "Atenuacion automatica",
+                 "Ahorra espacio en la mesa",
+                 "Pensada para cuidado visual"
+             ],
+    "cons":  [
+                 "No corrige postura directamente",
+                 "Precio mas alto que una lampara basica",
+                 "Puede no encajar en todos los monitores"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/postura-escritorio/quntis-luz-monitor-led.png",
+    "affiliate_url":  "https://amzn.to/4dxGRRY",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

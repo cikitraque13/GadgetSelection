@@ -1,0 +1,32 @@
+{
+    "id":  "ugreen-funda-disco-duro-cables-eva",
+    "title":  "UGREEN Funda Disco Duro y Cables EVA",
+    "brand":  "UGREEN",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "organizadores-cables"
+                 ],
+    "category":  "fundas rigidas para electronica",
+    "ranking":  4,
+    "ranking_label":  "Mejor proteccion rigida",
+    "summary":  "Estuche EVA acolchado para disco duro externo, cables, tarjetas SD, USB y pequenos accesorios electronicos.",
+    "best_for":  "Proteger disco duro, SSD, cables y tarjetas dentro de mochila o equipaje de mano.",
+    "not_for":  "Quien necesita organizar muchos cargadores grandes o varios dispositivos.",
+    "score":  8.3,
+    "price":  "11,99 EUR",
+    "pros":  [
+                 "EVA acolchada",
+                 "Doble capa",
+                 "Buena para disco duro",
+                 "Marca UGREEN"
+             ],
+    "cons":  [
+                 "Capacidad limitada",
+                 "No sirve para cargadores grandes",
+                 "Formato mas especifico"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/organizadores-cables/ugreen-funda-disco-duro-cables-eva.png",
+    "affiliate_url":  "https://amzn.to/4dBLeeI",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

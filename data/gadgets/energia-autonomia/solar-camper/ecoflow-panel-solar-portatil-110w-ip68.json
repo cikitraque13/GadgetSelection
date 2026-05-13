@@ -1,0 +1,31 @@
+{
+    "id":  "ecoflow-panel-solar-portatil-110w-ip68",
+    "title":  "EF ECOFLOW Panel Solar Portatil 110W IP68",
+    "brand":  "EF ECOFLOW",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "solar-camper"
+                 ],
+    "category":  "panel solar portatil para camper",
+    "ranking":  2,
+    "ranking_label":  "Mejor panel portatil",
+    "summary":  "Panel solar portatil y plegable de 110W con funda de transporte, alta eficiencia e IP68 para camping, caravanas y uso exterior.",
+    "best_for":  "Quien quiere un panel portatil de marca fuerte para camper, estacion de energia o escapadas prolongadas.",
+    "not_for":  "Presupuestos ajustados o instalaciones fijas en techo.",
+    "score":  9.1,
+    "price":  "337,80 EUR",
+    "pros":  [
+                 "110W de potencia",
+                 "Plegable",
+                 "Funda de transporte",
+                 "Proteccion IP68"
+             ],
+    "cons":  [
+                 "Precio alto",
+                 "No es un kit fijo 12V completo"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/solar-camper/ecoflow-panel-solar-portatil-110w-ip68.png",
+    "affiliate_url":  "https://amzn.to/4dh6p4r",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

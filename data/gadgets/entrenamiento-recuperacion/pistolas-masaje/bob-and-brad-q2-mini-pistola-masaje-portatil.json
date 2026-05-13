@@ -1,0 +1,32 @@
+{
+    "id":  "bob-and-brad-q2-mini-pistola-masaje-portatil",
+    "title":  "Bob and Brad Q2 Mini Pistola de Masaje Muscular",
+    "brand":  "Bob and Brad",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "pistolas-masaje"
+                 ],
+    "category":  "mini pistola masaje portatil",
+    "ranking":  6,
+    "ranking_label":  "Mejor mini portatil",
+    "summary":  "Mini pistola de masaje muscular portatil y silenciosa para tejido profundo, espalda y recuperacion, con maletin y diseno compacto.",
+    "best_for":  "Viaje, gimnasio, mochila y usuarios que quieren una pistola compacta sin renunciar a una marca reconocida.",
+    "not_for":  "Quien necesita maxima potencia o sesiones largas de descarga intensa.",
+    "score":  8.5,
+    "price":  "69,99 EUR",
+    "pros":  [
+                 "Formato mini",
+                 "Portatil",
+                 "Silenciosa",
+                 "Incluye maletin"
+             ],
+    "cons":  [
+                 "Menos potente que modelos grandes",
+                 "Precio superior a mini genericas",
+                 "No es para trabajo muy profundo prolongado"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/pistolas-masaje/bob-and-brad-q2-mini-pistola-masaje-portatil.png",
+    "affiliate_url":  "https://amzn.to/4ws10k4",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

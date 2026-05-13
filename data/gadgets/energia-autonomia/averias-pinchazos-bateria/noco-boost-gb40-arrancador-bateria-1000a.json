@@ -1,0 +1,31 @@
+{
+    "id":  "noco-boost-gb40-arrancador-bateria-1000a",
+    "title":  "NOCO Boost GB40 Arrancador de Bateria 1000A",
+    "brand":  "NOCO",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "averias-pinchazos-bateria"
+                 ],
+    "category":  "arrancador de bateria premium",
+    "ranking":  2,
+    "ranking_label":  "Mejor marca premium",
+    "summary":  "Arrancador de litio UltraSafe de 1000A con proteccion antichispas, proteccion contra polaridad inversa, power bank USB y linterna LED.",
+    "best_for":  "Quien prioriza marca reconocida, seguridad electrica y uso fiable en coche o camper.",
+    "not_for":  "Quien busca la opcion mas barata o un modelo con compresor integrado.",
+    "score":  9.3,
+    "price":  "97,95 EUR",
+    "pros":  [
+                 "Marca muy reconocida",
+                 "Proteccion antichispas",
+                 "Proteccion contra polaridad inversa",
+                 "Tambien funciona como power bank USB"
+             ],
+    "cons":  [
+                 "Precio mas alto",
+                 "No incluye compresor de ruedas"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/averias-pinchazos-bateria/noco-boost-gb40-arrancador-bateria-1000a.png",
+    "affiliate_url":  "https://amzn.to/49nWj0A",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,32 @@
+{
+    "id":  "radio-solar-manivela-5000mah",
+    "title":  "Radio Solar Manivela 5000mAh",
+    "brand":  "Generic",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "radios-emergencia"
+                 ],
+    "category":  "radios solares 5000mah",
+    "ranking":  4,
+    "ranking_label":  "Mejor punto medio",
+    "summary":  "Radio de emergencia portatil de 5000mAh con manivela, AM/FM, cargador USB, linterna LED, luz de lectura, SOS y brujula.",
+    "best_for":  "Camping, mochila de emergencia y apagones donde quieres radio, luz y bateria moderada.",
+    "not_for":  "Uso como bateria externa principal o comunicacion bidireccional.",
+    "score":  8.1,
+    "price":  "32,29 EUR",
+    "pros":  [
+                 "5000mAh",
+                 "Manivela",
+                 "Luz de lectura",
+                 "SOS"
+             ],
+    "cons":  [
+                 "No comunica como walkie o satelite",
+                 "La brujula es apoyo basico",
+                 "No sustituye una linterna potente"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/radios-emergencia/radio-solar-manivela-5000mah.png",
+    "affiliate_url":  "https://amzn.to/3QRtqnj",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

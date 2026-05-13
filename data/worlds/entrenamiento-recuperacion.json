@@ -1,0 +1,22 @@
+{
+    "id":  "entrenamiento-recuperacion",
+    "title":  "Entrenamiento y recuperacion",
+    "slug":  "entrenamiento-recuperacion",
+    "description":  "Gadgets para entrenar mejor, recuperar musculos y mejorar rutinas de ejercicio en casa o fuera del gimnasio.",
+    "image":  "/public/assets/images/needs/entrenamiento-recuperacion/hero.png",
+    "needs":  [
+                  "pistolas-masaje",
+                  "frio-calor-recuperacion",
+                  "bandas-elasticas",
+                  "entrenamiento-casa",
+                  "electroestimuladores",
+                  "compresion-muscular",
+                  "movilidad-estiramientos",
+                  "hidratacion-medicion"
+              ],
+    "seo":  {
+                "title":  "Entrenamiento y recuperacion",
+                "description":  "Seleccion de gadgets para entrenamiento, recuperacion muscular, movilidad, cardio en casa y medicion basica."
+            },
+    "status":  "published"
+}

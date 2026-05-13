@@ -1,0 +1,32 @@
+{
+    "id":  "cursor-cinta-correr-plegable-inclinacion-15",
+    "title":  "CURSOR Cinta de Correr Plegable con Inclinacion 15%",
+    "brand":  "CURSOR",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "entrenamiento-casa"
+                 ],
+    "category":  "walking pad cinta andar plegable",
+    "ranking":  2,
+    "ranking_label":  "Mejor cinta compacta",
+    "summary":  "Cinta de andar plegable de 3.0 HP con inclinacion 15%, velocidad hasta 12 km/h, pantalla LED tactil, sistema amortiguador y soporte de hasta 136 kg.",
+    "best_for":  "Caminar o correr suave en casa con una maquina compacta, silenciosa y con inclinacion.",
+    "not_for":  "Quien busca una cinta grande de running intensivo o una maquina de gimnasio comercial.",
+    "score":  8.5,
+    "price":  "169,99 EUR",
+    "pros":  [
+                 "Inclinacion 15%",
+                 "Motor 3.0 HP",
+                 "Hasta 12 km/h",
+                 "Pantalla LED tactil"
+             ],
+    "cons":  [
+                 "Menos completa que una cinta grande",
+                 "No es ideal para sprint",
+                 "Requiere espacio libre alrededor"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/entrenamiento-casa/cursor-cinta-correr-plegable-inclinacion-15.png",
+    "affiliate_url":  "https://amzn.to/4wrPXaA",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

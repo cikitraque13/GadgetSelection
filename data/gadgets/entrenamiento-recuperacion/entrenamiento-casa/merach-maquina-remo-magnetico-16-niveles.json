@@ -1,0 +1,32 @@
+{
+    "id":  "merach-maquina-remo-magnetico-16-niveles",
+    "title":  "MERACH Maquina de Remo para Casa 16 Niveles",
+    "brand":  "MERACH",
+    "world_id":  "entrenamiento-recuperacion",
+    "need_ids":  [
+                     "entrenamiento-casa"
+                 ],
+    "category":  "maquina remo magnetico",
+    "ranking":  5,
+    "ranking_label":  "Mejor remo silencioso",
+    "summary":  "Maquina de remo magnetica para casa con 16 niveles de resistencia, app exclusiva y rieles dobles mejorados para mayor estabilidad.",
+    "best_for":  "Entrenamiento cardiovascular y muscular de cuerpo completo en casa con ruido bajo.",
+    "not_for":  "Quien busca un remo de agua realista o una maquina ultracompacta.",
+    "score":  8.5,
+    "price":  "199,99 EUR",
+    "pros":  [
+                 "16 niveles de resistencia",
+                 "Sistema magnetico silencioso",
+                 "App exclusiva",
+                 "Rieles dobles mejorados"
+             ],
+    "cons":  [
+                 "Ocupa espacio longitudinal",
+                 "No es remo de agua",
+                 "Requiere tecnica basica para aprovecharlo"
+             ],
+    "image":  "/public/assets/images/gadgets/entrenamiento-recuperacion/entrenamiento-casa/merach-maquina-remo-magnetico-16-niveles.png",
+    "affiliate_url":  "https://amzn.to/4tqwVOM",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

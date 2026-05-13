@@ -1,0 +1,31 @@
+{
+    "id":  "renpho-masajeador-piernas-compresion",
+    "title":  "RENPHO Masajeador de Piernas Compresion de Aire",
+    "brand":  "RENPHO",
+    "world_id":  "dolor-ergonomia",
+    "need_ids":  [
+                     "piernas-circulacion"
+                 ],
+    "category":  "masajeadores de piernas con compresion",
+    "ranking":  2,
+    "ranking_label":  "Mejor compresion ajustable",
+    "summary":  "Masajeador de piernas por compresion de aire con varios modos e intensidades para relajacion muscular.",
+    "best_for":  "Pantorrillas, muslos y pies cargados despues de trabajo, viajes o actividad diaria.",
+    "not_for":  "Quien quiera masaje Shiatsu profundo en la planta del pie.",
+    "score":  8.5,
+    "price":  "129,99 EUR",
+    "pros":  [
+                 "6 modos",
+                 "4 intensidades",
+                 "Cubre pantorrillas, muslos y pies"
+             ],
+    "cons":  [
+                 "Precio mas alto",
+                 "Menos compacto que un cojin elevador",
+                 "No es para uso caminando"
+             ],
+    "image":  "/public/assets/images/gadgets/dolor-ergonomia/piernas-circulacion/renpho-masajeador-piernas-compresion.png",
+    "affiliate_url":  "https://amzn.to/4u4vMxL",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

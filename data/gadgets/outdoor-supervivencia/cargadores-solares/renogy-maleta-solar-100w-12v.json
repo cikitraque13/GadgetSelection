@@ -1,0 +1,32 @@
+{
+    "id":  "renogy-maleta-solar-100w-12v",
+    "title":  "Renogy Maleta Solar Portatil 100W 12V",
+    "brand":  "Renogy",
+    "world_id":  "outdoor-supervivencia",
+    "need_ids":  [
+                     "cargadores-solares"
+                 ],
+    "category":  "maletas solares 100w",
+    "ranking":  7,
+    "ranking_label":  "Mejor base outdoor",
+    "summary":  "Maleta solar portatil de 100W y 12V con controlador impermeable y soporte ajustable para salidas largas.",
+    "best_for":  "Base camp, refugio, emergencia o salida outdoor donde se necesita energia mas seria.",
+    "not_for":  "Mochila ligera, rutas rapidas o usuarios que solo quieren cargar un movil.",
+    "score":  8,
+    "price":  "223,50 EUR",
+    "pros":  [
+                 "100W",
+                 "Controlador de carga",
+                 "Soporte ajustable",
+                 "Formato maleta"
+             ],
+    "cons":  [
+                 "Precio alto",
+                 "Mas pesada y voluminosa",
+                 "Mas cercana a campamento base que a senderismo ligero"
+             ],
+    "image":  "/public/assets/images/gadgets/outdoor-supervivencia/cargadores-solares/renogy-maleta-solar-100w-12v.png",
+    "affiliate_url":  "https://amzn.to/48NXVk3",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

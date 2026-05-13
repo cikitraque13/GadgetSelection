@@ -1,0 +1,32 @@
+{
+    "id":  "chipolo-pop-tracker-tag-4pack",
+    "title":  "Chipolo POP Tracker Tag 4 Pack",
+    "brand":  "Chipolo",
+    "world_id":  "viaje-tecnologia",
+    "need_ids":  [
+                     "localizadores-bluetooth"
+                 ],
+    "category":  "localizadores compatibles Apple y Google",
+    "ranking":  4,
+    "ranking_label":  "Mejor doble ecosistema",
+    "summary":  "Pack de 4 rastreadores Bluetooth compatibles con Google Find Hub o Apple Find My, con funcion para hacer sonar el telefono.",
+    "best_for":  "Familias o viajeros con varios objetos y mezcla de ecosistemas Apple o Android.",
+    "not_for":  "Quien busca una sola unidad barata o rastreo GPS independiente.",
+    "score":  8.2,
+    "price":  "105,00 EUR",
+    "pros":  [
+                 "Pack de 4",
+                 "Compatible con Apple o Google",
+                 "Colores visibles",
+                 "Permite hacer sonar el telefono"
+             ],
+    "cons":  [
+                 "Precio alto",
+                 "Hay que elegir ecosistema correctamente",
+                 "No es GPS independiente"
+             ],
+    "image":  "/public/assets/images/gadgets/viaje-tecnologia/localizadores-bluetooth/chipolo-pop-tracker-tag-4pack.png",
+    "affiliate_url":  "https://amzn.to/3Phu6ll",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,31 @@
+{
+    "id":  "jorest-kit-fusibles-coche-180pcs",
+    "title":  "JOREST Kit Fusibles Coche 180 Piezas",
+    "brand":  "JOREST",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "averias-pinchazos-bateria"
+                 ],
+    "category":  "kit fusibles coche",
+    "ranking":  6,
+    "ranking_label":  "Mejor kit de fusibles",
+    "summary":  "Kit de 180 fusibles de coche con mini, medio y micro fusibles para coche, caravana, furgoneta o moto.",
+    "best_for":  "Resolver fallos electricos basicos de 12V en ruta, luces, tomas o accesorios.",
+    "not_for":  "Averias electricas complejas o diagnostico profesional.",
+    "score":  8.5,
+    "price":  "11,99 EUR",
+    "pros":  [
+                 "180 piezas",
+                 "Incluye mini, medio y micro fusibles",
+                 "Sirve para coche, caravana y furgoneta",
+                 "Muy barato para llevar de reserva"
+             ],
+    "cons":  [
+                 "No diagnostica el fallo",
+                 "Requiere saber identificar el fusible correcto"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/averias-pinchazos-bateria/jorest-kit-fusibles-coche-180pcs.png",
+    "affiliate_url":  "https://amzn.to/4uHSpIa",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}

@@ -1,0 +1,31 @@
+{
+    "id":  "ecoflow-delta-2-1024wh",
+    "title":  "EcoFlow Delta 2 Estacion de Energia Portatil 1024Wh",
+    "brand":  "EcoFlow",
+    "world_id":  "energia-autonomia",
+    "need_ids":  [
+                     "estaciones-energia"
+                 ],
+    "category":  "estacion de energia 1000Wh",
+    "ranking":  3,
+    "ranking_label":  "Mejor autonomia seria",
+    "summary":  "Estacion de energia portatil con bateria LFP, capacidad ampliable de 1 a 3 kWh y carga rapida para respaldo en casa, camping o camper.",
+    "best_for":  "Nevera, luces, portatil, carga de dispositivos y respaldo mas serio en camper o camping base.",
+    "not_for":  "Quien solo necesita una bateria pequena para movil o luz puntual.",
+    "score":  9.4,
+    "price":  "599,00 EUR",
+    "pros":  [
+                 "Capacidad de 1024Wh",
+                 "Bateria LFP",
+                 "Capacidad ampliable",
+                 "Marca fuerte en power stations"
+             ],
+    "cons":  [
+                 "Mas grande y pesada que una compacta",
+                 "Inversion superior"
+             ],
+    "image":  "/public/assets/images/gadgets/energia-autonomia/estaciones-energia/ecoflow-delta-2-1024wh.png",
+    "affiliate_url":  "https://amzn.to/4nm3JXQ",
+    "affiliate_rel":  "sponsored nofollow noopener",
+    "status":  "published"
+}
