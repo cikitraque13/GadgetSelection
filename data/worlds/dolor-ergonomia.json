@@ -1,20 +1,20 @@
 {
-    "id": "dolor-ergonomia",
-    "title": "Dolor y ergonom\u00eda",
-    "slug": "dolor-ergonomia",
-    "description": "Gadgets para reducir molestias, mejorar postura y trabajar o recuperarse con m\u00e1s comodidad.",
-    "image": "/public/assets/images/needs/dolor-ergonomia/hero.png",
-    "needs": [
-        "dolor-cervical",
-        "dolor-lumbar",
-        "postura-escritorio",
-        "recuperacion-muscular",
-        "piernas-circulacion",
-        "muneca-antebrazo"
-    ],
-    "seo": {
-        "title": "Gadgets para dolor y ergonom\u00eda | GadgetSelection",
-        "description": "Selecci\u00f3n de gadgets para dolor cervical, lumbar, postura de escritorio, recuperaci\u00f3n muscular, piernas y mu\u00f1eca."
-    },
-    "status": "published"
+    "id":  "dolor-ergonomia",
+    "title":  "Dolor y ergonomía",
+    "slug":  "dolor-ergonomia",
+    "description":  "Gadgets para reducir molestias, mejorar postura y trabajar o recuperarse con más comodidad.",
+    "image":  "/public/assets/images/needs/dolor-ergonomia/hero.webp",
+    "needs":  [
+                  "dolor-cervical",
+                  "dolor-lumbar",
+                  "postura-escritorio",
+                  "recuperacion-muscular",
+                  "piernas-circulacion",
+                  "muneca-antebrazo"
+              ],
+    "seo":  {
+                "title":  "Gadgets para dolor y ergonomía | GadgetSelection",
+                "description":  "Selección de gadgets para dolor cervical, lumbar, postura de escritorio, recuperación muscular, piernas y muñeca."
+            },
+    "status":  "published"
 }

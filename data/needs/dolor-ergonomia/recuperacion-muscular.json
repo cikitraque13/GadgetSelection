@@ -1,24 +1,26 @@
 {
-    "id": "recuperacion-muscular",
-    "world_id": "dolor-ergonomia",
-    "title": "Recupera en casa",
-    "slug": "recuperacion-muscular",
-    "description": "Sillones, asientos y soluciones de masaje para descargar el cuerpo en casa sin entrar en modo entrenamiento.",
-    "image": "/public/assets/images/needs/dolor-ergonomia/recuperacion-muscular.png",
-    "gadget_types": [
-        "asientos de masaje",
-        "sillones relax",
-        "sillones reclinables",
-        "sillones con autoayuda",
-        "sillones con calor",
-        "masaje Shiatsu en casa",
-        "masaje cuerpo completo",
-        "sillones premium de masaje"
-    ],
-    "gadgets": [],
-    "seo": {
-        "title": "Recupera en casa | GadgetSelection",
-        "description": "Sillones, asientos y soluciones de masaje para descargar espalda, cuello y piernas en casa con mas comodidad."
-    },
-    "status": "draft"
+    "id":  "recuperacion-muscular",
+    "world_id":  "dolor-ergonomia",
+    "title":  "Recupera en casa",
+    "slug":  "recuperacion-muscular",
+    "description":  "Sillones, asientos y soluciones de masaje para descargar el cuerpo en casa sin entrar en modo entrenamiento.",
+    "image":  "/public/assets/images/needs/dolor-ergonomia/recuperacion-muscular.webp",
+    "gadget_types":  [
+                         "asientos de masaje",
+                         "sillones relax",
+                         "sillones reclinables",
+                         "sillones con autoayuda",
+                         "sillones con calor",
+                         "masaje Shiatsu en casa",
+                         "masaje cuerpo completo",
+                         "sillones premium de masaje"
+                     ],
+    "gadgets":  [
+
+                ],
+    "seo":  {
+                "title":  "Recupera en casa | GadgetSelection",
+                "description":  "Sillones, asientos y soluciones de masaje para descargar espalda, cuello y piernas en casa con mas comodidad."
+            },
+    "status":  "draft"
 }

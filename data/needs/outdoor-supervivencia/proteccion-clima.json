@@ -1,24 +1,26 @@
 {
-    "id": "proteccion-clima",
-    "world_id": "outdoor-supervivencia",
-    "title": "Protecci\u00f3n clima",
-    "slug": "proteccion-clima",
-    "description": "Gadgets y accesorios compactos para lluvia, fr\u00edo, viento y protecci\u00f3n de equipo.",
-    "image": "/public/assets/images/needs/outdoor-supervivencia/proteccion-clima.png",
-    "gadget_types": [
-        "ponchos impermeables",
-        "mantas t\u00e9rmicas",
-        "sacos de emergencia",
-        "fundas estancas",
-        "guantes t\u00e9rmicos",
-        "gorros t\u00e9cnicos",
-        "calentadores de manos",
-        "protectores de mochila"
-    ],
-    "gadgets": [],
-    "seo": {
-        "title": "Protecci\u00f3n clima | GadgetSelection",
-        "description": "Gadgets y accesorios compactos para lluvia, fr\u00edo, viento y protecci\u00f3n de equipo."
-    },
-    "status": "draft"
+    "id":  "proteccion-clima",
+    "world_id":  "outdoor-supervivencia",
+    "title":  "Protección clima",
+    "slug":  "proteccion-clima",
+    "description":  "Gadgets y accesorios compactos para lluvia, frío, viento y protección de equipo.",
+    "image":  "/public/assets/images/needs/outdoor-supervivencia/proteccion-clima.webp",
+    "gadget_types":  [
+                         "ponchos impermeables",
+                         "mantas térmicas",
+                         "sacos de emergencia",
+                         "fundas estancas",
+                         "guantes térmicos",
+                         "gorros técnicos",
+                         "calentadores de manos",
+                         "protectores de mochila"
+                     ],
+    "gadgets":  [
+
+                ],
+    "seo":  {
+                "title":  "Protección clima | GadgetSelection",
+                "description":  "Gadgets y accesorios compactos para lluvia, frío, viento y protección de equipo."
+            },
+    "status":  "draft"
 }

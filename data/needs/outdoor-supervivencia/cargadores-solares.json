@@ -1,24 +1,26 @@
 {
-    "id": "cargadores-solares",
-    "world_id": "outdoor-supervivencia",
-    "title": "Cargadores solares",
-    "slug": "cargadores-solares",
-    "description": "Paneles y cargadores solares para mantener energ\u00eda en salidas largas o situaciones de emergencia.",
-    "image": "/public/assets/images/needs/outdoor-supervivencia/cargadores-solares.png",
-    "gadget_types": [
-        "paneles solares plegables",
-        "cargadores solares USB",
-        "kits solares compactos",
-        "paneles para power station",
-        "cargadores solares de mochila",
-        "paneles ligeros para camping",
-        "controladores simples",
-        "cables solares compatibles"
-    ],
-    "gadgets": [],
-    "seo": {
-        "title": "Cargadores solares | GadgetSelection",
-        "description": "Paneles y cargadores solares para mantener energ\u00eda en salidas largas o situaciones de emergencia."
-    },
-    "status": "draft"
+    "id":  "cargadores-solares",
+    "world_id":  "outdoor-supervivencia",
+    "title":  "Cargadores solares",
+    "slug":  "cargadores-solares",
+    "description":  "Paneles y cargadores solares para mantener energía en salidas largas o situaciones de emergencia.",
+    "image":  "/public/assets/images/needs/outdoor-supervivencia/cargadores-solares.webp",
+    "gadget_types":  [
+                         "paneles solares plegables",
+                         "cargadores solares USB",
+                         "kits solares compactos",
+                         "paneles para power station",
+                         "cargadores solares de mochila",
+                         "paneles ligeros para camping",
+                         "controladores simples",
+                         "cables solares compatibles"
+                     ],
+    "gadgets":  [
+
+                ],
+    "seo":  {
+                "title":  "Cargadores solares | GadgetSelection",
+                "description":  "Paneles y cargadores solares para mantener energía en salidas largas o situaciones de emergencia."
+            },
+    "status":  "draft"
 }

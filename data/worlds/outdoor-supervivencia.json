@@ -1,22 +1,22 @@
 {
-    "id": "outdoor-supervivencia",
-    "title": "Outdoor y supervivencia",
-    "slug": "outdoor-supervivencia",
-    "description": "Gadgets para luz, energ\u00eda, agua, clima, navegaci\u00f3n y preparaci\u00f3n en exteriores.",
-    "image": "/public/assets/images/needs/outdoor-supervivencia/hero.png",
-    "needs": [
-        "linternas-recargables",
-        "powerbanks-resistentes",
-        "cargadores-solares",
-        "radios-emergencia",
-        "filtros-agua",
-        "kits-emergencia",
-        "navegacion-comunicacion",
-        "proteccion-clima"
-    ],
-    "seo": {
-        "title": "Gadgets outdoor y supervivencia | GadgetSelection",
-        "description": "Selecci\u00f3n de gadgets para outdoor, camping, emergencia, energ\u00eda port\u00e1til, luz, agua y comunicaci\u00f3n."
-    },
-    "status": "published"
+    "id":  "outdoor-supervivencia",
+    "title":  "Outdoor y supervivencia",
+    "slug":  "outdoor-supervivencia",
+    "description":  "Gadgets para luz, energía, agua, clima, navegación y preparación en exteriores.",
+    "image":  "/public/assets/images/needs/outdoor-supervivencia/hero.webp",
+    "needs":  [
+                  "linternas-recargables",
+                  "powerbanks-resistentes",
+                  "cargadores-solares",
+                  "radios-emergencia",
+                  "filtros-agua",
+                  "kits-emergencia",
+                  "navegacion-comunicacion",
+                  "proteccion-clima"
+              ],
+    "seo":  {
+                "title":  "Gadgets outdoor y supervivencia | GadgetSelection",
+                "description":  "Selección de gadgets para outdoor, camping, emergencia, energía portátil, luz, agua y comunicación."
+            },
+    "status":  "published"
 }

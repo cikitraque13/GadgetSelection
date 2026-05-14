@@ -1171,3 +1171,207 @@ El resto de paginas legales se mantiene:
     politica de privacidad
     politica de cookies
     afiliacion Amazon
+
+============================================================
+ADENDA 2026-05-14 — DESPLIEGUE TEMPORAL, DOMINIO Y OPTIMIZACION WEBP GLOBAL
+============================================================
+
+OBJETIVO DE ESTA ADENDA
+
+Registrar el avance posterior al cierre comercial, legal, header, Home y limpieza legacy: despliegue en Railway, conexion de dominio principal y optimizacion global de imagenes a WebP.
+
+Esta fase consolida GadgetSelection como sistema preparado para produccion inicial.
+
+============================================================
+GITHUB Y RAILWAY
+============================================================
+
+Se inicializo Git localmente y se creo el primer commit de produccion:
+
+    Initial production-ready GadgetSelection build
+
+Se creo y conecto el repositorio GitHub:
+
+    cikitraque13/GadgetSelection
+
+Se preparo el proyecto para Railway con:
+
+    composer.json
+    railway.json
+
+Start command Railway:
+
+    php -S 0.0.0.0:$PORT router.php
+
+El despliegue en Railway se realizo correctamente desde GitHub.
+
+Estado:
+
+    Railway online
+    URL temporal validada
+    Home funcionando
+    header funcionando
+    mundos funcionando
+    tarjetas funcionando
+    paginas legales funcionando
+    404 funcionando
+    imagenes cargando
+
+============================================================
+DOMINIO NAMECHEAP
+============================================================
+
+Se conecto el dominio principal:
+
+    gadgetselection.com
+
+Proveedor:
+
+    Namecheap
+
+Destino:
+
+    Railway
+
+Registros usados:
+
+    CNAME @ -> tm7ksycm.up.railway.app
+    TXT _railway-verify -> railway-verify=...
+
+Estado:
+
+    gadgetselection.com validado en Railway
+    web accesible en dominio principal
+
+Decision sobre www:
+
+    www.gadgetselection.com fue descartado temporalmente por limite del plan actual de Railway.
+    Se conserva como mejora futura si se amplia el plan o se configura redireccion alternativa.
+    Dominio principal oficial actual:
+
+        https://gadgetselection.com
+
+============================================================
+OPTIMIZACION WEBP GLOBAL
+============================================================
+
+Se optimizo el sistema visual principal convirtiendo imagenes PNG a WebP.
+
+Proceso seguido:
+
+    1. Backup completo fuera del proyecto.
+    2. Pruebas externas por bloque.
+    3. Validacion visual.
+    4. Aplicacion por fases.
+    5. Borrado de PNG solo tras validar.
+    6. Auditoria global final.
+
+Backup externo creado:
+
+    C:\Users\lucas\Desktop\GS_BACKUPS\GadgetSelection-clean-BACKUP-20260514-001240
+
+Estado del backup:
+
+    618 archivos
+    206,75 MB
+    .git excluido
+    numero de archivos coincide
+    tamaño total coincide
+
+Fases de optimizacion completadas:
+
+    Carrusel Home -> WebP cerrado
+    public/assets/images/worlds -> eliminado por obsoleto
+    Needs / heroes / indices -> WebP cerrado
+    Gadgets dolor-ergonomia -> WebP cerrado
+    Gadgets energia-autonomia -> WebP cerrado
+    Gadgets entrenamiento-recuperacion -> WebP cerrado
+    Gadgets outdoor-supervivencia -> WebP cerrado
+    Gadgets viaje-tecnologia -> WebP cerrado
+
+============================================================
+RESULTADO DE OPTIMIZACION
+============================================================
+
+Antes de la optimizacion:
+
+    public/assets/images ≈ 203,96 MB
+
+Despues de la optimizacion:
+
+    carousel -> 5 WebP / 0 PNG / 0 JPG
+    needs -> 43 WebP / 0 PNG / 0 JPG
+    gadgets -> 231 WebP / 0 PNG / 0 JPG
+
+Pesos finales auditados:
+
+    carousel -> 0,70 MB
+    needs -> 4,69 MB
+    gadgets -> 16,45 MB
+
+Total principal aproximado:
+
+    21,84 MB
+
+Reduccion aproximada:
+
+    mas de 180 MB menos en imagenes principales
+
+============================================================
+VALIDACION FINAL WEBP
+============================================================
+
+La auditoria final confirmo:
+
+    carousel -> 5 WebP / 0 PNG
+    needs -> 43 WebP / 0 PNG
+    gadgets -> 231 WebP / 0 PNG
+    JSON revisados -> 274
+    todos los JSON apuntan a WebP
+    no quedan PNG/JPG en rutas principales
+    PHP clave OK
+    sin BOM
+    sin mojibake
+
+Resultado:
+
+    AUDITORIA FINAL WEBP GLOBAL SIN ERRORES
+
+============================================================
+ESTADO DEL SISTEMA EN ESTE PUNTO
+============================================================
+
+GadgetSelection queda con:
+
+    5 mundos comerciales completos
+    231 gadgets reales
+    231 JSON individuales
+    231 imagenes comerciales WebP
+    231 enlaces Amazon
+    header como broker de intencion
+    Home optimizada y alineada con 231 gadgets
+    paginas legales creadas y compactadas
+    footer legal
+    legacy tecnico limpiado
+    Railway desplegado
+    dominio principal conectado
+    imagenes principales optimizadas
+
+============================================================
+PENDIENTE INMEDIATO
+============================================================
+
+Antes de apertura controlada quedan pendientes:
+
+    1. Commit y push de la optimizacion WebP.
+    2. Validacion en Railway tras deploy.
+    3. Cookies + Google Analytics con consentimiento.
+    4. Informe al Director de metricas.
+    5. Auditoria final pre-apertura.
+    6. Apertura controlada.
+
+============================================================
+FRASE DE CONTINUIDAD ACTUALIZADA
+============================================================
+
+Continuamos GadgetSelection desde el documento canonico 17 v1.4 actualizado. El catalogo comercial esta cerrado con 5 mundos y 231 gadgets reales. El proyecto ya esta desplegado en Railway, el dominio principal gadgetselection.com esta conectado y validado, y la optimizacion global de imagenes a WebP fue completada con auditoria final sin errores. Las imagenes principales pasaron de aproximadamente 203,96 MB a 21,84 MB. Queda pendiente hacer commit y push de esta optimizacion, validar el despliegue actualizado en Railway, implementar cookies + Google Analytics con consentimiento y preparar la apertura controlada.

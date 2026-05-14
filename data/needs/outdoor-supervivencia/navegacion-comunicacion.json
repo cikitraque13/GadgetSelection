@@ -1,24 +1,26 @@
 {
-    "id": "navegacion-comunicacion",
-    "world_id": "outdoor-supervivencia",
-    "title": "Navegaci\u00f3n y comunicaci\u00f3n",
-    "slug": "navegacion-comunicacion",
-    "description": "Gadgets para orientaci\u00f3n, localizaci\u00f3n y comunicaci\u00f3n en rutas, camping y actividades exteriores.",
-    "image": "/public/assets/images/needs/outdoor-supervivencia/navegacion-comunicacion.png",
-    "gadget_types": [
-        "GPS port\u00e1tiles",
-        "br\u00fajulas",
-        "localizadores satelitales",
-        "walkie-talkies",
-        "mapas impermeables",
-        "soportes de m\u00f3vil outdoor",
-        "fundas impermeables",
-        "balizas o localizadores"
-    ],
-    "gadgets": [],
-    "seo": {
-        "title": "Navegaci\u00f3n y comunicaci\u00f3n | GadgetSelection",
-        "description": "Gadgets para orientaci\u00f3n, localizaci\u00f3n y comunicaci\u00f3n en rutas, camping y actividades exteriores."
-    },
-    "status": "draft"
+    "id":  "navegacion-comunicacion",
+    "world_id":  "outdoor-supervivencia",
+    "title":  "Navegación y comunicación",
+    "slug":  "navegacion-comunicacion",
+    "description":  "Gadgets para orientación, localización y comunicación en rutas, camping y actividades exteriores.",
+    "image":  "/public/assets/images/needs/outdoor-supervivencia/navegacion-comunicacion.webp",
+    "gadget_types":  [
+                         "GPS portátiles",
+                         "brújulas",
+                         "localizadores satelitales",
+                         "walkie-talkies",
+                         "mapas impermeables",
+                         "soportes de móvil outdoor",
+                         "fundas impermeables",
+                         "balizas o localizadores"
+                     ],
+    "gadgets":  [
+
+                ],
+    "seo":  {
+                "title":  "Navegación y comunicación | GadgetSelection",
+                "description":  "Gadgets para orientación, localización y comunicación en rutas, camping y actividades exteriores."
+            },
+    "status":  "draft"
 }

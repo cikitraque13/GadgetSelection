@@ -1,22 +1,22 @@
 {
-    "id": "viaje-tecnologia",
-    "title": "Viaje y tecnolog\u00eda",
-    "slug": "viaje-tecnologia",
-    "description": "Gadgets para viajar con m\u00e1s orden, autonom\u00eda, seguridad y productividad.",
-    "image": "/public/assets/images/needs/viaje-tecnologia/hero.png",
-    "needs": [
-        "mochilas-tecnologicas",
-        "organizadores-cables",
-        "adaptadores-viaje",
-        "localizadores-bluetooth",
-        "auriculares-viaje",
-        "seguridad-equipaje",
-        "productividad-movil",
-        "energia-viaje"
-    ],
-    "seo": {
-        "title": "Gadgets para viaje y tecnolog\u00eda | GadgetSelection",
-        "description": "Selecci\u00f3n de gadgets para viajar mejor: mochilas tecnol\u00f3gicas, organizadores, adaptadores, localizadores y energ\u00eda."
-    },
-    "status": "published"
+    "id":  "viaje-tecnologia",
+    "title":  "Viaje y tecnología",
+    "slug":  "viaje-tecnologia",
+    "description":  "Gadgets para viajar con más orden, autonomía, seguridad y productividad.",
+    "image":  "/public/assets/images/needs/viaje-tecnologia/hero.webp",
+    "needs":  [
+                  "mochilas-tecnologicas",
+                  "organizadores-cables",
+                  "adaptadores-viaje",
+                  "localizadores-bluetooth",
+                  "auriculares-viaje",
+                  "seguridad-equipaje",
+                  "productividad-movil",
+                  "energia-viaje"
+              ],
+    "seo":  {
+                "title":  "Gadgets para viaje y tecnología | GadgetSelection",
+                "description":  "Selección de gadgets para viajar mejor: mochilas tecnológicas, organizadores, adaptadores, localizadores y energía."
+            },
+    "status":  "published"
 }

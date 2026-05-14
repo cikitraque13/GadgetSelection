@@ -1,24 +1,26 @@
 {
-    "id": "organizadores-cables",
-    "world_id": "viaje-tecnologia",
-    "title": "Organizadores de cables",
-    "slug": "organizadores-cables",
-    "description": "Estuches y sistemas para llevar cables, cargadores, adaptadores y accesorios sin caos.",
-    "image": "/public/assets/images/needs/viaje-tecnologia/organizadores-cables.png",
-    "gadget_types": [
-        "estuches para cables",
-        "bolsas tech pouch",
-        "organizadores r\u00edgidos",
-        "organizadores compactos",
-        "fundas para cargadores",
-        "clips para cables",
-        "cajas para accesorios",
-        "kits de cable management"
-    ],
-    "gadgets": [],
-    "seo": {
-        "title": "Organizadores de cables | GadgetSelection",
-        "description": "Estuches y sistemas para llevar cables, cargadores, adaptadores y accesorios sin caos."
-    },
-    "status": "draft"
+    "id":  "organizadores-cables",
+    "world_id":  "viaje-tecnologia",
+    "title":  "Organizadores de cables",
+    "slug":  "organizadores-cables",
+    "description":  "Estuches y sistemas para llevar cables, cargadores, adaptadores y accesorios sin caos.",
+    "image":  "/public/assets/images/needs/viaje-tecnologia/organizadores-cables.webp",
+    "gadget_types":  [
+                         "estuches para cables",
+                         "bolsas tech pouch",
+                         "organizadores rígidos",
+                         "organizadores compactos",
+                         "fundas para cargadores",
+                         "clips para cables",
+                         "cajas para accesorios",
+                         "kits de cable management"
+                     ],
+    "gadgets":  [
+
+                ],
+    "seo":  {
+                "title":  "Organizadores de cables | GadgetSelection",
+                "description":  "Estuches y sistemas para llevar cables, cargadores, adaptadores y accesorios sin caos."
+            },
+    "status":  "draft"
 }

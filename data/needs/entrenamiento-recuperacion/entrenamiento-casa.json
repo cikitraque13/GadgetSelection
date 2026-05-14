@@ -4,7 +4,7 @@
     "title":  "Entrenamiento en casa",
     "slug":  "entrenamiento-casa",
     "description":  "Maquinas y gadgets compactos para entrenar cardio y fuerza en casa sin depender del gimnasio.",
-    "image":  "/public/assets/images/needs/entrenamiento-recuperacion/entrenamiento-casa.png",
+    "image":  "/public/assets/images/needs/entrenamiento-recuperacion/entrenamiento-casa.webp",
     "gadget_types":  [
                          {
                              "id":  "cintas-correr",

@@ -1,24 +1,26 @@
 {
-    "id": "auriculares-viaje",
-    "world_id": "viaje-tecnologia",
-    "title": "Auriculares de viaje",
-    "slug": "auriculares-viaje",
-    "description": "Auriculares y accesorios de audio para avi\u00f3n, tren, trabajo remoto y trayectos largos.",
-    "image": "/public/assets/images/needs/viaje-tecnologia/auriculares-viaje.png",
-    "gadget_types": [
-        "auriculares con cancelaci\u00f3n de ruido",
-        "auriculares compactos",
-        "auriculares para avi\u00f3n",
-        "auriculares multipunto",
-        "auriculares con buena bater\u00eda",
-        "tapones inteligentes",
-        "transmisores bluetooth para avi\u00f3n",
-        "estuches de carga"
-    ],
-    "gadgets": [],
-    "seo": {
-        "title": "Auriculares de viaje | GadgetSelection",
-        "description": "Auriculares y accesorios de audio para avi\u00f3n, tren, trabajo remoto y trayectos largos."
-    },
-    "status": "draft"
+    "id":  "auriculares-viaje",
+    "world_id":  "viaje-tecnologia",
+    "title":  "Auriculares de viaje",
+    "slug":  "auriculares-viaje",
+    "description":  "Auriculares y accesorios de audio para avión, tren, trabajo remoto y trayectos largos.",
+    "image":  "/public/assets/images/needs/viaje-tecnologia/auriculares-viaje.webp",
+    "gadget_types":  [
+                         "auriculares con cancelación de ruido",
+                         "auriculares compactos",
+                         "auriculares para avión",
+                         "auriculares multipunto",
+                         "auriculares con buena batería",
+                         "tapones inteligentes",
+                         "transmisores bluetooth para avión",
+                         "estuches de carga"
+                     ],
+    "gadgets":  [
+
+                ],
+    "seo":  {
+                "title":  "Auriculares de viaje | GadgetSelection",
+                "description":  "Auriculares y accesorios de audio para avión, tren, trabajo remoto y trayectos largos."
+            },
+    "status":  "draft"
 }

@@ -1,24 +1,26 @@
 {
-    "id": "kits-emergencia",
-    "world_id": "outdoor-supervivencia",
-    "title": "Kits de emergencia",
-    "slug": "kits-emergencia",
-    "description": "Elementos compactos para preparaci\u00f3n b\u00e1sica: luz, abrigo, se\u00f1alizaci\u00f3n, protecci\u00f3n y organizaci\u00f3n.",
-    "image": "/public/assets/images/needs/outdoor-supervivencia/kits-emergencia.png",
-    "gadget_types": [
-        "mantas t\u00e9rmicas",
-        "botiquines compactos",
-        "silbatos de emergencia",
-        "encendedores impermeables",
-        "bolsas estancas",
-        "luces LED de emergencia",
-        "paracord",
-        "herramientas compactas legales"
-    ],
-    "gadgets": [],
-    "seo": {
-        "title": "Kits de emergencia | GadgetSelection",
-        "description": "Elementos compactos para preparaci\u00f3n b\u00e1sica: luz, abrigo, se\u00f1alizaci\u00f3n, protecci\u00f3n y organizaci\u00f3n."
-    },
-    "status": "draft"
+    "id":  "kits-emergencia",
+    "world_id":  "outdoor-supervivencia",
+    "title":  "Kits de emergencia",
+    "slug":  "kits-emergencia",
+    "description":  "Elementos compactos para preparación básica: luz, abrigo, señalización, protección y organización.",
+    "image":  "/public/assets/images/needs/outdoor-supervivencia/kits-emergencia.webp",
+    "gadget_types":  [
+                         "mantas térmicas",
+                         "botiquines compactos",
+                         "silbatos de emergencia",
+                         "encendedores impermeables",
+                         "bolsas estancas",
+                         "luces LED de emergencia",
+                         "paracord",
+                         "herramientas compactas legales"
+                     ],
+    "gadgets":  [
+
+                ],
+    "seo":  {
+                "title":  "Kits de emergencia | GadgetSelection",
+                "description":  "Elementos compactos para preparación básica: luz, abrigo, señalización, protección y organización."
+            },
+    "status":  "draft"
 }

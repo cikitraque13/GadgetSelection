@@ -1,24 +1,26 @@
 {
-    "id": "muneca-antebrazo",
-    "world_id": "dolor-ergonomia",
-    "title": "Mu\u00f1eca y antebrazo",
-    "slug": "muneca-antebrazo",
-    "description": "Gadgets para reducir tensi\u00f3n de mu\u00f1eca y antebrazo durante trabajo con ordenador, dibujo o uso intensivo de rat\u00f3n.",
-    "image": "/public/assets/images/needs/dolor-ergonomia/muneca-antebrazo.png",
-    "gadget_types": [
-        "ratones verticales",
-        "trackballs",
-        "reposamu\u00f1ecas",
-        "teclados ergon\u00f3micos",
-        "soportes de antebrazo",
-        "alfombrillas ergon\u00f3micas",
-        "grips de movilidad",
-        "soportes para tablet o dibujo"
-    ],
-    "gadgets": [],
-    "seo": {
-        "title": "Mu\u00f1eca y antebrazo | GadgetSelection",
-        "description": "Gadgets para reducir tensi\u00f3n de mu\u00f1eca y antebrazo durante trabajo con ordenador, dibujo o uso intensivo de rat\u00f3n."
-    },
-    "status": "draft"
+    "id":  "muneca-antebrazo",
+    "world_id":  "dolor-ergonomia",
+    "title":  "Muñeca y antebrazo",
+    "slug":  "muneca-antebrazo",
+    "description":  "Gadgets para reducir tensión de muñeca y antebrazo durante trabajo con ordenador, dibujo o uso intensivo de ratón.",
+    "image":  "/public/assets/images/needs/dolor-ergonomia/muneca-antebrazo.webp",
+    "gadget_types":  [
+                         "ratones verticales",
+                         "trackballs",
+                         "reposamuñecas",
+                         "teclados ergonómicos",
+                         "soportes de antebrazo",
+                         "alfombrillas ergonómicas",
+                         "grips de movilidad",
+                         "soportes para tablet o dibujo"
+                     ],
+    "gadgets":  [
+
+                ],
+    "seo":  {
+                "title":  "Muñeca y antebrazo | GadgetSelection",
+                "description":  "Gadgets para reducir tensión de muñeca y antebrazo durante trabajo con ordenador, dibujo o uso intensivo de ratón."
+            },
+    "status":  "draft"
 }

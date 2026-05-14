@@ -1,24 +1,26 @@
 {
-    "id": "adaptadores-viaje",
-    "world_id": "viaje-tecnologia",
-    "title": "Adaptadores de viaje",
-    "slug": "adaptadores-viaje",
-    "description": "Adaptadores, enchufes y cargadores para viajar entre pa\u00edses con menos fricci\u00f3n.",
-    "image": "/public/assets/images/needs/viaje-tecnologia/adaptadores-viaje.png",
-    "gadget_types": [
-        "adaptadores universales",
-        "adaptadores con USB-C",
-        "adaptadores multipuerto",
-        "adaptadores compactos",
-        "cargadores internacionales",
-        "regletas de viaje",
-        "conversores de enchufe",
-        "adaptadores para port\u00e1til"
-    ],
-    "gadgets": [],
-    "seo": {
-        "title": "Adaptadores de viaje | GadgetSelection",
-        "description": "Adaptadores, enchufes y cargadores para viajar entre pa\u00edses con menos fricci\u00f3n."
-    },
-    "status": "draft"
+    "id":  "adaptadores-viaje",
+    "world_id":  "viaje-tecnologia",
+    "title":  "Adaptadores de viaje",
+    "slug":  "adaptadores-viaje",
+    "description":  "Adaptadores, enchufes y cargadores para viajar entre países con menos fricción.",
+    "image":  "/public/assets/images/needs/viaje-tecnologia/adaptadores-viaje.webp",
+    "gadget_types":  [
+                         "adaptadores universales",
+                         "adaptadores con USB-C",
+                         "adaptadores multipuerto",
+                         "adaptadores compactos",
+                         "cargadores internacionales",
+                         "regletas de viaje",
+                         "conversores de enchufe",
+                         "adaptadores para portátil"
+                     ],
+    "gadgets":  [
+
+                ],
+    "seo":  {
+                "title":  "Adaptadores de viaje | GadgetSelection",
+                "description":  "Adaptadores, enchufes y cargadores para viajar entre países con menos fricción."
+            },
+    "status":  "draft"
 }

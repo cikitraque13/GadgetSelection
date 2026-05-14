@@ -1,24 +1,26 @@
 {
-    "id": "electroestimuladores",
-    "world_id": "entrenamiento-recuperacion",
-    "title": "Electroestimuladores",
-    "slug": "electroestimuladores",
-    "description": "Dispositivos TENS/EMS y accesorios orientados a recuperaci\u00f3n general y estimulaci\u00f3n muscular no m\u00e9dica.",
-    "image": "/public/assets/images/needs/entrenamiento-recuperacion/electroestimuladores.png",
-    "gadget_types": [
-        "electroestimuladores TENS",
-        "electroestimuladores EMS",
-        "parches de recambio",
-        "electroestimuladores compactos",
-        "unidades para recuperaci\u00f3n",
-        "modelos con programas simples",
-        "modelos port\u00e1tiles",
-        "kits de electrodos"
-    ],
-    "gadgets": [],
-    "seo": {
-        "title": "Electroestimuladores | GadgetSelection",
-        "description": "Dispositivos TENS/EMS y accesorios orientados a recuperaci\u00f3n general y estimulaci\u00f3n muscular no m\u00e9dica."
-    },
-    "status": "draft"
+    "id":  "electroestimuladores",
+    "world_id":  "entrenamiento-recuperacion",
+    "title":  "Electroestimuladores",
+    "slug":  "electroestimuladores",
+    "description":  "Dispositivos TENS/EMS y accesorios orientados a recuperación general y estimulación muscular no médica.",
+    "image":  "/public/assets/images/needs/entrenamiento-recuperacion/electroestimuladores.webp",
+    "gadget_types":  [
+                         "electroestimuladores TENS",
+                         "electroestimuladores EMS",
+                         "parches de recambio",
+                         "electroestimuladores compactos",
+                         "unidades para recuperación",
+                         "modelos con programas simples",
+                         "modelos portátiles",
+                         "kits de electrodos"
+                     ],
+    "gadgets":  [
+
+                ],
+    "seo":  {
+                "title":  "Electroestimuladores | GadgetSelection",
+                "description":  "Dispositivos TENS/EMS y accesorios orientados a recuperación general y estimulación muscular no médica."
+            },
+    "status":  "draft"
 }

@@ -1,24 +1,26 @@
 {
-    "id": "hidratacion-medicion",
-    "world_id": "entrenamiento-recuperacion",
-    "title": "Hidrataci\u00f3n y medici\u00f3n",
-    "slug": "hidratacion-medicion",
-    "description": "Gadgets para controlar hidrataci\u00f3n, esfuerzo, recuperaci\u00f3n y datos b\u00e1sicos de entrenamiento.",
-    "image": "/public/assets/images/needs/entrenamiento-recuperacion/hidratacion-medicion.png",
-    "gadget_types": [
-        "botellas inteligentes",
-        "botellas deportivas",
-        "shakers",
-        "sensores de hidrataci\u00f3n",
-        "b\u00e1sculas inteligentes",
-        "puls\u00f3metros",
-        "relojes deportivos",
-        "medidores de recuperaci\u00f3n"
-    ],
-    "gadgets": [],
-    "seo": {
-        "title": "Hidrataci\u00f3n y medici\u00f3n | GadgetSelection",
-        "description": "Gadgets para controlar hidrataci\u00f3n, esfuerzo, recuperaci\u00f3n y datos b\u00e1sicos de entrenamiento."
-    },
-    "status": "draft"
+    "id":  "hidratacion-medicion",
+    "world_id":  "entrenamiento-recuperacion",
+    "title":  "Hidratación y medición",
+    "slug":  "hidratacion-medicion",
+    "description":  "Gadgets para controlar hidratación, esfuerzo, recuperación y datos básicos de entrenamiento.",
+    "image":  "/public/assets/images/needs/entrenamiento-recuperacion/hidratacion-medicion.webp",
+    "gadget_types":  [
+                         "botellas inteligentes",
+                         "botellas deportivas",
+                         "shakers",
+                         "sensores de hidratación",
+                         "básculas inteligentes",
+                         "pulsómetros",
+                         "relojes deportivos",
+                         "medidores de recuperación"
+                     ],
+    "gadgets":  [
+
+                ],
+    "seo":  {
+                "title":  "Hidratación y medición | GadgetSelection",
+                "description":  "Gadgets para controlar hidratación, esfuerzo, recuperación y datos básicos de entrenamiento."
+            },
+    "status":  "draft"
 }

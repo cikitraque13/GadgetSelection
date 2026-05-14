@@ -532,3 +532,179 @@ ORDEN FINAL DE EJECUCION
 FRASE DE CONTINUIDAD
 
 Continuamos GadgetSelection con docs limpio y sistema antiguo eliminado. El documento 17 es el estado operativo vivo del proyecto. El documento 18 define el plan de produccion con GitHub, Railway y Namecheap. Antes de desplegar hay que cerrar energia-autonomia, crear paginas legales, implementar cookies si corresponde, auditar el repositorio, subir a GitHub, validar Railway temporal y solo despues conectar el dominio de Namecheap.
+
+============================================================
+ADENDA 2026-05-14 — EJECUCION PARCIAL DEL PLAN DE PRODUCCION
+============================================================
+
+OBJETIVO DE ESTA ADENDA
+
+Registrar el avance real del plan de produccion definido en este documento.
+
+El plan ya no esta solo en fase teorica. Varias fases han sido ejecutadas y validadas.
+
+============================================================
+FASES EJECUTADAS
+============================================================
+
+1. Cierre de catalogo
+
+Estado:
+
+    completado
+
+Resultado:
+
+    5 mundos comerciales completos
+    231 gadgets reales
+    231 JSON individuales
+    231 imagenes comerciales
+    231 enlaces Amazon
+
+2. Legal base
+
+Estado:
+
+    completado
+
+Rutas creadas:
+
+    /aviso-legal
+    /politica-privacidad
+    /politica-cookies
+    /afiliacion-amazon
+
+Estado visual:
+
+    paginas legales compactas
+    fondo verde/grafito continuo
+    cards limpias
+    CTA final integrado
+    footer legal actualizado
+
+3. GitHub
+
+Estado:
+
+    completado
+
+Repositorio:
+
+    cikitraque13/GadgetSelection
+
+Commit inicial:
+
+    Initial production-ready GadgetSelection build
+
+4. Railway
+
+Estado:
+
+    completado
+
+Configuracion:
+
+    composer.json
+    railway.json
+
+Start command:
+
+    php -S 0.0.0.0:$PORT router.php
+
+Resultado:
+
+    deploy online
+    URL temporal validada
+    servicio funcionando
+
+5. Namecheap + dominio
+
+Estado:
+
+    completado parcialmente
+
+Dominio principal conectado:
+
+    gadgetselection.com
+
+DNS:
+
+    CNAME @ -> tm7ksycm.up.railway.app
+    TXT _railway-verify -> railway-verify=...
+
+Estado:
+
+    dominio principal validado
+    web funcionando en https://gadgetselection.com
+
+www.gadgetselection.com:
+
+    pendiente / pospuesto
+
+Motivo:
+
+    limite del plan actual de Railway para dominios personalizados
+
+============================================================
+OPTIMIZACION PREVIA A PRODUCCION
+============================================================
+
+Se realizo optimizacion global de imagenes a WebP antes de hacer push final de mejoras.
+
+Resultado:
+
+    carousel -> 5 WebP / 0 PNG
+    needs -> 43 WebP / 0 PNG
+    gadgets -> 231 WebP / 0 PNG
+
+Peso principal antes:
+
+    203,96 MB aprox
+
+Peso principal despues:
+
+    21,84 MB aprox
+
+Reduccion:
+
+    mas de 180 MB
+
+Validacion:
+
+    JSON revisados -> 274
+    todos apuntan a WebP
+    PHP clave OK
+    sin BOM
+    sin mojibake
+    auditoria final WebP sin errores
+
+============================================================
+FASES PENDIENTES
+============================================================
+
+Quedan pendientes:
+
+    1. Commit y push de la optimizacion WebP.
+    2. Validacion Railway tras deploy actualizado.
+    3. Implementar banner de cookies.
+    4. Integrar Google Analytics solo tras consentimiento.
+    5. Obtener GA4 Measurement ID.
+    6. Definir eventos con Director de metricas.
+    7. Auditoria final pre-apertura.
+    8. Apertura controlada.
+
+============================================================
+DECISION DE FASE
+============================================================
+
+El siguiente trabajo ya no es construir catalogo ni preparar despliegue basico.
+
+El siguiente trabajo es:
+
+    medicion
+    consentimiento
+    validacion final
+    performance
+    apertura controlada
+
+No se debe abrir un nuevo ciclo de gadgets salvo correccion puntual.

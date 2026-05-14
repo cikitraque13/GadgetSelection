@@ -1,24 +1,26 @@
 {
-    "id": "postura-escritorio",
-    "world_id": "dolor-ergonomia",
-    "title": "Postura en escritorio",
-    "slug": "postura-escritorio",
-    "description": "Gadgets para ordenar el puesto de trabajo y mejorar altura, apoyo, mu\u00f1eca, cuello y espalda.",
-    "image": "/public/assets/images/needs/dolor-ergonomia/postura-escritorio.png",
-    "gadget_types": [
-        "soportes de port\u00e1til",
-        "brazos de monitor",
-        "elevadores de monitor",
-        "reposamu\u00f1ecas",
-        "ratones verticales",
-        "teclados ergon\u00f3micos",
-        "reposapi\u00e9s",
-        "l\u00e1mparas de escritorio funcionales"
-    ],
-    "gadgets": [],
-    "seo": {
-        "title": "Postura en escritorio | GadgetSelection",
-        "description": "Gadgets para ordenar el puesto de trabajo y mejorar altura, apoyo, mu\u00f1eca, cuello y espalda."
-    },
-    "status": "draft"
+    "id":  "postura-escritorio",
+    "world_id":  "dolor-ergonomia",
+    "title":  "Postura en escritorio",
+    "slug":  "postura-escritorio",
+    "description":  "Gadgets para ordenar el puesto de trabajo y mejorar altura, apoyo, muñeca, cuello y espalda.",
+    "image":  "/public/assets/images/needs/dolor-ergonomia/postura-escritorio.webp",
+    "gadget_types":  [
+                         "soportes de portátil",
+                         "brazos de monitor",
+                         "elevadores de monitor",
+                         "reposamuñecas",
+                         "ratones verticales",
+                         "teclados ergonómicos",
+                         "reposapiés",
+                         "lámparas de escritorio funcionales"
+                     ],
+    "gadgets":  [
+
+                ],
+    "seo":  {
+                "title":  "Postura en escritorio | GadgetSelection",
+                "description":  "Gadgets para ordenar el puesto de trabajo y mejorar altura, apoyo, muñeca, cuello y espalda."
+            },
+    "status":  "draft"
 }

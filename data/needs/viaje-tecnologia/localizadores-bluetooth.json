@@ -1,24 +1,26 @@
 {
-    "id": "localizadores-bluetooth",
-    "world_id": "viaje-tecnologia",
-    "title": "Localizadores bluetooth",
-    "slug": "localizadores-bluetooth",
-    "description": "Localizadores para maleta, llaves, cartera, mochila y objetos importantes durante viajes.",
-    "image": "/public/assets/images/needs/viaje-tecnologia/localizadores-bluetooth.png",
-    "gadget_types": [
-        "trackers para maleta",
-        "trackers para cartera",
-        "trackers para llaves",
-        "tarjetas localizadoras",
-        "fundas para localizador",
-        "llaveros tracker",
-        "trackers Android",
-        "trackers iOS"
-    ],
-    "gadgets": [],
-    "seo": {
-        "title": "Localizadores bluetooth | GadgetSelection",
-        "description": "Localizadores para maleta, llaves, cartera, mochila y objetos importantes durante viajes."
-    },
-    "status": "draft"
+    "id":  "localizadores-bluetooth",
+    "world_id":  "viaje-tecnologia",
+    "title":  "Localizadores bluetooth",
+    "slug":  "localizadores-bluetooth",
+    "description":  "Localizadores para maleta, llaves, cartera, mochila y objetos importantes durante viajes.",
+    "image":  "/public/assets/images/needs/viaje-tecnologia/localizadores-bluetooth.webp",
+    "gadget_types":  [
+                         "trackers para maleta",
+                         "trackers para cartera",
+                         "trackers para llaves",
+                         "tarjetas localizadoras",
+                         "fundas para localizador",
+                         "llaveros tracker",
+                         "trackers Android",
+                         "trackers iOS"
+                     ],
+    "gadgets":  [
+
+                ],
+    "seo":  {
+                "title":  "Localizadores bluetooth | GadgetSelection",
+                "description":  "Localizadores para maleta, llaves, cartera, mochila y objetos importantes durante viajes."
+            },
+    "status":  "draft"
 }
