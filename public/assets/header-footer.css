@@ -664,3 +664,195 @@ header{
         gap:14px;
     }
 }
+
+/* ==========================================================
+   MOBILE HEADER LOGO + MUNDOS + MENU v1
+   Mobile: logo + Mundos + hamburguesa. Desktop intacto.
+   ========================================================== */
+
+@media (max-width:1020px){
+    .site-header .main-nav{
+        display:flex !important;
+        flex:0 0 auto !important;
+        justify-content:center !important;
+        align-items:center !important;
+        min-width:0 !important;
+    }
+
+    .primary-nav{
+        display:flex !important;
+        align-items:center !important;
+        justify-content:center !important;
+        gap:0 !important;
+        margin:0 !important;
+        padding:4px !important;
+        border-radius:999px !important;
+        background:linear-gradient(180deg,rgba(255,255,255,.085) 0%,rgba(255,255,255,.038) 100%) !important;
+        border:1px solid rgba(124,255,203,.16) !important;
+        box-shadow:0 10px 20px rgba(0,0,0,.18), inset 0 1px 0 rgba(255,255,255,.08) !important;
+    }
+
+    .site-header .nav-group--solutions,
+    .site-header .nav-group--rankings,
+    .site-header .nav-group--essentials,
+    .site-header .nav-group--gadgets{
+        display:none !important;
+        visibility:hidden !important;
+        pointer-events:none !important;
+        width:0 !important;
+        height:0 !important;
+        overflow:hidden !important;
+    }
+
+    .site-header .nav-group--worlds{
+        display:flex !important;
+        visibility:visible !important;
+        pointer-events:auto !important;
+        position:relative !important;
+        padding-bottom:10px !important;
+        margin-bottom:-10px !important;
+    }
+
+    .site-header .nav-group--worlds .nav-trigger{
+        min-height:34px !important;
+        padding:0 14px !important;
+        font-size:13px !important;
+        font-weight:900 !important;
+        color:#f7fbff !important;
+        white-space:nowrap !important;
+        display:inline-flex !important;
+    }
+
+    .site-header .nav-group--worlds .nav-trigger::after{
+        left:14px !important;
+        right:14px !important;
+        bottom:5px !important;
+    }
+
+    .site-header .nav-group--worlds .nav-dropdown{
+        top:calc(100% + 8px) !important;
+        left:50% !important;
+        right:auto !important;
+        transform:translateX(-50%) translateY(8px) !important;
+        min-width:230px !important;
+        max-width:calc(100vw - 28px) !important;
+        z-index:1500 !important;
+    }
+
+    .site-header .nav-group--worlds:hover .nav-dropdown,
+    .site-header .nav-group--worlds:focus-within .nav-dropdown{
+        opacity:1 !important;
+        visibility:visible !important;
+        pointer-events:auto !important;
+        transform:translateX(-50%) translateY(0) !important;
+    }
+
+    .header-container{
+        min-height:64px !important;
+        padding:0 12px !important;
+        gap:10px !important;
+        display:flex !important;
+        align-items:center !important;
+        justify-content:space-between !important;
+    }
+
+    .site-header .logo{
+        flex:0 1 auto !important;
+        width:min(50vw,205px) !important;
+        height:56px !important;
+        overflow:hidden !important;
+    }
+
+    .site-header .logo img{
+        width:100% !important;
+        height:100% !important;
+        object-fit:cover !important;
+        object-position:center 38% !important;
+    }
+
+    .site-header .logo::after{
+        bottom:7px !important;
+        height:8px !important;
+        filter:blur(12px) !important;
+    }
+
+    .menu-shell{
+        margin-left:0 !important;
+        padding-right:0 !important;
+        flex:0 0 auto !important;
+        display:flex !important;
+        align-items:center !important;
+        justify-content:flex-end !important;
+    }
+
+    .menu-toggle{
+        min-width:38px !important;
+        min-height:38px !important;
+        width:38px !important;
+        height:38px !important;
+        font-size:24px !important;
+    }
+
+    .menu-panel{
+        top:calc(100% + 8px) !important;
+        right:0 !important;
+        min-width:220px !important;
+        max-width:calc(100vw - 24px) !important;
+        z-index:1500 !important;
+    }
+
+    .site-header + main{
+        padding-top:0 !important;
+    }
+}
+
+@media (max-width:520px){
+    .header-container{
+        min-height:58px !important;
+        padding:0 10px !important;
+        gap:8px !important;
+    }
+
+    .site-header .logo{
+        width:min(48vw,185px) !important;
+        height:50px !important;
+    }
+
+    .site-header .nav-group--worlds .nav-trigger{
+        min-height:32px !important;
+        padding:0 11px !important;
+        font-size:12px !important;
+    }
+
+    .menu-toggle{
+        min-width:36px !important;
+        min-height:36px !important;
+        width:36px !important;
+        height:36px !important;
+        font-size:23px !important;
+    }
+
+    .site-header + main{
+        padding-top:0 !important;
+    }
+}
+
+@media (max-width:380px){
+    .site-header .logo{
+        width:min(45vw,165px) !important;
+        height:46px !important;
+    }
+
+    .site-header .nav-group--worlds .nav-trigger{
+        padding:0 9px !important;
+        font-size:11px !important;
+    }
+
+    .menu-toggle{
+        min-width:34px !important;
+        min-height:34px !important;
+        width:34px !important;
+        height:34px !important;
+        font-size:22px !important;
+    }
+}
