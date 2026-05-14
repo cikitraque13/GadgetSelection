@@ -514,3 +514,270 @@
         max-height: 260px;
     }
 }
+
+/* GS NEED MOBILE HERO START */
+/* ==========================================================
+   GadgetSelection - Need mobile hero compact v1
+   Compacta cabecera de necesidad en movil.
+   Scope permitido: .need-* .breadcrumbs .section-heading .gadget-list-section
+   Prohibido: selectores de mundo
+   ========================================================== */
+
+@media (max-width: 760px){
+
+    .need-page{
+        width:min(100% - 22px,1180px) !important;
+        padding:16px 0 40px !important;
+    }
+
+    .breadcrumbs{
+        margin-bottom:10px !important;
+        gap:6px !important;
+        font-size:.78rem !important;
+        line-height:1.25 !important;
+        overflow-x:auto !important;
+        flex-wrap:nowrap !important;
+        white-space:nowrap !important;
+        -webkit-overflow-scrolling:touch;
+    }
+
+    .breadcrumbs::-webkit-scrollbar{
+        display:none;
+    }
+
+    .need-hero{
+        display:block !important;
+        margin-bottom:14px !important;
+    }
+
+    .need-hero__content{
+        padding:17px 15px !important;
+        border-radius:20px !important;
+    }
+
+    .need-hero .eyebrow{
+        margin:0 0 8px !important;
+        font-size:.68rem !important;
+        letter-spacing:.13em !important;
+    }
+
+    .need-hero h1{
+        margin:0 0 9px !important;
+        font-size:31px !important;
+        line-height:1 !important;
+        letter-spacing:-.045em !important;
+    }
+
+    .need-hero__content > p:not(.eyebrow){
+        display:-webkit-box !important;
+        -webkit-line-clamp:2;
+        -webkit-box-orient:vertical;
+        overflow:hidden !important;
+        margin:0 !important;
+        font-size:14px !important;
+        line-height:1.36 !important;
+    }
+
+    .need-hero__actions{
+        margin-top:12px !important;
+        gap:8px !important;
+    }
+
+    .need-primary-link,
+    .need-secondary-link{
+        min-height:38px !important;
+        padding:0 14px !important;
+        font-size:.84rem !important;
+        line-height:1 !important;
+    }
+
+    .need-hero__image{
+        margin-top:11px !important;
+        min-height:145px !important;
+        max-height:175px !important;
+        border-radius:18px !important;
+    }
+
+    .need-hero__image img{
+        min-height:145px !important;
+        max-height:175px !important;
+        object-fit:cover !important;
+    }
+
+    .gadget-list-section{
+        margin-top:16px !important;
+    }
+
+    .section-heading--commercial{
+        margin-bottom:12px !important;
+    }
+
+    .section-heading .eyebrow{
+        margin-bottom:7px !important;
+        font-size:.68rem !important;
+    }
+
+    .section-heading h2{
+        margin:0 !important;
+        font-size:24px !important;
+        line-height:1.04 !important;
+        letter-spacing:-.035em !important;
+    }
+
+    .section-heading--commercial > p:not(.eyebrow){
+        display:none !important;
+    }
+}
+
+@media (max-width: 390px){
+
+    .need-page{
+        width:min(100% - 18px,1180px) !important;
+    }
+
+    .need-hero h1{
+        font-size:28px !important;
+    }
+
+    .need-hero__image,
+    .need-hero__image img{
+        min-height:132px !important;
+        max-height:155px !important;
+    }
+}
+
+/* GS NEED MOBILE HERO END */
+
+/* GS NEED MOBILE CARDS START */
+/* ==========================================================
+   GadgetSelection - Need mobile commercial cards v1
+   Compacta cards comerciales en movil y acerca CTA Amazon.
+   Scope permitido: .gadget-*
+   Prohibido: selectores de mundo
+   ========================================================== */
+
+@media (max-width: 760px){
+
+    .gadget-grid,
+    .gadget-grid--commercial{
+        grid-template-columns:1fr !important;
+        gap:14px !important;
+    }
+
+    .gadget-card,
+    .gadget-card--commercial{
+        border-radius:18px !important;
+        box-shadow:0 10px 22px rgba(15,23,42,.055) !important;
+    }
+
+    .gadget-card__image{
+        aspect-ratio:16 / 10 !important;
+        max-height:165px !important;
+    }
+
+    .gadget-card__image img{
+        padding:10px !important;
+        object-fit:contain !important;
+    }
+
+    .gadget-card__body{
+        padding:14px !important;
+    }
+
+    .gadget-card__topline{
+        order:1;
+        gap:6px !important;
+        margin-bottom:8px !important;
+    }
+
+    .gadget-card__rank,
+    .gadget-card__label,
+    .gadget-card__meta span,
+    .gadget-card__meta strong{
+        padding:5px 8px !important;
+        font-size:.68rem !important;
+    }
+
+    .gadget-card__body > h3{
+        order:2;
+    }
+
+    .gadget-card h3{
+        min-height:0 !important;
+        margin:0 0 8px !important;
+        font-size:1.1rem !important;
+        line-height:1.12 !important;
+        -webkit-line-clamp:2 !important;
+    }
+
+    .gadget-card__meta{
+        order:3;
+        gap:6px !important;
+        margin-bottom:8px !important;
+    }
+
+    .gadget-card__summary{
+        order:4;
+        min-height:0 !important;
+        margin:0 0 10px !important;
+        font-size:.84rem !important;
+        line-height:1.36 !important;
+        -webkit-line-clamp:2 !important;
+    }
+
+    .gadget-card__cta{
+        order:5;
+        min-height:42px !important;
+        margin-top:2px !important;
+        margin-bottom:0 !important;
+        padding:0 14px !important;
+        border-radius:12px !important;
+        font-size:.9rem !important;
+        line-height:1 !important;
+    }
+
+    .gadget-card__decision{
+        order:6;
+        gap:8px !important;
+        margin-top:12px !important;
+        margin-bottom:0 !important;
+    }
+
+    .gadget-card__decision div{
+        padding:10px !important;
+        border-radius:13px !important;
+    }
+
+    .gadget-card__decision strong{
+        margin-bottom:4px !important;
+        font-size:.82rem !important;
+    }
+
+    .gadget-card__decision p{
+        font-size:.82rem !important;
+        line-height:1.32 !important;
+        -webkit-line-clamp:2 !important;
+    }
+}
+
+@media (max-width: 390px){
+
+    .gadget-card__image{
+        max-height:150px !important;
+    }
+
+    .gadget-card__body{
+        padding:12px !important;
+    }
+
+    .gadget-card h3{
+        font-size:1.02rem !important;
+    }
+
+    .gadget-card__summary,
+    .gadget-card__decision p{
+        font-size:.8rem !important;
+    }
+}
+
+/* GS NEED MOBILE CARDS END */
