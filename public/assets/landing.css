@@ -915,3 +915,133 @@
 }
 
 /* GS WORLD MOBILE HERO END */
+
+/* GS WORLD MOBILE INDEX START */
+/* ==========================================================
+   GadgetSelection - Mobile world index cards v1
+   Compacta las tarjetas de mundos en movil.
+   No toca hero, Home, JSON, imagenes ni cards de gadgets.
+   ========================================================== */
+
+@media (max-width:760px){
+
+    .landing-grid-block{
+        padding:16px 14px !important;
+        margin-bottom:16px !important;
+        border-radius:20px !important;
+    }
+
+    .landing-grid-block__head{
+        margin-bottom:14px !important;
+    }
+
+    .landing-section-kicker{
+        min-height:28px !important;
+        padding:0 12px !important;
+        font-size:10px !important;
+        letter-spacing:.08em !important;
+    }
+
+    .landing-grid-block h2{
+        margin:12px 0 0 !important;
+        font-size:25px !important;
+        line-height:1.05 !important;
+        letter-spacing:-.03em !important;
+    }
+
+    .landing-grid{
+        grid-template-columns:1fr !important;
+        gap:14px !important;
+    }
+
+    .landing-entry-card{
+        border-radius:18px !important;
+        box-shadow:0 10px 20px rgba(15,23,42,.045) !important;
+    }
+
+    .landing-entry-card__visual{
+        min-height:150px !important;
+        max-height:170px !important;
+        overflow:hidden !important;
+    }
+
+    .landing-entry-card__img{
+        width:100% !important;
+        height:100% !important;
+        min-height:150px !important;
+        max-height:170px !important;
+        object-fit:cover !important;
+        display:block !important;
+    }
+
+    .landing-entry-card__badge{
+        top:12px !important;
+        left:12px !important;
+        min-height:28px !important;
+        padding:0 12px !important;
+        font-size:10px !important;
+        letter-spacing:.08em !important;
+        border-radius:999px !important;
+    }
+
+    .landing-entry-card__body{
+        padding:14px 14px 15px !important;
+    }
+
+    .landing-entry-card h3{
+        margin:0 0 7px !important;
+        font-size:22px !important;
+        line-height:1.06 !important;
+        letter-spacing:-.025em !important;
+    }
+
+    .landing-entry-card p{
+        display:-webkit-box !important;
+        -webkit-line-clamp:2;
+        -webkit-box-orient:vertical;
+        overflow:hidden !important;
+        margin:0 0 12px !important;
+        font-size:13.5px !important;
+        line-height:1.38 !important;
+    }
+
+    .landing-entry-card .landing-link,
+    .landing-entry-card .landing-link--subtle{
+        display:inline-flex !important;
+        align-items:center !important;
+        justify-content:center !important;
+        min-height:36px !important;
+        padding:0 13px !important;
+        border-radius:999px !important;
+        font-size:13px !important;
+        font-weight:850 !important;
+        line-height:1 !important;
+    }
+}
+
+@media (max-width:390px){
+
+    .landing-grid-block{
+        padding:14px 12px !important;
+    }
+
+    .landing-grid-block h2{
+        font-size:23px !important;
+    }
+
+    .landing-entry-card__visual,
+    .landing-entry-card__img{
+        min-height:138px !important;
+        max-height:155px !important;
+    }
+
+    .landing-entry-card h3{
+        font-size:20px !important;
+    }
+
+    .landing-entry-card p{
+        font-size:13px !important;
+    }
+}
+
+/* GS WORLD MOBILE INDEX END */
