@@ -517,23 +517,23 @@
 
 /* GS NEED MOBILE HERO START */
 /* ==========================================================
-   GadgetSelection - Need mobile hero compact v3
-   Scope permitido: .need-* .breadcrumbs .section-heading .gadget-list-section
-   Prohibido: selectores de mundo
+   GadgetSelection - Need mobile hero upper v4
+   Objetivo: breadcrumb + titulo + descripcion + boton azul + imagen + inicio de gadgets.
+   No toca cards comerciales.
    ========================================================== */
 
 @media (max-width: 760px){
 
     .need-page{
         width:min(100% - 18px,1180px) !important;
-        padding:10px 0 32px !important;
+        padding:14px 0 38px !important;
     }
 
     .breadcrumbs{
-        margin-bottom:7px !important;
+        margin-bottom:9px !important;
         gap:6px !important;
-        font-size:.72rem !important;
-        line-height:1.18 !important;
+        font-size:.74rem !important;
+        line-height:1.2 !important;
         overflow-x:auto !important;
         flex-wrap:nowrap !important;
         white-space:nowrap !important;
@@ -546,23 +546,23 @@
 
     .need-hero{
         display:block !important;
-        margin-bottom:10px !important;
+        margin-bottom:12px !important;
     }
 
     .need-hero__content{
-        padding:13px 13px !important;
-        border-radius:17px !important;
+        padding:15px 14px !important;
+        border-radius:18px !important;
     }
 
     .need-hero .eyebrow{
-        margin:0 0 6px !important;
-        font-size:.62rem !important;
+        margin:0 0 7px !important;
+        font-size:.64rem !important;
         letter-spacing:.12em !important;
     }
 
     .need-hero h1{
-        margin:0 0 7px !important;
-        font-size:27px !important;
+        margin:0 0 8px !important;
+        font-size:29px !important;
         line-height:1 !important;
         letter-spacing:-.045em !important;
     }
@@ -573,53 +573,53 @@
         -webkit-box-orient:vertical;
         overflow:hidden !important;
         margin:0 !important;
-        font-size:13px !important;
-        line-height:1.3 !important;
+        font-size:13.8px !important;
+        line-height:1.34 !important;
     }
 
     .need-hero__actions{
-        margin-top:9px !important;
+        margin-top:11px !important;
         gap:8px !important;
     }
 
     .need-primary-link,
     .need-secondary-link{
-        min-height:34px !important;
-        padding:0 12px !important;
-        font-size:.8rem !important;
+        min-height:37px !important;
+        padding:0 14px !important;
+        font-size:.83rem !important;
         line-height:1 !important;
     }
 
     .need-hero__image{
-        margin-top:9px !important;
-        min-height:96px !important;
-        max-height:116px !important;
-        border-radius:15px !important;
+        margin-top:11px !important;
+        min-height:128px !important;
+        max-height:152px !important;
+        border-radius:17px !important;
     }
 
     .need-hero__image img{
-        min-height:96px !important;
-        max-height:116px !important;
+        min-height:128px !important;
+        max-height:152px !important;
         object-fit:cover !important;
     }
 
     .gadget-list-section{
-        margin-top:10px !important;
+        margin-top:12px !important;
     }
 
     .section-heading--commercial{
-        margin-bottom:8px !important;
+        margin-bottom:10px !important;
     }
 
     .section-heading .eyebrow{
-        margin-bottom:5px !important;
-        font-size:.62rem !important;
+        margin-bottom:6px !important;
+        font-size:.64rem !important;
     }
 
     .section-heading h2{
         margin:0 !important;
-        font-size:21px !important;
-        line-height:1.02 !important;
+        font-size:22px !important;
+        line-height:1.03 !important;
         letter-spacing:-.035em !important;
     }
 
@@ -635,13 +635,13 @@
     }
 
     .need-hero h1{
-        font-size:25px !important;
+        font-size:27px !important;
     }
 
     .need-hero__image,
     .need-hero__image img{
-        min-height:90px !important;
-        max-height:108px !important;
+        min-height:118px !important;
+        max-height:140px !important;
     }
 }
 
