@@ -517,9 +517,9 @@
 
 /* GS NEED MOBILE HERO START */
 /* ==========================================================
-   GadgetSelection - Need mobile hero viewport v7
-   Objetivo: primera vista = presentacion de la necesidad.
-   Sin margen artificial antes de cards.
+   GadgetSelection - Need mobile hero normal v8
+   Objetivo: breadcrumb + titulo + descripcion + boton azul + imagen + heading comercial.
+   Sin viewport forzado. Sin hueco blanco artificial.
    No toca cards comerciales.
    ========================================================== */
 
@@ -546,12 +546,8 @@
     }
 
     .need-hero{
-        display:flex !important;
-        flex-direction:column !important;
-        justify-content:space-between !important;
-        gap:12px !important;
-        min-height:clamp(430px, calc(100svh - 150px), 560px) !important;
-        margin-bottom:14px !important;
+        display:block !important;
+        margin-bottom:12px !important;
     }
 
     .need-hero__content{
@@ -596,8 +592,7 @@
     }
 
     .need-hero__image{
-        flex:0 0 auto !important;
-        margin:0 !important;
+        margin-top:10px !important;
         min-height:112px !important;
         max-height:132px !important;
         border-radius:16px !important;
@@ -610,7 +605,7 @@
     }
 
     .gadget-list-section{
-        margin-top:12px !important;
+        margin-top:10px !important;
         scroll-margin-top:96px !important;
     }
 
@@ -633,16 +628,16 @@
     .section-heading--commercial > p:not(.eyebrow){
         display:none !important;
     }
+
+    .gadget-list-section .gadget-grid--commercial{
+        margin-top:56px !important;
+    }
 }
 
 @media (max-width: 390px){
 
     .need-page{
         width:min(100% - 16px,1180px) !important;
-    }
-
-    .need-hero{
-        min-height:clamp(410px, calc(100svh - 145px), 540px) !important;
     }
 
     .need-hero h1{
@@ -653,6 +648,10 @@
     .need-hero__image img{
         min-height:104px !important;
         max-height:124px !important;
+    }
+
+    .gadget-list-section .gadget-grid--commercial{
+        margin-top:48px !important;
     }
 }
 
