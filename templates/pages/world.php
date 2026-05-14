@@ -374,6 +374,7 @@ if ($worldHeroImage !== '') {
 
                     <div class="landing-hero__primary">
                         <h1><?php echo h($heroTitle); ?></h1>
+                        <a class="landing-hero__index-link" href="#world-index">Ver indice</a>
                         <p class="landing-lead"><?php echo h($heroSupport); ?></p>
                     </div>
 
@@ -444,7 +445,7 @@ if ($worldHeroImage !== '') {
             </div>
         </section>
 
-        <section class="landing-grid-block" aria-label="Rejilla de entradas">
+        <section id="world-index" class="landing-grid-block" aria-label="Rejilla de entradas">
             <div class="landing-grid-block__head">
                 <p class="landing-section-kicker">Entradas activas</p>
                 <h2><?php echo 'Elige por necesidad, no por acumulaci' . "\u{00f3}" . 'n'; ?></h2>
