@@ -1070,3 +1070,106 @@ body:has(.legal-page) main{
         font-size:21px !important;
     }
 }
+/* ==========================================================
+   EDITORIAL MOBILE HERO COMPACT v1
+   Compacta solo el hero movil de metodo-riguroso, fallos-reales y claves-tecnicas.
+   Oculta el panel visual secundario en movil para que la entrada sea una sola tarjeta.
+   No toca Home, header, footer, legal/cookies, Need, World, gadgets ni GA4.
+   ========================================================== */
+
+@media (max-width:720px){
+
+    .editorial-hero{
+        display:block !important;
+        min-height:auto !important;
+        margin:18px 0 16px !important;
+        padding:18px 16px 16px !important;
+        border-radius:22px !important;
+    }
+
+    .editorial-hero__content{
+        max-width:none !important;
+    }
+
+    .editorial-eyebrow{
+        margin:0 0 12px !important;
+        padding:7px 11px !important;
+        font-size:10px !important;
+        letter-spacing:.10em !important;
+    }
+
+    .editorial-eyebrow::before{
+        width:7px !important;
+        height:7px !important;
+        box-shadow:0 0 0 4px rgba(84,230,163,.14) !important;
+    }
+
+    .editorial-hero h1{
+        max-width:10ch !important;
+        margin:0 0 12px !important;
+        font-size:36px !important;
+        line-height:.98 !important;
+        letter-spacing:-.055em !important;
+    }
+
+    .editorial-lead{
+        max-width:30ch !important;
+        margin:0 0 12px !important;
+        font-size:18px !important;
+        line-height:1.36 !important;
+    }
+
+    .editorial-support{
+        max-width:32ch !important;
+        margin:0 0 14px !important;
+        font-size:14px !important;
+        line-height:1.38 !important;
+    }
+
+    .editorial-tags{
+        gap:7px !important;
+        margin:0 0 14px !important;
+    }
+
+    .editorial-tags span{
+        min-height:34px !important;
+        padding:0 11px !important;
+        border-radius:999px !important;
+        font-size:12px !important;
+        line-height:1 !important;
+    }
+
+    .editorial-cta{
+        width:100% !important;
+        min-height:44px !important;
+        padding:0 14px !important;
+        border-radius:13px !important;
+        font-size:14px !important;
+        line-height:1 !important;
+    }
+
+    .editorial-hero__media{
+        display:none !important;
+    }
+}
+
+@media (max-width:380px){
+
+    .editorial-hero{
+        margin:14px 0 14px !important;
+        padding:16px 14px 14px !important;
+        border-radius:20px !important;
+    }
+
+    .editorial-hero h1{
+        font-size:32px !important;
+    }
+
+    .editorial-lead{
+        font-size:16px !important;
+    }
+
+    .editorial-support{
+        font-size:13.5px !important;
+    }
+}
