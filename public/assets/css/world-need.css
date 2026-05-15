@@ -785,22 +785,40 @@
     }
 }
 
+.gadget-list-section .gadget-grid--commercial{
+        margin-top:0 !important;
+    }
+}
+
 /* ==========================================================
-   GS NEED MOBILE FOLD GUARD v1
-   Objetivo: primer pantallazo termina en el heading editorial.
-   No toca cards, Amazon CTA, PHP, JSON ni imagenes.
+   GS NEED MOBILE IMAGE BALANCE v1
+   Objetivo: ampliar imagen del hero para cerrar el primer fold sin card partida.
+   No toca cards, Amazon CTA, PHP, JSON ni rutas.
    ========================================================== */
 
 @media (max-width: 760px){
+    .need-hero__image{
+        margin-top:14px !important;
+        min-height:172px !important;
+        max-height:210px !important;
+        border-radius:18px !important;
+    }
+
+    .need-hero__image img{
+        min-height:172px !important;
+        max-height:210px !important;
+        object-fit:cover !important;
+    }
+
     .gadget-list-section{
-        margin-top:12px !important;
+        margin-top:14px !important;
         scroll-margin-top:96px !important;
     }
 
     .section-heading--commercial{
-        padding-top:16px !important;
-        padding-bottom:92px !important;
-        margin-bottom:0 !important;
+        padding-top:14px !important;
+        padding-bottom:18px !important;
+        margin-bottom:10px !important;
     }
 
     .gadget-list-section .gadget-grid--commercial{
@@ -809,13 +827,15 @@
 }
 
 @media (max-width: 390px){
-    .section-heading--commercial{
-        padding-top:14px !important;
-        padding-bottom:78px !important;
-        margin-bottom:0 !important;
+    .need-hero__image,
+    .need-hero__image img{
+        min-height:150px !important;
+        max-height:180px !important;
     }
 
-    .gadget-list-section .gadget-grid--commercial{
-        margin-top:0 !important;
+    .section-heading--commercial{
+        padding-top:12px !important;
+        padding-bottom:16px !important;
+        margin-bottom:8px !important;
     }
 }
