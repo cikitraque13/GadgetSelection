@@ -1071,23 +1071,26 @@ body:has(.legal-page) main{
     }
 }
 /* ==========================================================
-   EDITORIAL MOBILE HERO COMPACT v2
-   Microajuste final del hero editorial movil:
-   una tarjeta potente, mas compacta, con CTA visible y sin panel secundario.
+   EDITORIAL MOBILE HERO GATE v1
+   Entrada editorial movil: el usuario ve solo el hero y el CTA.
+   El contenido queda fuera del primer impacto y se descubre al pulsar el boton.
    No toca Home, header, footer, legal/cookies, Need, World, gadgets ni GA4.
    ========================================================== */
 
 @media (max-width:720px){
 
     .editorial-hero{
-        display:block !important;
-        min-height:auto !important;
-        margin:12px 0 14px !important;
-        padding:14px 14px 14px !important;
+        display:flex !important;
+        flex-direction:column !important;
+        justify-content:center !important;
+        min-height:clamp(540px,calc(100dvh - 122px),660px) !important;
+        margin:12px 0 18px !important;
+        padding:16px 14px 16px !important;
         border-radius:20px !important;
     }
 
     .editorial-hero__content{
+        width:100% !important;
         max-width:none !important;
     }
 
@@ -1128,7 +1131,7 @@ body:has(.legal-page) main{
 
     .editorial-tags{
         gap:6px !important;
-        margin:0 0 11px !important;
+        margin:0 0 12px !important;
     }
 
     .editorial-tags span{
@@ -1156,8 +1159,9 @@ body:has(.legal-page) main{
 @media (max-width:380px){
 
     .editorial-hero{
-        margin:10px 0 12px !important;
-        padding:13px 12px 12px !important;
+        min-height:clamp(500px,calc(100dvh - 112px),620px) !important;
+        margin:10px 0 16px !important;
+        padding:14px 12px 14px !important;
         border-radius:18px !important;
     }
 
