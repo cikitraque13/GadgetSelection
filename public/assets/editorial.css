@@ -1071,9 +1071,9 @@ body:has(.legal-page) main{
     }
 }
 /* ==========================================================
-   EDITORIAL MOBILE HERO COMPACT v1
-   Compacta solo el hero movil de metodo-riguroso, fallos-reales y claves-tecnicas.
-   Oculta el panel visual secundario en movil para que la entrada sea una sola tarjeta.
+   EDITORIAL MOBILE HERO COMPACT v2
+   Microajuste final del hero editorial movil:
+   una tarjeta potente, mas compacta, con CTA visible y sin panel secundario.
    No toca Home, header, footer, legal/cookies, Need, World, gadgets ni GA4.
    ========================================================== */
 
@@ -1082,9 +1082,9 @@ body:has(.legal-page) main{
     .editorial-hero{
         display:block !important;
         min-height:auto !important;
-        margin:18px 0 16px !important;
-        padding:18px 16px 16px !important;
-        border-radius:22px !important;
+        margin:12px 0 14px !important;
+        padding:14px 14px 14px !important;
+        border-radius:20px !important;
     }
 
     .editorial-hero__content{
@@ -1092,50 +1092,50 @@ body:has(.legal-page) main{
     }
 
     .editorial-eyebrow{
-        margin:0 0 12px !important;
-        padding:7px 11px !important;
-        font-size:10px !important;
-        letter-spacing:.10em !important;
+        margin:0 0 9px !important;
+        padding:6px 10px !important;
+        font-size:9.5px !important;
+        letter-spacing:.09em !important;
     }
 
     .editorial-eyebrow::before{
-        width:7px !important;
-        height:7px !important;
-        box-shadow:0 0 0 4px rgba(84,230,163,.14) !important;
+        width:6px !important;
+        height:6px !important;
+        box-shadow:0 0 0 4px rgba(84,230,163,.13) !important;
     }
 
     .editorial-hero h1{
         max-width:10ch !important;
-        margin:0 0 12px !important;
-        font-size:36px !important;
+        margin:0 0 9px !important;
+        font-size:32px !important;
         line-height:.98 !important;
-        letter-spacing:-.055em !important;
+        letter-spacing:-.052em !important;
     }
 
     .editorial-lead{
         max-width:30ch !important;
-        margin:0 0 12px !important;
-        font-size:18px !important;
-        line-height:1.36 !important;
+        margin:0 0 9px !important;
+        font-size:16px !important;
+        line-height:1.32 !important;
     }
 
     .editorial-support{
         max-width:32ch !important;
-        margin:0 0 14px !important;
-        font-size:14px !important;
-        line-height:1.38 !important;
+        margin:0 0 11px !important;
+        font-size:13px !important;
+        line-height:1.32 !important;
     }
 
     .editorial-tags{
-        gap:7px !important;
-        margin:0 0 14px !important;
+        gap:6px !important;
+        margin:0 0 11px !important;
     }
 
     .editorial-tags span{
-        min-height:34px !important;
-        padding:0 11px !important;
+        min-height:30px !important;
+        padding:0 9px !important;
         border-radius:999px !important;
-        font-size:12px !important;
+        font-size:11px !important;
         line-height:1 !important;
     }
 
@@ -1156,20 +1156,25 @@ body:has(.legal-page) main{
 @media (max-width:380px){
 
     .editorial-hero{
-        margin:14px 0 14px !important;
-        padding:16px 14px 14px !important;
-        border-radius:20px !important;
+        margin:10px 0 12px !important;
+        padding:13px 12px 12px !important;
+        border-radius:18px !important;
     }
 
     .editorial-hero h1{
-        font-size:32px !important;
+        font-size:30px !important;
     }
 
     .editorial-lead{
-        font-size:16px !important;
+        font-size:15.5px !important;
     }
 
     .editorial-support{
-        font-size:13.5px !important;
+        font-size:12.8px !important;
+    }
+
+    .editorial-tags span{
+        min-height:29px !important;
+        font-size:10.8px !important;
     }
 }
