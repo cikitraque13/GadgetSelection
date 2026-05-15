@@ -1375,3 +1375,584 @@ FRASE DE CONTINUIDAD ACTUALIZADA
 ============================================================
 
 Continuamos GadgetSelection desde el documento canonico 17 v1.4 actualizado. El catalogo comercial esta cerrado con 5 mundos y 231 gadgets reales. El proyecto ya esta desplegado en Railway, el dominio principal gadgetselection.com esta conectado y validado, y la optimizacion global de imagenes a WebP fue completada con auditoria final sin errores. Las imagenes principales pasaron de aproximadamente 203,96 MB a 21,84 MB. Queda pendiente hacer commit y push de esta optimizacion, validar el despliegue actualizado en Railway, implementar cookies + Google Analytics con consentimiento y preparar la apertura controlada.
+
+============================================================
+ADENDA 2026-05-15 — AJUSTE MOBILE UX Y CIERRE DEL HERO DE NEEDS
+============================================================
+
+OBJETIVO DE ESTA ADENDA
+
+Registrar el avance en experiencia móvil tras el despliegue en producción, la optimización global WebP y la validación del dominio gadgetselection.com.
+
+Esta fase se ha centrado en mejorar la experiencia real del usuario en móvil sin alterar catálogo, JSON, imágenes comerciales, enlaces Amazon ni estructura de cards.
+
+============================================================
+ESTADO MOBILE ACTUAL
+============================================================
+
+Se validó en móvil real:
+
+    https://gadgetselection.com
+
+Header móvil:
+
+    Logo GadgetSelection
+    Mundos
+    Hamburguesa
+
+Se eliminaron de la barra móvil:
+
+    Soluciones
+    Rankings
+    Esenciales
+    Gadgets
+
+Motivo:
+
+    En móvil esas entradas ya están representadas dentro de la Home mediante Accesos útiles y Selección activa.
+    La barra móvil debe ser navegación mínima, no una versión comprimida del desktop.
+
+Estado:
+
+    Header móvil validado.
+    Menú Mundos visible.
+    Hamburguesa visible.
+    Desktop intacto.
+
+============================================================
+PÁGINAS NEED EN MÓVIL
+============================================================
+
+Frente trabajado:
+
+    public/assets/css/world-need.css
+
+Objetivo visual:
+
+    En páginas tipo /dolor-ergonomia/dolor-cervical, el primer recorrido móvil debe mostrar:
+
+        breadcrumb
+        eyebrow del mundo
+        título de necesidad
+        descripción
+        botón azul Ver gadgets recomendados
+        imagen del need
+        heading Selección GadgetSelection
+        título Gadgets recomendados
+
+    La primera card comercial debe empezar después, sin aparecer cortada de forma fea en el primer pantallazo.
+
+Cambios aplicados:
+
+    GS NEED MOBILE HERO RHYTHM
+    GS NEED MOBILE IMAGE BALANCE
+    GS NEED MOBILE EYEBROW SPACING
+
+Decisiones:
+
+    No tocar cards.
+    No tocar Amazon CTA.
+    No tocar PHP.
+    No tocar JSON.
+    No usar order.
+    No usar viewport forzado.
+    No usar márgenes gigantes artificiales.
+    Ajustar ritmo visual mediante CSS controlado.
+
+Estado:
+
+    El ajuste fue validado.
+    El espaciado entre DOLOR Y ERGONOMIA y Dolor cervical fue aumentado correctamente.
+    El hero móvil queda más equilibrado.
+    La experiencia móvil de páginas need queda en fase avanzada, pendiente solo de revisión visual final en otros ejemplos.
+
+============================================================
+OPTIMIZACIÓN WEBP YA CERRADA
+============================================================
+
+Se mantiene como estado confirmado:
+
+    carousel -> 5 WebP / 0 PNG
+    needs -> 43 WebP / 0 PNG
+    gadgets -> 231 WebP / 0 PNG
+
+Todos los JSON apuntan a WebP.
+
+Estado:
+
+    optimización global WebP cerrada
+    imágenes en producción validadas
+    mejora de velocidad confirmada
+
+============================================================
+SIGUIENTE FRENTE MOBILE
+============================================================
+
+Quedan pendientes de revisar:
+
+    1. Footer móvil.
+    2. Página de política de cookies en móvil.
+    3. Home móvil:
+        carrusel
+        accesos útiles
+        selección activa
+        footer newsletter
+
+Regla:
+
+    Auditar antes de tocar.
+    Un frente por vez.
+    No tocar catálogo.
+    No tocar JSON.
+    No tocar imágenes.
+    No tocar Analytics todavía.
+
+============================================================
+PRÓXIMOS PASOS
+============================================================
+
+Orden recomendado:
+
+    1. Auditar footer móvil, política de cookies móvil y Home móvil.
+    2. Corregir CSS mínimo necesario.
+    3. Validar en móvil real.
+    4. Commit y push del bloque mobile UX final.
+    5. Pasar al frente cookies + Google Analytics.
+    6. Solicitar Measurement ID GA4 al Director de métricas.
+    7. Implementar banner cookies con aceptar/rechazar.
+    8. Cargar GA4 solo tras consentimiento.
+
+============================================================
+FRASE DE CONTINUIDAD ACTUALIZADA
+============================================================
+
+Continuamos GadgetSelection en producción con dominio gadgetselection.com activo. El catálogo comercial está cerrado con 5 mundos y 231 gadgets reales. La optimización WebP global está completada. El header móvil fue ajustado a Logo + Mundos + hamburguesa. El frente actual es cerrar la experiencia móvil restante: footer móvil, política de cookies móvil y Home móvil. La regla sigue siendo auditar antes de tocar, aplicar cambios quirúrgicos con PowerShell, validar sin BOM, sin mojibake, sin romper rutas y hacer commit solo cuando el bloque quede aprobado.
+
+============================================================
+ADENDA 2026-05-15 — CIERRE MOBILE UX Y SANEAMIENTO CSS
+============================================================
+
+OBJETIVO DE ESTA ADENDA
+
+Registrar el cierre operativo del frente Mobile UX tras el despliegue en producción, la optimización WebP global, la validación del dominio gadgetselection.com y los ajustes finales realizados sobre la experiencia móvil.
+
+Esta fase no ha creado catálogo nuevo.
+Esta fase no ha modificado JSON comerciales.
+Esta fase no ha modificado imágenes comerciales.
+Esta fase no ha modificado enlaces Amazon.
+Esta fase no ha cambiado la arquitectura del sistema.
+
+El objetivo ha sido alinear la experiencia móvil con la lógica visual y comercial ya validada en desktop.
+
+============================================================
+ESTADO MOBILE UX FINAL
+============================================================
+
+Estado general:
+
+    Mobile UX cerrado visualmente.
+    Producción validada.
+    Rutas principales responden correctamente.
+    CSS clave auditado.
+    PHP clave validado.
+    Sin backups internos.
+    Sin BOM.
+    Sin mojibake.
+    Sin llaves CSS desbalanceadas.
+    Sin order real en CSS móvil auditado.
+    Sin margin-top artificial gigante.
+
+Frentes móviles cerrados:
+
+    Header móvil
+    Home móvil
+    Footer móvil
+    Política de cookies móvil
+    Legales móviles
+    Hamburguesa editorial móvil
+    Páginas Need móviles
+    Mundos móviles
+
+============================================================
+HEADER MÓVIL
+============================================================
+
+Decisión final:
+
+    Logo GadgetSelection | Mundos | Hamburguesa
+
+Se mantiene oculto en barra móvil:
+
+    Soluciones
+    Rankings
+    Esenciales
+    Gadgets
+
+Motivo:
+
+    En móvil esas entradas ya están representadas dentro de Home mediante:
+        Accesos útiles
+        Selección activa
+
+Estado:
+
+    Header móvil validado.
+    Menú Mundos visible.
+    Hamburguesa visible.
+    Desktop intacto.
+
+Archivo implicado:
+
+    public/assets/header-footer.css
+
+============================================================
+HOME MÓVIL
+============================================================
+
+Archivo principal:
+
+    public/assets/home.css
+
+Bloque final aplicado:
+
+    HOME MOBILE COMMERCE DENSITY v2
+
+Objetivo aplicado:
+
+    carrusel compacto
+    CTA tocable
+    accesos útiles legibles
+    selección activa usable
+    separación correcta entre header y carrusel
+    sin scroll horizontal
+
+Estado:
+
+    Home móvil aprobada visualmente.
+    No tocar salvo bug real.
+
+Commit relacionado:
+
+    Tune mobile home spacing
+
+============================================================
+FOOTER MÓVIL
+============================================================
+
+Archivo principal:
+
+    public/assets/header-footer.css
+
+Bloque aplicado:
+
+    FOOTER MOBILE COMPACT v1
+
+Objetivo aplicado:
+
+    compactar newsletter
+    bajar tamaño de títulos
+    reducir paddings
+    mantener input y botón tocables
+    ordenar enlaces legales
+    evitar que el newsletter domine el cierre móvil
+
+Estado:
+
+    Footer móvil aprobado visualmente.
+    No tocar salvo bug real.
+
+Commit relacionado:
+
+    Compact mobile footer
+
+============================================================
+COOKIES Y LEGALES MÓVIL
+============================================================
+
+Archivo principal:
+
+    public/assets/editorial.css
+
+Problema detectado:
+
+    La página /politica-cookies usaba estructura legal-grid--four y quedaba desconfigurada en móvil frente al resto de páginas legales.
+
+Corrección aplicada:
+
+    normalización móvil de tarjetas de cookies
+    grid móvil a una columna
+    cards con altura natural
+    hero legal compacto
+    CTA final compacto
+
+Estado:
+
+    Política de cookies móvil aprobada.
+    Aviso legal móvil aprobado.
+    Privacidad móvil aprobada.
+    Afiliación Amazon móvil aprobada.
+
+Commit relacionado:
+
+    Fix mobile cookies cards
+
+============================================================
+HAMBURGUESA EDITORIAL MÓVIL
+============================================================
+
+Rutas implicadas:
+
+    /metodo-riguroso
+    /fallos-reales
+    /claves-tecnicas
+
+Archivos implicados:
+
+    public/assets/editorial.css
+    templates/pages/metodo-riguroso.php
+    templates/pages/fallos-reales.php
+    templates/pages/claves-tecnicas.php
+    templates/blocks/editorial/hero.php
+    templates/blocks/editorial/section.php
+    templates/blocks/editorial/cta.php
+    data/editorial/metodo-riguroso.php
+    data/editorial/fallos-reales.php
+    data/editorial/claves-tecnicas.php
+
+Problemas corregidos:
+
+    fondo móvil editorial que pasaba de verde oscuro a blanco
+    tarjetas editoriales descompensadas
+    hero editorial móvil demasiado alto o mal distribuido
+    panel visual secundario del hero dominando la experiencia móvil
+
+Decisión final:
+
+    La lógica desktop manda.
+    Mobile adapta proporciones y espaciado.
+    No se inventa una experiencia nueva.
+    El hero editorial móvil funciona como tarjeta de entrada.
+    El botón verde conserva sentido como acceso al contenido.
+    El contenido aparece después.
+    El panel visual secundario queda oculto en móvil.
+
+Saneamiento aplicado:
+
+    editorial.css fue consolidado.
+    Se eliminaron nombres de andamios/fixes intermedios.
+    Se sustituyeron bloques históricos por estructura final clara.
+
+Bloques finales consolidados en editorial.css:
+
+    EDITORIAL TRUST PAGES MOBILE FINAL
+    LEGAL PAGES MOBILE FINAL
+
+Estado:
+
+    Hamburguesa editorial móvil aprobada.
+    editorial.css consolidado.
+    No tocar salvo bug real.
+
+Commits relacionados:
+
+    Fix mobile editorial background
+    Fix mobile editorial cards
+    Tune mobile editorial cards
+    Compact mobile editorial hero
+    Tune mobile editorial hero gate
+    Finalize mobile editorial hero
+    Consolidate editorial mobile CSS
+
+============================================================
+PÁGINAS NEED MÓVIL
+============================================================
+
+Archivo principal:
+
+    public/assets/css/world-need.css
+
+Estado técnico:
+
+    UTF-8 válido
+    sin BOM
+    sin mojibake
+    llaves CSS balanceadas
+    sin order real
+    sin 100vh / 100svh
+    sin 100dvh
+    sin margin-top artificial gigante
+
+Frente trabajado:
+
+    hero de necesidad
+    ritmo vertical
+    imagen del need
+    heading comercial
+    separación entre eyebrow y título
+    cards comerciales móviles
+
+Reglas mantenidas:
+
+    No tocar cards salvo bug real.
+    No tocar Amazon CTA.
+    No tocar PHP.
+    No tocar JSON.
+    No usar order.
+    No usar viewport forzado.
+    No usar márgenes artificiales gigantes.
+
+Estado:
+
+    Need móvil auditado y estable.
+    No tocar world-need.css sin bug visual real.
+
+============================================================
+MUNDOS MÓVIL
+============================================================
+
+Archivos principales:
+
+    public/assets/landing.css
+    public/assets/landing-variants.css
+    templates/pages/world.php
+
+Estado técnico:
+
+    landing.css auditado
+    landing-variants.css auditado
+    sin BOM
+    sin mojibake
+    llaves balanceadas
+    sin order real
+    sin 100vh / 100svh
+    sin 100dvh
+    sin margin-top artificial gigante
+
+Bloques móviles existentes:
+
+    GS WORLD MOBILE HERO
+    GS WORLD MOBILE INDEX
+
+Estado:
+
+    Mundo móvil auditado y estable.
+    No tocar landing.css sin bug visual real.
+
+============================================================
+AUDITORÍA FINAL MOBILE UX
+============================================================
+
+Se ejecutó auditoría final de cierre Mobile UX en producción.
+
+Rutas auditadas con user-agent móvil:
+
+    /
+    /dolor-ergonomia
+    /outdoor-supervivencia
+    /viaje-tecnologia
+    /entrenamiento-recuperacion
+    /energia-autonomia
+    /dolor-ergonomia/dolor-cervical
+    /dolor-ergonomia/dolor-lumbar
+    /viaje-tecnologia/adaptadores-viaje
+    /energia-autonomia/estaciones-energia
+    /outdoor-supervivencia/linternas-recargables
+    /entrenamiento-recuperacion/entrenamiento-casa
+    /metodo-riguroso
+    /fallos-reales
+    /claves-tecnicas
+    /aviso-legal
+    /politica-privacidad
+    /politica-cookies
+    /afiliacion-amazon
+
+Resultado:
+
+    todas las rutas principales respondieron 200
+    viewport meta presente
+    CSS cargado
+    clases esperadas presentes
+    footer presente
+    legal presente donde corresponde
+    editorial presente donde corresponde
+    needs presentes donde corresponde
+    Amazon refs presentes en páginas comerciales
+    WebP presente en rutas visuales principales
+    PNG/JPG residual corresponde al logo principal
+
+============================================================
+SANEAMIENTO CSS
+============================================================
+
+Archivo saneado y consolidado:
+
+    public/assets/editorial.css
+
+Archivos auditados y estables:
+
+    public/assets/home.css
+    public/assets/header-footer.css
+    public/assets/css/world-need.css
+    public/assets/landing.css
+    public/assets/landing-variants.css
+
+Decisión:
+
+    No tocar más CSS sin bug visual real.
+    No limpiar por estética interna si el frente está visualmente estable.
+    No reabrir Home, footer, cookies o editorial si están aprobados.
+    world-need.css y landing.css quedan como deuda técnica documentada, no como bloqueo.
+
+============================================================
+ESTADO FINAL DE MOBILE UX
+============================================================
+
+Estado:
+
+    Mobile UX visual cerrado.
+
+Frentes cerrados:
+
+    Home móvil
+    Header móvil
+    Footer móvil
+    Cookies móvil
+    Legales móvil
+    Hamburguesa editorial móvil
+    Need móvil
+    World móvil
+
+Regla final:
+
+    No tocar más CSS sin bug visual real.
+    Si aparece bug visual, auditar primero.
+    Un frente por vez.
+    Un archivo por vez.
+    Un commit por bloque cerrado.
+    No crear backups dentro del proyecto.
+    PowerShell debe generar reportes TXT en Escritorio.
+    Validar UTF-8, BOM, mojibake y llaves antes de commit.
+
+============================================================
+SIGUIENTE FRENTE
+============================================================
+
+Con Mobile UX cerrado, el siguiente frente queda preparado para cuando el director del proyecto lo indique.
+
+Pendientes posteriores:
+
+    banner cookies
+    consentimiento
+    Google Analytics solo tras consentimiento
+    SEO técnico mínimo
+    favicon / diamante de marca
+    auditoría final pre-apertura
+    apertura controlada
+
+No iniciar esos frentes hasta que el director del proyecto lo ordene.
+
+============================================================
+FRASE DE CONTINUIDAD ACTUALIZADA
+============================================================
+
+Continuamos GadgetSelection en producción con dominio https://gadgetselection.com activo. El catálogo comercial está cerrado con 5 mundos y 231 gadgets reales. Las imágenes principales están optimizadas en WebP. La experiencia móvil queda cerrada visualmente: header, Home, footer, cookies, legales, hamburguesa editorial, mundos y páginas Need han sido auditados y estabilizados. editorial.css fue consolidado y los demás CSS móviles fueron auditados. No se debe tocar más CSS sin bug visual real. El siguiente frente queda pendiente de indicación del director del proyecto.
