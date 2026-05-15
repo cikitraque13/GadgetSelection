@@ -987,3 +987,25 @@
         font-size:26px !important;
     }
 }
+
+/* ==========================================================
+   GS NEED MOBILE EYEBROW SPACING v1
+   Objetivo: crear aire entre el eyebrow del mundo y el titulo de la necesidad.
+   No toca cards, imagen, Amazon CTA, PHP, JSON ni rutas.
+   ========================================================== */
+
+@media (max-width: 760px){
+    .need-hero .eyebrow{
+        margin-bottom:30px !important;
+    }
+
+    .need-hero h1{
+        margin-top:0 !important;
+    }
+}
+
+@media (max-width: 390px){
+    .need-hero .eyebrow{
+        margin-bottom:26px !important;
+    }
+}
