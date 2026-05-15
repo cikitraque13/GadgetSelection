@@ -780,41 +780,6 @@
 
 /* GS NEED MOBILE CARDS END */
 
-.gadget-list-section .gadget-grid--commercial{
-        margin-top:20px !important;
-    }
-}
-
-.gadget-list-section .gadget-grid--commercial{
-        margin-top:0 !important;
-    }
-}
-
-.section-heading--commercial{
-        padding-top:12px !important;
-        padding-bottom:16px !important;
-        margin-bottom:8px !important;
-    }
-}
-
-.need-hero__image img{
-        min-height:200px !important;
-    }
-
-    .section-heading--commercial{
-        padding-top:12px !important;
-        padding-bottom:16px !important;
-        margin-bottom:8px !important;
-    }
-}
-
-.section-heading--commercial{
-        padding-top:20px !important;
-        padding-bottom:16px !important;
-        margin-bottom:8px !important;
-    }
-}
-
 /* ==========================================================
    GS NEED MOBILE HERO RHYTHM v1
    Objetivo: dar ritmo vertical al hero mobile para que el primer fold cierre en la imagen/heading.
