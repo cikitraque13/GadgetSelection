@@ -856,3 +856,38 @@
         margin-bottom:8px !important;
     }
 }
+
+/* ==========================================================
+   GS NEED MOBILE HEADING SPACING v1
+   Objetivo: dar aire entre imagen hero y heading comercial.
+   No toca cards, Amazon CTA, PHP, JSON ni rutas.
+   ========================================================== */
+
+@media (max-width: 760px){
+    .gadget-list-section{
+        margin-top:32px !important;
+        scroll-margin-top:96px !important;
+    }
+
+    .section-heading--commercial{
+        padding-top:22px !important;
+        padding-bottom:18px !important;
+        margin-bottom:10px !important;
+    }
+
+    .gadget-list-section .gadget-grid--commercial{
+        margin-top:0 !important;
+    }
+}
+
+@media (max-width: 390px){
+    .gadget-list-section{
+        margin-top:28px !important;
+    }
+
+    .section-heading--commercial{
+        padding-top:20px !important;
+        padding-bottom:16px !important;
+        margin-bottom:8px !important;
+    }
+}
