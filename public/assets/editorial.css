@@ -916,3 +916,140 @@ body:has(.legal-page) main{
         background:#07120f !important;
     }
 }
+/* ==========================================================
+   EDITORIAL MOBILE CARDS FIX v1
+   Normaliza solo tarjetas editoriales en movil:
+   metodo-riguroso, fallos-reales y claves-tecnicas.
+   No toca fondo, Home, header, footer, legal/cookies, Need, World, gadgets ni GA4.
+   ========================================================== */
+
+@media (max-width:720px){
+
+    .editorial-flow{
+        grid-template-columns:1fr !important;
+        gap:12px !important;
+        align-items:start !important;
+    }
+
+    .editorial-section{
+        height:auto !important;
+        min-height:0 !important;
+        align-self:start !important;
+        padding:16px 14px !important;
+        border-radius:18px !important;
+        box-shadow:0 10px 22px rgba(15,23,42,.07) !important;
+    }
+
+    .editorial-section::before{
+        height:4px !important;
+    }
+
+    .editorial-section h2{
+        margin-bottom:7px !important;
+        font-size:21px !important;
+        line-height:1.07 !important;
+        letter-spacing:-.03em !important;
+    }
+
+    .editorial-section p{
+        margin-bottom:7px !important;
+        font-size:13.5px !important;
+        line-height:1.34 !important;
+    }
+
+    .editorial-core-idea{
+        margin-bottom:8px !important;
+        padding-left:10px !important;
+        border-left-width:3px !important;
+    }
+
+    .editorial-box{
+        margin:8px 0 7px !important;
+        padding:9px 10px !important;
+        border-radius:12px !important;
+        font-size:13.5px !important;
+        line-height:1.28 !important;
+    }
+
+    .editorial-compare{
+        gap:6px !important;
+        margin:7px 0 !important;
+    }
+
+    .editorial-compare div{
+        padding:8px 9px !important;
+        border-radius:11px !important;
+        font-size:13px !important;
+        line-height:1.25 !important;
+    }
+
+    .editorial-micro,
+    .editorial-echo{
+        margin-top:7px !important;
+        padding:8px 9px !important;
+        border-radius:11px !important;
+        font-size:13px !important;
+        line-height:1.28 !important;
+    }
+
+    .editorial-close{
+        margin-top:12px !important;
+        padding:20px 16px !important;
+        border-radius:20px !important;
+    }
+
+    .editorial-close__title{
+        margin-bottom:7px !important;
+        font-size:24px !important;
+        line-height:1.08 !important;
+    }
+
+    .editorial-close p{
+        margin-bottom:12px !important;
+        font-size:14px !important;
+        line-height:1.38 !important;
+    }
+
+    .editorial-cta-group{
+        gap:8px !important;
+        margin-top:10px !important;
+    }
+
+    .editorial-cta,
+    .editorial-cta--final{
+        width:100% !important;
+        min-width:0 !important;
+        min-height:44px !important;
+        padding:0 14px !important;
+        border-radius:13px !important;
+        font-size:14px !important;
+        line-height:1 !important;
+    }
+}
+
+@media (max-width:380px){
+
+    .editorial-section{
+        padding:15px 13px !important;
+        border-radius:17px !important;
+    }
+
+    .editorial-section h2{
+        font-size:20px !important;
+    }
+
+    .editorial-section p,
+    .editorial-box,
+    .editorial-micro,
+    .editorial-echo{
+        font-size:13px !important;
+    }
+
+    .editorial-close{
+        padding:18px 14px !important;
+    }
+
+    .editorial-close__title{
+        font-size:22px !important;
+    }
+}
