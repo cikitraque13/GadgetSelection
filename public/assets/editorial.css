@@ -1071,9 +1071,9 @@ body:has(.legal-page) main{
     }
 }
 /* ==========================================================
-   EDITORIAL MOBILE HERO GATE v1
-   Entrada editorial movil: el usuario ve solo el hero y el CTA.
-   El contenido queda fuera del primer impacto y se descubre al pulsar el boton.
+   EDITORIAL MOBILE HERO GATE v2
+   Entrada editorial movil equilibrada: hero + CTA en primer impacto.
+   Elimina el vacio superior del v1 y mantiene el contenido fuera del primer vistazo.
    No toca Home, header, footer, legal/cookies, Need, World, gadgets ni GA4.
    ========================================================== */
 
@@ -1082,10 +1082,10 @@ body:has(.legal-page) main{
     .editorial-hero{
         display:flex !important;
         flex-direction:column !important;
-        justify-content:center !important;
-        min-height:clamp(540px,calc(100dvh - 122px),660px) !important;
+        justify-content:flex-start !important;
+        min-height:clamp(500px,calc(100dvh - 132px),590px) !important;
         margin:12px 0 18px !important;
-        padding:16px 14px 16px !important;
+        padding:clamp(44px,8svh,68px) 14px 18px !important;
         border-radius:20px !important;
     }
 
@@ -1159,9 +1159,9 @@ body:has(.legal-page) main{
 @media (max-width:380px){
 
     .editorial-hero{
-        min-height:clamp(500px,calc(100dvh - 112px),620px) !important;
+        min-height:clamp(470px,calc(100dvh - 122px),550px) !important;
         margin:10px 0 16px !important;
-        padding:14px 12px 14px !important;
+        padding:clamp(36px,7svh,52px) 12px 14px !important;
         border-radius:18px !important;
     }
 
