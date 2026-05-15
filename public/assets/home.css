@@ -848,7 +848,7 @@
 @media (max-width: 640px){
 
     .home-carousel{
-        padding:0 0 12px !important;
+        padding:10px 0 12px !important;
     }
 
     .home-carousel .container,
