@@ -1071,22 +1071,21 @@ body:has(.legal-page) main{
     }
 }
 /* ==========================================================
-   EDITORIAL MOBILE HERO GATE v2
-   Entrada editorial movil equilibrada: hero + CTA en primer impacto.
-   Elimina el vacio superior del v1 y mantiene el contenido fuera del primer vistazo.
-   No toca Home, header, footer, legal/cookies, Need, World, gadgets ni GA4.
+   EDITORIAL MOBILE HERO FINAL v1
+   Replica la logica desktop en movil:
+   tarjeta hero como entrada, CTA visible y contenido despues.
+   No inventa gate artificial, no toca PHP, data, Home, header, footer,
+   legal/cookies, Need, World, gadgets ni GA4.
    ========================================================== */
 
 @media (max-width:720px){
 
     .editorial-hero{
-        display:flex !important;
-        flex-direction:column !important;
-        justify-content:flex-start !important;
-        min-height:clamp(500px,calc(100dvh - 132px),590px) !important;
-        margin:12px 0 18px !important;
-        padding:clamp(44px,8svh,68px) 14px 18px !important;
-        border-radius:20px !important;
+        display:block !important;
+        min-height:auto !important;
+        margin:18px 0 34px !important;
+        padding:22px 18px 22px !important;
+        border-radius:24px !important;
     }
 
     .editorial-hero__content{
@@ -1095,58 +1094,58 @@ body:has(.legal-page) main{
     }
 
     .editorial-eyebrow{
-        margin:0 0 9px !important;
-        padding:6px 10px !important;
-        font-size:9.5px !important;
-        letter-spacing:.09em !important;
+        margin:0 0 12px !important;
+        padding:7px 11px !important;
+        font-size:10px !important;
+        letter-spacing:.10em !important;
     }
 
     .editorial-eyebrow::before{
-        width:6px !important;
-        height:6px !important;
-        box-shadow:0 0 0 4px rgba(84,230,163,.13) !important;
+        width:7px !important;
+        height:7px !important;
+        box-shadow:0 0 0 4px rgba(84,230,163,.14) !important;
     }
 
     .editorial-hero h1{
         max-width:10ch !important;
-        margin:0 0 9px !important;
-        font-size:32px !important;
-        line-height:.98 !important;
-        letter-spacing:-.052em !important;
+        margin:0 0 12px !important;
+        font-size:34px !important;
+        line-height:1 !important;
+        letter-spacing:-.055em !important;
     }
 
     .editorial-lead{
-        max-width:30ch !important;
-        margin:0 0 9px !important;
-        font-size:16px !important;
-        line-height:1.32 !important;
+        max-width:31ch !important;
+        margin:0 0 12px !important;
+        font-size:17px !important;
+        line-height:1.36 !important;
     }
 
     .editorial-support{
-        max-width:32ch !important;
-        margin:0 0 11px !important;
-        font-size:13px !important;
-        line-height:1.32 !important;
+        max-width:34ch !important;
+        margin:0 0 14px !important;
+        font-size:13.5px !important;
+        line-height:1.38 !important;
     }
 
     .editorial-tags{
-        gap:6px !important;
-        margin:0 0 12px !important;
+        gap:7px !important;
+        margin:0 0 16px !important;
     }
 
     .editorial-tags span{
-        min-height:30px !important;
-        padding:0 9px !important;
+        min-height:32px !important;
+        padding:0 10px !important;
         border-radius:999px !important;
-        font-size:11px !important;
+        font-size:11.5px !important;
         line-height:1 !important;
     }
 
     .editorial-cta{
         width:100% !important;
-        min-height:44px !important;
+        min-height:46px !important;
         padding:0 14px !important;
-        border-radius:13px !important;
+        border-radius:14px !important;
         font-size:14px !important;
         line-height:1 !important;
     }
@@ -1159,26 +1158,25 @@ body:has(.legal-page) main{
 @media (max-width:380px){
 
     .editorial-hero{
-        min-height:clamp(470px,calc(100dvh - 122px),550px) !important;
-        margin:10px 0 16px !important;
-        padding:clamp(36px,7svh,52px) 12px 14px !important;
-        border-radius:18px !important;
+        margin:14px 0 30px !important;
+        padding:18px 14px 18px !important;
+        border-radius:22px !important;
     }
 
     .editorial-hero h1{
-        font-size:30px !important;
+        font-size:31px !important;
     }
 
     .editorial-lead{
-        font-size:15.5px !important;
+        font-size:16px !important;
     }
 
     .editorial-support{
-        font-size:12.8px !important;
+        font-size:13px !important;
     }
 
     .editorial-tags span{
-        min-height:29px !important;
-        font-size:10.8px !important;
+        min-height:30px !important;
+        font-size:11px !important;
     }
 }
