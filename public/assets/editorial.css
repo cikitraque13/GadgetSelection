@@ -884,3 +884,35 @@ body:has(.legal-page) main{
         font-size:19px !important;
     }
 }
+/* ==========================================================
+   EDITORIAL MOBILE BACKGROUND FIX v1
+   Fondo oscuro continuo solo para paginas editoriales de hamburguesa:
+   metodo-riguroso, fallos-reales y claves-tecnicas.
+   No toca Home, header, footer, legal/cookies, Need, World, gadgets ni GA4.
+   ========================================================== */
+
+@media (max-width:720px){
+
+    body:has(.editorial-page),
+    body:has(.editorial-page) main,
+    body:has(.editorial-page) .site-header + main,
+    .editorial-page{
+        background:#07120f !important;
+    }
+
+    .editorial-page{
+        background:
+            radial-gradient(circle at 12% 0%,rgba(84,230,163,.08),transparent 34%),
+            linear-gradient(180deg,#07120f 0%,#07120f 100%) !important;
+    }
+}
+
+@media (max-width:380px){
+
+    body:has(.editorial-page),
+    body:has(.editorial-page) main,
+    body:has(.editorial-page) .site-header + main,
+    .editorial-page{
+        background:#07120f !important;
+    }
+}
