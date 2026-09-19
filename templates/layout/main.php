@@ -60,6 +60,7 @@ $content = ob_get_clean();
 </main>
 
 <?php require __DIR__ . '/../blocks/footer.php'; ?>
+<?php require __DIR__ . '/../blocks/cookie-consent.php'; ?>
 
 </body>
 
