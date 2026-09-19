@@ -56,7 +56,7 @@ if (!function_exists('h')) {
         <div class="section-heading section-heading--commercial">
             <p class="eyebrow">Seleccion GadgetSelection</p>
             <h2>Gadgets recomendados: <?php echo h($needTitle); ?></h2>
-            <p>Productos concretos para decidir rapido: imagen, precio, criterio de uso y enlace a Amazon. Sin enciclopedia. Sin humo.</p>
+            <p>Productos concretos para decidir rapido: imagen, criterio de uso y enlace a Amazon. Sin enciclopedia. Sin humo.</p>
         </div>
 
         <?php if (empty($gadgets)): ?>
@@ -74,7 +74,6 @@ if (!function_exists('h')) {
                     $gadgetImage = (string)($gadget['image'] ?? '');
                     $ranking = (string)($gadget['ranking'] ?? '');
                     $rankingLabel = (string)($gadget['ranking_label'] ?? '');
-                    $price = (string)($gadget['price'] ?? '');
                     $score = isset($gadget['score']) ? (string)$gadget['score'] : '';
                     $summary = (string)($gadget['summary'] ?? '');
                     $bestFor = (string)($gadget['best_for'] ?? '');
@@ -110,9 +109,6 @@ if (!function_exists('h')) {
                             <h3><?php echo h($gadgetTitle); ?></h3>
 
                             <div class="gadget-card__meta">
-                                <?php if ($price !== ''): ?>
-                                    <strong><?php echo h($price); ?></strong>
-                                <?php endif; ?>
 
                                 <?php if ($score !== ''): ?>
                                     <span><?php echo h($score); ?>/10</span>
