@@ -47,7 +47,8 @@ if (!function_exists('h')) {
         <?php if (!empty($needImage)): ?>
             <figure class="need-hero__image">
                 <img src="<?php echo h($needImage); ?>"
-                     alt="<?php echo h($needTitle); ?>">
+                     alt="<?php echo h($needTitle); ?>"
+                     fetchpriority="high">
             </figure>
         <?php endif; ?>
     </header>

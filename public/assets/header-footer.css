@@ -1013,3 +1013,7 @@ header{
         font-size:22px !important;
     }
 }
+
+.footer-install-app{display:block;margin:18px auto 0;padding:11px 16px;border:1px solid rgba(255,255,255,.22);border-radius:999px;background:transparent;color:inherit;font:inherit;cursor:pointer}
+.footer-install-app[hidden]{display:none!important}
+.footer-install-app:hover,.footer-install-app:focus-visible{border-color:currentColor}

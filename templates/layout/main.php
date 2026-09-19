@@ -41,6 +41,7 @@ $content = ob_get_clean();
     gtag('config', 'G-F9MMB1QKDH');
     </script>
     <script defer src="/public/assets/analytics.js"></script>
+    <script defer src="/public/assets/pwa.js"></script>
 
 <link rel="stylesheet" href="/public/assets/styles.css">
 

@@ -48,4 +48,5 @@
         </div>
 
     </div>
+    <button type="button" class="footer-install-app" data-install-app hidden>Instalar GadgetSelection</button>
 </footer>

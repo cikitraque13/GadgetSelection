@@ -1,7 +1,7 @@
 <header class="site-header">
     <div class="header-container">
         <a href="/" class="logo" aria-label="Ir al inicio">
-            <img src="/public/assets/logo_gadgetselection_premium.png" alt="GadgetSelection">
+            <img src="/public/assets/logo_gadgetselection_premium.webp" alt="GadgetSelection">
         </a>
 
         <h1 class="sr-only">Gadgets seleccionados para escenarios reales</h1>
