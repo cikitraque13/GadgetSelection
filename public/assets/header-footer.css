@@ -554,19 +554,16 @@ header{
     flex-wrap:wrap;
 }
 
-.footer-capture-form input{
+.footer-capture-form select{
     width:280px;
     min-height:48px;
-    padding:0 14px;
+    padding:0 42px 0 14px;
     border-radius:14px;
     border:1px solid rgba(124,255,203,.16);
     background:#ffffff;
     color:#111827;
     font:inherit;
-}
-
-.footer-capture-form input::placeholder{
-    color:#6b7280;
+    cursor:pointer;
 }
 
 .footer-capture-form button{
@@ -649,7 +646,7 @@ header{
         align-items:stretch;
     }
 
-    .footer-capture-form input,
+    .footer-capture-form select,
     .footer-capture-form button{
         width:100%;
     }
