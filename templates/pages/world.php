@@ -355,7 +355,9 @@ if ($worldHeroImage !== '') {
 }
 ?>
 
-<section class="<?php echo h($rootClass); ?>">
+<section class="<?php echo h($rootClass); ?>"
+         data-ga-world-view
+         data-world-id="<?php echo h($worldId); ?>">
     <div class="container">
         <section class="landing-hero" aria-label="Hero del mundo">
             <div

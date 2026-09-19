@@ -23,6 +23,25 @@ $content = ob_get_clean();
     <link rel="manifest" href="/public/site.webmanifest">
     <meta name="theme-color" content="#07120f">
 
+    <!-- Google Analytics 4: Consent Mode defaults must run before the Google tag. -->
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('consent', 'default', {
+        'analytics_storage': 'denied',
+        'ad_storage': 'denied',
+        'ad_user_data': 'denied',
+        'ad_personalization': 'denied',
+        'wait_for_update': 500
+    });
+    </script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-F9MMB1QKDH"></script>
+    <script>
+    gtag('js', new Date());
+    gtag('config', 'G-F9MMB1QKDH');
+    </script>
+    <script defer src="/public/assets/analytics.js"></script>
+
 <link rel="stylesheet" href="/public/assets/styles.css">
 
 

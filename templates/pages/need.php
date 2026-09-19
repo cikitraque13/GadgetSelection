@@ -4,7 +4,9 @@ $need = is_array($need ?? null) ? $need : [];
 $gadgets = is_array($gadgets ?? null) ? $gadgets : [];
 
 $worldTitle = (string)($world['title'] ?? 'Mundo');
-$worldSlug = (string)($world['slug'] ?? $world['id'] ?? '');
+$worldId = (string)($world['id'] ?? '');
+$worldSlug = (string)($world['slug'] ?? $worldId);
+$needId = (string)($need['id'] ?? '');
 $needTitle = (string)($need['title'] ?? 'Necesidad');
 $needDescription = (string)($need['description'] ?? '');
 $needImage = (string)($need['image'] ?? '');
@@ -17,7 +19,10 @@ if (!function_exists('h')) {
 }
 ?>
 
-<section class="need-page need-page--selection">
+<section class="need-page need-page--selection"
+         data-ga-need-view
+         data-world-id="<?php echo h($worldId); ?>"
+         data-need-id="<?php echo h($needId); ?>">
     <nav class="breadcrumbs">
         <a href="/">Inicio</a>
         <span>›</span>
@@ -63,7 +68,9 @@ if (!function_exists('h')) {
             <div class="gadget-grid gadget-grid--commercial">
                 <?php foreach ($gadgets as $gadget): ?>
                     <?php
+                    $gadgetId = (string)($gadget['id'] ?? '');
                     $gadgetTitle = (string)($gadget['title'] ?? 'Gadget');
+                    $gadgetBrand = (string)($gadget['brand'] ?? '');
                     $gadgetImage = (string)($gadget['image'] ?? '');
                     $ranking = (string)($gadget['ranking'] ?? '');
                     $rankingLabel = (string)($gadget['ranking_label'] ?? '');
@@ -74,7 +81,13 @@ if (!function_exists('h')) {
                     $affiliateUrl = (string)($gadget['affiliate_url'] ?? '');
                     $affiliateRel = (string)($gadget['affiliate_rel'] ?? 'sponsored nofollow noopener');
                     ?>
-                    <article class="gadget-card gadget-card--commercial">
+                    <article class="gadget-card gadget-card--commercial"
+                             data-ga-gadget-view
+                             data-world-id="<?php echo h($worldId); ?>"
+                             data-need-id="<?php echo h($needId); ?>"
+                             data-gadget-id="<?php echo h($gadgetId); ?>"
+                             data-brand="<?php echo h($gadgetBrand); ?>"
+                             data-ranking="<?php echo h($ranking); ?>">
                         <?php if (!empty($gadgetImage)): ?>
                             <figure class="gadget-card__image">
                                 <img src="<?php echo h($gadgetImage); ?>"
@@ -123,7 +136,11 @@ if (!function_exists('h')) {
                                 <a class="gadget-card__cta"
                                    href="<?php echo h($affiliateUrl); ?>"
                                    rel="<?php echo h($affiliateRel); ?>"
-                                   target="_blank">
+                                   target="_blank"
+                                   data-ga-amazon-click
+                                   data-world-id="<?php echo h($worldId); ?>"
+                                   data-need-id="<?php echo h($needId); ?>"
+                                   data-gadget-id="<?php echo h($gadgetId); ?>">
                                     Ver en Amazon
                                 </a>
                             <?php endif; ?>
