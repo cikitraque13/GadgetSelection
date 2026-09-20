@@ -17,6 +17,7 @@
                     <a href="/viaje-tecnologia">Viaje y tecnologia</a>
                     <a href="/entrenamiento-recuperacion">Entrenamiento y recuperacion</a>
                     <a href="/energia-autonomia">Energia y autonomia</a>
+                    <a href="/ia-robotica">IA y robótica</a>
                 </div>
             </div>
 
@@ -31,6 +32,7 @@
                     <a href="/viaje-tecnologia/organizadores-cables">Viajo con demasiado cable</a>
                     <a href="/entrenamiento-recuperacion/compresion-muscular">Tengo piernas cargadas</a>
                     <a href="/outdoor-supervivencia/linternas-recargables">Necesito luz fiable</a>
+                    <a href="/hogar-activo">Quiero automatizar mi día a día</a>
                 </div>
             </div>
 
@@ -45,6 +47,7 @@
                     <a href="/entrenamiento-recuperacion/pistolas-masaje">Top pistolas de masaje</a>
                     <a href="/outdoor-supervivencia/filtros-agua">Top filtros de agua</a>
                     <a href="/dolor-ergonomia/postura-escritorio">Top postura escritorio</a>
+                    <a href="/robotica-util">Top robótica e IA</a>
                 </div>
             </div>
 
@@ -59,6 +62,7 @@
                     <a href="/viaje-tecnologia/seguridad-equipaje">Seguridad de equipaje</a>
                     <a href="/entrenamiento-recuperacion/entrenamiento-casa">Entrenamiento en casa</a>
                     <a href="/dolor-ergonomia/muneca-antebrazo">Muneca y antebrazo</a>
+                    <a href="/drones-y-makers">Drones y makers</a>
                 </div>
             </div>
 
@@ -73,6 +77,7 @@
                     <a href="/viaje-tecnologia/localizadores-bluetooth">Localizadores bluetooth</a>
                     <a href="/entrenamiento-recuperacion/hidratacion-medicion">Hidratacion y medicion</a>
                     <a href="/dolor-ergonomia/piernas-circulacion">Piernas y circulacion</a>
+                    <a href="/drones-y-makers">Drones y makers</a>
                 </div>
             </div>
         </nav>
