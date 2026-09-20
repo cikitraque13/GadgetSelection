@@ -134,8 +134,8 @@
         linear-gradient(135deg, #10251f 0%, #1f3a31 48%, #365344 100%);
 
     --theme-hero-overlay:
-        linear-gradient(90deg, rgba(8,18,15,.80) 0%, rgba(8,18,15,.54) 26%, rgba(8,18,15,.20) 56%, rgba(8,18,15,.12) 100%),
-        linear-gradient(180deg, rgba(255,255,255,.02) 0%, rgba(8,18,15,.28) 100%);
+        linear-gradient(90deg, rgba(8,18,15,.62) 0%, rgba(8,18,15,.40) 26%, rgba(8,18,15,.12) 56%, rgba(8,18,15,.06) 100%),
+        linear-gradient(180deg, rgba(255,255,255,.01) 0%, rgba(8,18,15,.16) 100%);
 
     --theme-chip-bg: linear-gradient(180deg, rgba(245,238,211,.96) 0%, rgba(229,218,180,.92) 100%);
     --theme-chip-color: #4b3e24;
@@ -273,9 +273,7 @@
         linear-gradient(90deg, rgba(8,16,20,.82) 0%, rgba(8,16,20,.58) 28%, rgba(8,16,20,.22) 58%, rgba(8,16,20,.08) 100%),
         linear-gradient(135deg, #111c20 0%, #233136 52%, #3b4035 100%);
 
-    --theme-hero-overlay:
-        linear-gradient(90deg, rgba(8,16,20,.82) 0%, rgba(8,16,20,.58) 26%, rgba(8,16,20,.22) 56%, rgba(8,16,20,.10) 100%),
-        linear-gradient(180deg, rgba(255,255,255,.02) 0%, rgba(8,16,20,.30) 100%);
+    --theme-hero-overlay: linear-gradient(90deg, rgba(8,16,20,.03) 0%, rgba(8,16,20,0) 42%);
 
     --theme-hero-halo:
         radial-gradient(ellipse at 50% 100%, rgba(124,255,203,.24) 0%, rgba(0,208,132,.14) 26%, rgba(214,182,76,.10) 46%, rgba(0,208,132,0) 72%);

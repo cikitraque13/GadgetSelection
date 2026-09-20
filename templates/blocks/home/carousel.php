@@ -49,7 +49,7 @@ $slides = [
     <div class="container">
         <div class="carousel-shell" id="homeCarousel">
             <?php foreach ($slides as $index => $slide): ?>
-                <article class="carousel-slide<?= $index === 0 ? ' is-active' : '' ?><?= $slide['href'] === '/ia-robotica' ? ' carousel-slide--ia-robotica' : '' ?>" style="background-image: url('<?= htmlspecialchars($slide['image'], ENT_QUOTES, 'UTF-8') ?>');" aria-hidden="<?= $index === 0 ? 'false' : 'true' ?>">
+                <article class="carousel-slide<?= $index === 0 ? ' is-active' : '' ?><?= $slide['href'] === '/ia-robotica' ? ' carousel-slide--ia-robotica' : '' ?><?= $slide['href'] === '/dolor-ergonomia' ? ' carousel-slide--dolor-ergonomia' : '' ?><?= $slide['href'] === '/energia-autonomia' ? ' carousel-slide--energia-autonomia' : '' ?>" style="background-image: url('<?= htmlspecialchars($slide['image'], ENT_QUOTES, 'UTF-8') ?>');" aria-hidden="<?= $index === 0 ? 'false' : 'true' ?>">
                     <div class="carousel-overlay"></div>
                     <div class="carousel-content">
                         <?php if ($slide['title'] !== ''): ?>

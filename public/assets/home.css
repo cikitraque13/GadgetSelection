@@ -1153,3 +1153,38 @@
 
 /* IA hero replacement: use canonical carousel image fit */
 .carousel-slide--ia-robotica{background-size:cover;background-position:center center;background-repeat:no-repeat;}
+
+/* Energia y autonomia - preserve dog and source luminosity */
+.carousel-slide--energia-autonomia{
+    background-size:cover;
+    background-position:center 72%;
+}
+.carousel-slide--energia-autonomia .carousel-overlay{
+    background:linear-gradient(90deg,rgba(0,0,0,.16) 0%,rgba(0,0,0,.08) 38%,rgba(0,0,0,0) 100%);
+}
+@media(max-width:640px){
+    .carousel-slide--energia-autonomia{
+        background-size:cover;
+        background-position:66% 72%;
+    }
+    .carousel-slide--energia-autonomia .carousel-overlay{
+        background:linear-gradient(180deg,rgba(0,0,0,.12) 0%,rgba(0,0,0,.06) 100%) !important;
+    }
+}
+
+/* Dolor y ergonomia - preserve subjects and source luminosity */
+.carousel-slide--dolor-ergonomia{
+    background-position:center 38%;
+}
+.carousel-slide--dolor-ergonomia .carousel-overlay{
+    background:linear-gradient(90deg,rgba(0,0,0,.42) 0%,rgba(0,0,0,.27) 38%,rgba(0,0,0,.10) 100%);
+}
+@media(max-width:640px){
+    .carousel-slide--dolor-ergonomia{
+        background-position:center 30%;
+    }
+    .carousel-slide--dolor-ergonomia .carousel-overlay{
+        background:linear-gradient(180deg,rgba(0,0,0,.38) 0%,rgba(0,0,0,.24) 100%) !important;
+    }
+}
+
