@@ -7,7 +7,7 @@
                 <div class="criteria-kicker">Accesos utiles</div>
                 <h2 class="criteria-title">Empieza por una necesidad real</h2>
                 <p class="criteria-copy">
-                    231 gadgets seleccionados, organizados por necesidad real. Entra por el problema, no por una categoria generica.
+                    252 gadgets seleccionados, organizados por necesidad real. Entra por el problema, no por una categoria generica.
                 </p>
 
                 <div class="criteria-grid">
@@ -48,6 +48,14 @@
                         <span class="criteria-text">
                             <strong>Recuperacion real</strong>
                             <small>Descargar mejor y tratar la fatiga con criterio.</small>
+                        </span>
+                    </a>
+
+                    <a href="/hogar-activo" class="criteria-item criteria-item--hogar">
+                        <span class="criteria-tick">06</span>
+                        <span class="criteria-text">
+                            <strong>Hogar inteligente</strong>
+                            <small>Automatizar tareas, accesos y control del hogar.</small>
                         </span>
                     </a>
                 </div>

@@ -430,7 +430,7 @@
 
 .criteria-grid{
     display:grid;
-    grid-template-columns:repeat(5,minmax(0,1fr));
+    grid-template-columns:repeat(3,minmax(0,1fr));
     gap:12px;
 }
 
@@ -477,6 +477,11 @@
 .criteria-item--recuperacion{
     background:#f4f0fa;
     border-color:#e3d9f1;
+}
+
+.criteria-item--hogar{
+    background:#eef6ff;
+    border-color:#d6e8ff;
 }
 
 .criteria-tick{
@@ -789,7 +794,7 @@
     max-width:1180px;
     margin:28px auto 0;
     display:grid;
-    grid-template-columns:repeat(5,minmax(0,1fr));
+    grid-template-columns:repeat(3,minmax(0,1fr));
     gap:12px;
     align-items:center;
     justify-content:center;
@@ -817,9 +822,9 @@
     }
 
     .home-cta-actions .cta-button:last-child{
-        grid-column:1 / -1;
-        max-width:360px;
-        margin:0 auto;
+        grid-column:auto;
+        max-width:none;
+        margin:0;
     }
 }
 
@@ -1061,9 +1066,9 @@
     }
 
     .home-cta-actions .cta-button:last-child{
-        grid-column:1 / -1 !important;
-        max-width:220px !important;
-        margin:0 auto !important;
+        grid-column:auto !important;
+        max-width:none !important;
+        margin:0 !important;
     }
 }
 

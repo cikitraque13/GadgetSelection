@@ -13,12 +13,12 @@
             <div class="landing-grid ia-robotica-grid">
                 <article class="landing-entry-card entry-generic-1">
                     <div class="landing-entry-card__visual">
-                        <img class="landing-entry-card__img" src="/public/assets/images/ia-robotica/hogar-activo.jpg" alt="Hogar activo" loading="lazy">
+                        <img class="landing-entry-card__img" src="/public/assets/images/ia-robotica/hogar-activo.jpg" alt="Hogar inteligente" loading="lazy">
                         <div class="landing-entry-card__visual-overlay"></div>
-                        <div class="landing-entry-card__badge">Hogar activo</div>
+                        <div class="landing-entry-card__badge">Hogar inteligente</div>
                     </div>
                     <div class="landing-entry-card__body">
-                        <h3>Hogar activo</h3>
+                        <h3>Hogar inteligente</h3>
                         <p>Robots y sistemas inteligentes para limpiar, mantener y automatizar tareas del hogar y el exterior.</p>
                         <a class="landing-link landing-link--subtle" href="/hogar-activo">Abrir esta entrada</a>
                     </div>

@@ -3,7 +3,7 @@
         <div class="home-cta-card home-cta-card--selection">
             <div class="home-cta-copy">
                 <p class="home-cta-kicker">Seleccion activa</p>
-                <h2>Explora 231 gadgets reales</h2>
+                <h2>Explora 252 gadgets reales</h2>
                 <p>
                     Entra por lo esencial de cada mundo y compara productos reales con criterio claro.
                 </p>
@@ -15,6 +15,7 @@
                 <a href="/viaje-tecnologia/auriculares-viaje" class="cta-button">Viaje inteligente</a>
                 <a href="/entrenamiento-recuperacion/entrenamiento-casa" class="cta-button">Entrenar en casa</a>
                 <a href="/dolor-ergonomia/recuperacion-muscular" class="cta-button">Recupera en casa</a>
+                <a href="/robotica-util" class="cta-button">Robótica útil</a>
             </div>
         </div>
     </div>

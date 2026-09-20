@@ -7,13 +7,13 @@
         <span>›</span>
         <a href="/ia-robotica">IA y Robótica</a>
         <span>›</span>
-        <strong>Hogar activo</strong>
+        <strong>Hogar inteligente</strong>
     </nav>
 
     <header class="need-hero">
         <div class="need-hero__content">
             <p class="eyebrow">IA y Robótica</p>
-            <h1>Hogar activo</h1>
+            <h1>Hogar inteligente</h1>
             <p>Robots y sistemas inteligentes para limpiar, mantener y automatizar tareas del hogar y el exterior.</p>
             <div class="need-hero__actions">
                 <a href="#gadgets" class="need-primary-link">Ver gadgets recomendados</a>
@@ -22,7 +22,7 @@
 
         <figure class="need-hero__image">
             <img src="/public/assets/images/ia-robotica/hogar-activo.jpg"
-                 alt="Hogar activo"
+                 alt="Hogar inteligente"
                  fetchpriority="high">
         </figure>
     </header>
@@ -30,7 +30,7 @@
     <section class="gadget-list-section" id="gadgets">
         <div class="section-heading section-heading--commercial">
             <p class="eyebrow">Seleccion GadgetSelection</p>
-            <h2>Gadgets recomendados: Hogar activo</h2>
+            <h2>Gadgets recomendados: Hogar inteligente</h2>
             <p>Productos concretos para decidir rapido: imagen, criterio de uso y enlace a Amazon. Sin enciclopedia. Sin humo.</p>
         </div>
 
