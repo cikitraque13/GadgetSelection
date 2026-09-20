@@ -21,7 +21,7 @@
         </div>
 
         <figure class="need-hero__image">
-            <img src="/public/assets/images/ia-robotica/robotica-util.jpg"
+            <img src="/public/assets/images/ia-robotica/robotica-util.png"
                  alt="Robótica útil"
                  fetchpriority="high">
         </figure>

@@ -26,7 +26,7 @@
 
                 <article class="landing-entry-card entry-generic-2">
                     <div class="landing-entry-card__visual">
-                        <img class="landing-entry-card__img" src="/public/assets/images/ia-robotica/robotica-util.jpg" alt="Robótica útil" loading="lazy">
+                        <img class="landing-entry-card__img" src="/public/assets/images/ia-robotica/robotica-util.png" alt="Robótica útil" loading="lazy">
                         <div class="landing-entry-card__visual-overlay"></div>
                         <div class="landing-entry-card__badge">Robótica útil</div>
                     </div>
@@ -39,7 +39,7 @@
 
                 <article class="landing-entry-card entry-generic-3">
                     <div class="landing-entry-card__visual">
-                        <img class="landing-entry-card__img" src="/public/assets/images/ia-robotica/drones-y-makers.jpg" alt="Drones y makers" loading="lazy">
+                        <img class="landing-entry-card__img" src="/public/assets/images/ia-robotica/drones-y-makers.png" alt="Drones y makers" loading="lazy">
                         <div class="landing-entry-card__visual-overlay"></div>
                         <div class="landing-entry-card__badge">Drones y makers</div>
                     </div>
