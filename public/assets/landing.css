@@ -1045,3 +1045,61 @@
 }
 
 /* GS WORLD MOBILE INDEX END */
+
+/* IA y Robotica */
+.ia-robotica-hero {
+    overflow: hidden;
+    padding: 0;
+    background: #111;
+}
+.ia-robotica-hero__image {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+.ia-robotica-grid .landing-entry-card__visual {
+    aspect-ratio: 3 / 2;
+}
+.ia-robotica-grid .landing-entry-card__img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.ia-robotica-placeholder {
+    min-height: 56vh;
+    display: flex;
+    align-items: center;
+}
+@media (max-width: 720px) {
+    .ia-robotica-hero {
+        border-radius: 18px;
+    }
+    .ia-robotica-grid .landing-entry-card__visual {
+        aspect-ratio: 4 / 3;
+    }
+}
+/* IA y Robotica - visual alignment */
+.ia-robotica-hero{
+    min-height:0 !important;
+    background:transparent;
+    line-height:0;
+}
+.ia-robotica-grid{
+    grid-template-columns:repeat(2,minmax(0,1fr));
+}
+.ia-robotica-grid .landing-entry-card__visual{
+    aspect-ratio:auto;
+    height:240px;
+    min-height:240px;
+}
+@media (max-width:760px){
+    .ia-robotica-grid{
+        grid-template-columns:1fr !important;
+    }
+    .ia-robotica-grid .landing-entry-card__visual{
+        height:auto;
+    }
+}
+
+/* IA cream capsules */
+.ia-robotica-grid .landing-entry-card__badge{background:linear-gradient(180deg,rgba(255,243,215,.98) 0%,rgba(236,218,176,.94) 100%);color:#4f3b1c;border:1px solid rgba(214,182,76,.34);}

@@ -16,6 +16,7 @@ $worldIds = [
     'viaje-tecnologia',
     'entrenamiento-recuperacion',
     'energia-autonomia',
+    'ia-robotica',
 ];
 
 if ($path === '/') {
@@ -55,6 +56,49 @@ if ($path === '/politica-cookies') {
 
 if ($path === '/afiliacion-amazon') {
     View::render('pages/afiliacion-amazon');
+    exit;
+}
+
+$iaRoboticaEntries = [
+    '/hogar-activo' => [
+        'title' => 'Hogar activo',
+        'description' => 'Robots y sistemas inteligentes para limpiar, mantener y automatizar tareas del hogar y el exterior.',
+    ],
+    '/robotica-util' => [
+        'title' => 'Robótica útil',
+        'description' => 'Robots para asistir, aprender, interactuar y acercar la nueva generación de máquinas inteligentes a la vida diaria.',
+    ],
+    '/drones-y-makers' => [
+        'title' => 'Drones y makers',
+        'description' => 'Drones, impresión 3D, robótica programable y herramientas para explorar, crear y experimentar.',
+    ],
+];
+
+if ($path === '/ia-robotica') {
+    View::render('pages/ia-robotica');
+    exit;
+}
+
+if ($path === '/hogar-activo') {
+    View::render('pages/hogar-activo');
+    exit;
+}
+
+if ($path === '/robotica-util') {
+    View::render('pages/robotica-util');
+    exit;
+}
+
+if ($path === '/drones-y-makers') {
+    View::render('pages/drones-y-makers');
+    exit;
+}
+
+if (isset($iaRoboticaEntries[$path])) {
+    View::render('pages/ia-robotica-entry', [
+        'entryTitle' => $iaRoboticaEntries[$path]['title'],
+        'entryDescription' => $iaRoboticaEntries[$path]['description'],
+    ]);
     exit;
 }
 /*

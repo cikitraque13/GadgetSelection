@@ -459,3 +459,5 @@
     box-shadow: 0 14px 28px rgba(15,23,42,.12);
     text-decoration: none;
 }
+/* IA y Robotica: reuse GadgetSelection warm cream chip system */
+.landing-scenario.is-neutral[data-world-id='ia-robotica']{--theme-chip-bg:linear-gradient(180deg,rgba(255,243,215,.98) 0%,rgba(236,218,176,.94) 100%);--theme-chip-color:#4f3b1c;--theme-chip-border:rgba(214,182,76,.34);}

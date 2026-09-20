@@ -35,6 +35,13 @@ $slides = [
         'image' => '/public/assets/images/carousel/energia-autonomia.webp',
         'href' => '/energia-autonomia',
     ],
+    [
+        'title' => '',
+        'support' => '',
+        'cta' => 'Descubre',
+        'image' => '/public/assets/images/ia-robotica/hero-home.png',
+        'href' => '/ia-robotica',
+    ],
 ];
 ?>
 
@@ -42,11 +49,15 @@ $slides = [
     <div class="container">
         <div class="carousel-shell" id="homeCarousel">
             <?php foreach ($slides as $index => $slide): ?>
-                <article class="carousel-slide<?= $index === 0 ? ' is-active' : '' ?>" style="background-image: url('<?= htmlspecialchars($slide['image'], ENT_QUOTES, 'UTF-8') ?>');" aria-hidden="<?= $index === 0 ? 'false' : 'true' ?>">
+                <article class="carousel-slide<?= $index === 0 ? ' is-active' : '' ?><?= $slide['href'] === '/ia-robotica' ? ' carousel-slide--ia-robotica' : '' ?>" style="background-image: url('<?= htmlspecialchars($slide['image'], ENT_QUOTES, 'UTF-8') ?>');" aria-hidden="<?= $index === 0 ? 'false' : 'true' ?>">
                     <div class="carousel-overlay"></div>
                     <div class="carousel-content">
-                        <h2><?= $slide['title'] ?></h2>
-                        <p class="carousel-support"><?= htmlspecialchars($slide['support'], ENT_QUOTES, 'UTF-8') ?></p>
+                        <?php if ($slide['title'] !== ''): ?>
+                            <h2><?= $slide['title'] ?></h2>
+                        <?php endif; ?>
+                        <?php if ($slide['support'] !== ''): ?>
+                            <p class="carousel-support"><?= htmlspecialchars($slide['support'], ENT_QUOTES, 'UTF-8') ?></p>
+                        <?php endif; ?>
                         <a href="<?= htmlspecialchars($slide['href'], ENT_QUOTES, 'UTF-8') ?>" class="carousel-cta">
                             <?= htmlspecialchars($slide['cta'], ENT_QUOTES, 'UTF-8') ?>
                         </a>

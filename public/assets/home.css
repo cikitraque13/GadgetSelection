@@ -1102,3 +1102,49 @@
         max-width:none !important;
     }
 }
+
+/* IA y Robotica - align image-only slide CTA with standard carousel CTA */
+.carousel-slide--ia-robotica .carousel-content{
+    padding-top:220px;
+}
+@media (max-width:1024px){
+    .carousel-slide--ia-robotica .carousel-content{
+        padding-top:190px;
+    }
+}
+@media (max-width:640px){
+    .carousel-slide--ia-robotica .carousel-content{
+        padding-top:128px !important;
+    }
+}
+
+/* IA y Robotica - final CTA placement */
+.carousel-slide--ia-robotica .carousel-content{
+    width:100%;
+    max-width:none;
+    display:flex;
+    align-items:flex-end;
+    padding:0 56px 82px;
+}
+@media (max-width:1024px){
+    .carousel-slide--ia-robotica .carousel-content{
+        padding:0 32px 74px;
+    }
+}
+@media (max-width:640px){
+    .carousel-slide--ia-robotica .carousel-content{
+        max-width:100% !important;
+        padding:0 15px 42px !important;
+    }
+}
+
+/* IA hero luminosity */
+.carousel-slide--ia-robotica{background-size:cover;background-position:center center;background-color:transparent;}
+.carousel-slide--ia-robotica .carousel-overlay{background:linear-gradient(90deg,rgba(0,0,0,.18) 0%,rgba(0,0,0,.08) 38%,rgba(0,0,0,.02) 100%);}
+@media(max-width:640px){.carousel-slide--ia-robotica .carousel-overlay{background:linear-gradient(180deg,rgba(0,0,0,.12) 0%,rgba(0,0,0,.05) 100%) !important;}}
+
+/* IA hero: crop source-side black gutters without altering asset or CTA */
+.carousel-slide--ia-robotica{background-size:110% auto;background-position:center center;background-repeat:no-repeat;}
+
+/* IA hero replacement: use canonical carousel image fit */
+.carousel-slide--ia-robotica{background-size:cover;background-position:center center;background-repeat:no-repeat;}
