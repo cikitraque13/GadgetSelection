@@ -1134,14 +1134,3 @@
     max-height:none !important;
     display:block;
 }
-.ia-robotica-grid .entry-generic-3 .landing-entry-card__badge{
-    padding:6px 11px;
-    font-size:10px;
-}
-@media (max-width:760px){
-    .ia-robotica-grid .entry-generic-3 .landing-entry-card__badge{
-        min-height:24px !important;
-        padding:0 9px !important;
-        font-size:9px !important;
-    }
-}
