@@ -1115,10 +1115,6 @@
     .ia-robotica-grid .landing-entry-card__visual{
         height:auto;
     }
-    .ia-robotica-grid .entry-generic-3 .landing-entry-card__visual{
-        min-height:0 !important;
-        aspect-ratio:16 / 9 !important;
-    }
     .ia-robotica-grid .entry-generic-3 .landing-entry-card__img{
         object-position:right center !important;
     }
