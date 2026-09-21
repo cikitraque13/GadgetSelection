@@ -667,39 +667,6 @@
         grid-template-columns:1fr;
     }
 
-    .carousel-shell{
-        height:390px;
-        border-radius:18px;
-    }
-
-    .carousel-overlay{
-        background:linear-gradient(180deg,rgba(0,0,0,.58) 0%,rgba(0,0,0,.42) 100%);
-    }
-
-    .carousel-content{
-        padding:30px 20px 66px;
-        max-width:100%;
-    }
-
-    .carousel-content h2{
-        font-size:34px;
-    }
-
-    .carousel-support{
-        font-size:16px;
-        max-width:100%;
-    }
-
-    .carousel-cta{
-        min-width:112px;
-        padding:12px 18px;
-    }
-
-    .carousel-dots{
-        left:20px;
-        bottom:16px;
-    }
-
     .resolver-intro h2{
         font-size:28px;
     }
@@ -1132,7 +1099,7 @@
 .carousel-slide--ia-robotica{background-size:contain;background-position:center center;background-repeat:no-repeat;}
 .carousel-slide--ia-robotica .carousel-overlay{background:linear-gradient(90deg,rgba(0,0,0,.18) 0%,rgba(0,0,0,.08) 38%,rgba(0,0,0,.02) 100%);}
 @media(max-width:640px){
-    .carousel-slide--ia-robotica{background-image:url('/public/assets/images/ia-robotica/IA-y-robotica-hero-mobile.jpg') !important;background-size:cover;background-position:center center;}
+    .carousel-slide--ia-robotica{background-image:url('/public/assets/images/ia-robotica/IA-y-robotica-hero-mobile.jpg') !important;background-size:cover;}
     .carousel-slide--ia-robotica .carousel-content{
         width:100%;
         max-width:none !important;
