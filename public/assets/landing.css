@@ -1119,18 +1119,3 @@
 
 /* IA cream capsules */
 .ia-robotica-grid .landing-entry-card__badge{background:linear-gradient(180deg,rgba(255,243,215,.98) 0%,rgba(236,218,176,.94) 100%);color:#4f3b1c;border:1px solid rgba(214,182,76,.34);}
-
-/* Drones y makers: preserve the full natural image; smaller capsule only */
-.ia-robotica-grid .entry-generic-3 .landing-entry-card__visual{
-    height:auto !important;
-    min-height:0 !important;
-    max-height:none !important;
-    aspect-ratio:auto !important;
-}
-.ia-robotica-grid .entry-generic-3 .landing-entry-card__img{
-    width:100% !important;
-    height:auto !important;
-    min-height:0 !important;
-    max-height:none !important;
-    display:block;
-}

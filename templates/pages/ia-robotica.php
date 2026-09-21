@@ -41,6 +41,7 @@
                     <div class="landing-entry-card__visual">
                         <img class="landing-entry-card__img" src="/public/assets/images/ia-robotica/drones-y-makers.png" alt="Drones y makers" loading="lazy">
                         <div class="landing-entry-card__visual-overlay"></div>
+                        <div class="landing-entry-card__badge">Drones y makers</div>
                     </div>
                     <div class="landing-entry-card__body">
                         <h3>Drones y makers</h3>
