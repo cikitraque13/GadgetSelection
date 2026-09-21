@@ -39,7 +39,7 @@ $slides = [
         'title' => '',
         'support' => '',
         'cta' => 'Descubre',
-        'image' => '/public/assets/images/ia-robotica/hero-home.png',
+        'image' => '/public/assets/images/ia-robotica/IA-y-robotica-hero.jpg',
         'href' => '/ia-robotica',
     ],
 ];
