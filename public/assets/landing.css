@@ -1116,7 +1116,7 @@
         height:auto;
     }
     .ia-robotica-grid .entry-generic-3 .landing-entry-card__img{
-        object-position:right center;
+        object-position:right center !important;
     }
 }
 
