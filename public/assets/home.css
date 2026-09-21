@@ -1132,7 +1132,13 @@
 .carousel-slide--ia-robotica{background-size:contain;background-position:center center;background-repeat:no-repeat;}
 .carousel-slide--ia-robotica .carousel-overlay{background:linear-gradient(90deg,rgba(0,0,0,.18) 0%,rgba(0,0,0,.08) 38%,rgba(0,0,0,.02) 100%);}
 @media(max-width:640px){
-    .carousel-slide--ia-robotica{background-size:cover;background-position:center center;}
+    .carousel-slide--ia-robotica{background-size:cover;background-position:20% center;}
+    .carousel-slide--ia-robotica .carousel-content{
+        width:100%;
+        max-width:none !important;
+        display:flex;
+        align-items:flex-end;
+    }
     .carousel-slide--ia-robotica .carousel-overlay{background:linear-gradient(180deg,rgba(0,0,0,.12) 0%,rgba(0,0,0,.05) 100%) !important;}
 }
 
