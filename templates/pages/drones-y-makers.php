@@ -21,7 +21,7 @@
         </div>
 
         <figure class="need-hero__image">
-            <img src="/public/assets/images/ia-robotica/drones-y-makers.png"
+            <img src="/public/assets/images/ia-robotica/drones-y-makers.jpg"
                  alt="Drones y makers"
                  fetchpriority="high">
         </figure>
