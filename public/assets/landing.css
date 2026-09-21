@@ -1127,13 +1127,19 @@
 .ia-robotica-grid .entry-generic-3 .landing-entry-card__badge{
     left:auto;
     right:16px;
+    top:28px;
+    padding:9px 18px;
+    font-size:.78rem;
 }
 @media (max-width:760px){
     .ia-robotica-grid .entry-generic-3 .landing-entry-card__img{
-        object-position:38% center;
+        object-position:left top;
     }
     .ia-robotica-grid .entry-generic-3 .landing-entry-card__badge{
         left:auto !important;
-        right:12px;
+        right:18px;
+        top:24px;
+        padding:8px 16px;
+        font-size:.76rem;
     }
 }
