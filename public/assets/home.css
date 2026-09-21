@@ -1186,10 +1186,10 @@
 }
 
 
-/* HOTFIX IA visual 01: mobile-only framing; desktop remains canonical */
+/* IA y Robotica: final mobile framing */
 @media (max-width:640px){
     .carousel-slide--ia-robotica{
         background-size:auto 100%;
-        background-position:27% center;
+        background-position:32% center;
     }
 }

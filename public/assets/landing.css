@@ -1120,26 +1120,26 @@
 /* IA cream capsules */
 .ia-robotica-grid .landing-entry-card__badge{background:linear-gradient(180deg,rgba(255,243,215,.98) 0%,rgba(236,218,176,.94) 100%);color:#4f3b1c;border:1px solid rgba(214,182,76,.34);}
 
-/* HOTFIX IA visual 01: keep the Drones y makers subject and badge clear */
+/* Drones y makers: final framing and badge placement */
 .ia-robotica-grid .entry-generic-3 .landing-entry-card__img{
-    object-position:center top;
+    object-position:left top;
 }
 .ia-robotica-grid .entry-generic-3 .landing-entry-card__badge{
     left:auto;
     right:16px;
-    top:28px;
-    padding:9px 18px;
-    font-size:.78rem;
+    top:42px;
+    padding:7px 14px;
+    font-size:.72rem;
 }
 @media (max-width:760px){
     .ia-robotica-grid .entry-generic-3 .landing-entry-card__img{
-        object-position:left top;
+        object-position:left top !important;
     }
     .ia-robotica-grid .entry-generic-3 .landing-entry-card__badge{
         left:auto !important;
-        right:18px;
-        top:24px;
-        padding:8px 16px;
-        font-size:.76rem;
+        right:12px !important;
+        top:38px !important;
+        padding:0 10px !important;
+        font-size:9px !important;
     }
 }
